@@ -8,46 +8,54 @@
 > *"İzm'ler idrakimize giydirilen deli gömlekleri. İtibari, samimi olmayan tabular. Kollarımızı bağlayan, bizi birbirimize düşman eden mefhumlar. Düşünceye vurulan zincirler."*  
 > — **Cemil Meriç, *Bu Ülke***
 
+> *"Mektep, insanı kendi fıtratına yabancılaştıran, ruhu öldürüp yerine diplomayı ikame eden bir bezirgânlık haline gelmiştir. Hakiki mektep unvan dağıtan değil, hakikate sevdalı şahsiyetler yoğuran ocaktır."*  
+> — **Nurettin Topçu, *Türkiye'nin Maarif Davası***
+
 ---
 
-## 📑 İçindekiler
+## 📑 Genişletilmiş İçindekiler
 
 - [Mesele: Mabedin Çöküşü ve Kurumsallaşan Zihinsel Esaret](#mesele-mabedin-çöküşü-ve-kurumsallaşan-zihinsel-esaret)
-- [I. Teslimiyet Senedi Olarak Diploma](#i-teslimiyet-senedi-olarak-diploma)
+- [I. Teslimiyet Senedi Olarak Diploma: İtaatin Belgesi](#i-teslimiyet-senedi-olarak-diploma-itaatin-belgesi)
 - [II. Kürsü Derebeyliği ve Hakikatin Maaşa İpoteklenmesi](#ii-kürsü-derebeyliği-ve-hakikatin-maaşa-ipoteklenmesi)
 - [III. Uysal Bedenler İmalatı: Sınav Ritüeli, Not Terörü ve Panoptikon](#iii-uysal-bedenler-imalatı-sınav-ritüeli-not-terörü-ve-panoptikon)
-- [IV. Erginleşememe Prangası ve Fabrika Tipi Standartlaştırma](#iv-erginleşememe-prangası-ve-fabrika-tipi-standartlaştırma)
-- [V. Simgesel Şiddet ve Tersine Doğal Seçilim: Kakistokrasi Sarmalı](#v-simgesel-şiddet-ve-tersine-doğal-seçilim-kakistokrasi-sarmalı)
-- [VI. Emek Gasbı ve Asistan Sömürüsü: Bilginin Zoraki Mülkiyeti](#vi-emek-gasbı-ve-asistan-sömürüsü-bilginin-zoraki-mülkiyeti)
-- [VII. Sosyal Tahliye Vanaları: Öfkenin Sönümlenmesi ve Sahte Çıkışlar](#vii-sosyal-tahliye-vanaları-öfkenin-sönümlenmesi-ve-sahte-çıkışlar)
-- [VIII. Deli Gömleğini Parçalamak: İcazetsiz Üretim ve Yeni-Yakalı Duruş](#viii-deli-gömleğini-parçalamak-icazetsiz-üretim-ve-yeni-yakalı-duruş)
-- [IX. Dijital Agora & Açık Kaynak: Bilginin Demokratikleşmesi ve Yapay Zekâ](#ix-dijital-agora--açık-kaynak-bilginin-demokratikleşmesi-ve-yapay-zekâ)
-- [X. Özgür Zihnin Yol Haritası: 10 Temel İlke](#x-özgür-zihnin-yol-haritası-10-temel-ilke)
-- [XI. Kavramsal Karşılaştırma Matrisi](#xi-kavramsal-karşılaştırma-matrisi)
-- [XII. Felsefi ve Sosyolojik Literatür Kaynakçası](#xii-felsefi-ve-sosyolojik-literatür-kaynakçası)
+- [IV. Feynman'ın Aynası: Ezberleyen Fakat Anlamayan Kargo Kültü Bilimi](#iv-feynmanın-aynası-ezberleyen-fakat-anlamayan-kargo-kültü-bilimi)
+- [V. Erginleşememe Prangası ve Fabrika Tipi Standartlaştırma](#v-erginleşememe-prangası-ve-fabrika-tipi-standartlaştırma)
+- [VI. Simgesel Şiddet ve Tersine Doğal Seçilim: Kakistokrasi Sarmalı](#vi-simgesel-şiddet-ve-tersine-doğal-seçilim-kakistokrasi-sarmalı)
+- [VII. Emek Gasbı ve Asistan Sömürüsü: Bilginin Zoraki Mülkiyeti](#vii-emek-gasbı-ve-asistan-sömürüsü-bilginin-zoraki-mülkiyeti)
+- [VIII. Epistemolojik Körlük: Metodoloji Putu ve Feyerabend'ın İtirazı](#viii-epistemolojik-körlük-metodoloji-putu-ve-feyerabendın-itirazı)
+- [IX. "Derisi Masada Olmayanlar": Riski Başkasına Yıkan Akademik Parazitlik](#ix-derisi-masada-olmayanlar-riski-başkasına-yıkan-akademik-parazitlik)
+- [X. Düşüncesizliğin Banalitesi: Bürokratik Memurlaşma ve Vicdan Felci](#x-düşüncesizliğin-banalitesi-bürokratik-memurlaşma-ve-vicdan-felci)
+- [XI. Sosyal Tahliye Vanaları: Öfkenin Sönümlenmesi ve Sahte Çıkışlar](#xi-sosyal-tahliye-vanaları-öfkenin-sönümlenmesi-ve-sahte-çıkışlar)
+- [XII. Deli Gömleğini Parçalamak: İcazetsiz Üretim ve Yeni-Yakalı Duruş](#xii-deli-gömleğini-parçalamak-icazetsiz-üretim-ve-yeni-yakalı-duruş)
+- [XIII. Otonom Polimatlar Panteonu: Amfisiz Dehaların Mirası](#xiii-otonom-polimatlar-panteonu-amfisiz-dehaların-mirası)
+- [XIV. Dijital Agora & Açık Kaynak: Bilginin Demokratikleşmesi ve Yapay Zekâ](#xiv-dijital-agora--açık-kaynak-bilginin-demokratikleşmesi-ve-yapay-zekâ)
+- [XV. Özgür Zihnin Yol Haritası: 12 Sarsılmaz İlke](#xv-özgür-zihnin-yol-haritası-12-sarsılmaz-ilke)
+- [XVI. Kavramsal Karşılaştırma Matrisi](#xvi-kavramsal-karşılaştırma-matrisi)
+- [XVII. Felsefi, Sosyolojik ve Bilimsel Literatür Kaynakçası](#xvii-felsefi-sosyolojik-ve-bilimsel-literatür-kaynakçası)
 
 ---
 
 ```mermaid
 flowchart TD
     subgraph Geleneksel Akademi ["🏰 Geleneksel Bürokrasi & Kast Düzeni"]
-        A[Merak & Tecessüs ile Giren Genç Zihin] --> B[Sararmış Ders Notları & Ezber Ritüeli]
-        B --> C[Keyfi Notlandırma & Not Terörü]
+        A[Merak & Tecessüs ile Giren Genç Zihin] --> B[Sararmış Notlar & Kargo Kültü Ezberi]
+        B --> C[Keyfi Notlandırma & Disiplinci Sınav Ayini]
         C --> D{Kritik Kavşak}
-        D -- "İtiraz & Sorgulama" --> E[Mobbing, Yalıtım, Tersine Doğal Seçilim]
+        D -- "İtiraz & Bağımsız Düşünce" --> E[Mobbing, Yalıtım, Tersine Doğal Seçilim]
         D -- "Uysallaşma & Biat" --> F[Teslimiyet Senedi: Diploma / Memuriyet]
         E --> G[Beyin Göçü / Sessiz Terk / Tükenmişlik]
     end
 
     subgraph Otonom Üretim ["⚡ İcazetsiz Üretim & Dijital Agora"]
-        H[Serazat Merak & İnşa Arzusu] --> I[Açık Kaynak, Global Literatür, LLM & Yapay Zekâ]
+        H[Serazat Tecessüs & İnşa İradesi] --> I[Global Açık Arşivler, arXiv, LLM & Yapay Zekâ]
         I --> J[Doğrudan Üretim: Kod, Donanım, Makale, Prototip]
-        J --> K[Akran Değerlendirmesi & Piyasa/Topluluk Doğrulaması]
-        K --> L[Otonom Entelektüel & Üretken Hür Zihin]
+        J --> K[Skin in the Game: Gerçek Dünya Testi & Akran Denetimi]
+        K --> L[Otonom Polimat & İcazetsiz Hür Zihin]
     end
 
-    style Geleneksel Akademi fill:#1f1d24,stroke:#ef4444,stroke-width:2px,color:#f87171
-    style Otonom Üretim fill:#11221b,stroke:#10b981,stroke-width:2px,color:#34d399
+    style Geleneksel Akademi fill:#1a161f,stroke:#ef4444,stroke-width:2px,color:#fca5a5
+    style Otonom Üretim fill:#0e2019,stroke:#10b981,stroke-width:2px,color:#6ee7b7
 ```
 
 ---
@@ -56,7 +64,10 @@ flowchart TD
 
 İnsan idrakinin en saf, en ele avuca sığmaz itici gücü **tecessüstür**; yani hakikati arama iştiyakı, doymak bilmez bir anlama, sökme ve sıfırdan inşa etme arzusu. Bu arzu doğası gereği serazattır; sınır tanımaz, hiçbir kalıba sığmaz, ne bir binanın harcına hapsedilebilir ne de vizelerin ve finallerin dar takvimine. 
 
-Oysa modern dünya, hakikatin bu vahşi ve kuralsız nehrini ıslah etmek, onu ehlileştirip devlet aygıtının ve sermayenin dişlilerine uyumlu hale getirmek için adına "akademi" denen devasa mabetler inşa etmiştir.
+Oysa modern dünya, hakikatin bu vahşi ve kuralsız nehrini ıslah etmek, onu ehlileştirip devlet aygıtının ve sermayenin dişlilerine uyumlu hale getirmek için adına "akademi" denen devasa mabetler inşa etmiştir. Karl Jaspers'ın *Üniversite İdesi* eserinde uyardığı gibi:
+
+> *"Üniversite, hakikatin koşulsuz arandığı bir cemaat olmaktan çıkıp devletin memur ihtiyacını karşılayan bir meslek okuluna veya bürokratik bir aygıta dönüştüğünde kendi ruhunu katleder. Hakikat arayışı kurumsal mekanizmaların emrine verilemez."*  
+> — **Karl Jaspers, *Die Idee der Universität***
 
 Cemil Meriç, zihni donduran ithal fikir şablonlarına *"idrake giydirilen deli gömlekleri"* teşhisini koyarken meseleyi salt ideolojik bir körleşme olarak ele alıyordu. Oysa bugün o gömlek, soyut mefhumların sınırlarını aşmış; amfileri, sararmış ders notları, kürsü derebeylikleri ve bürokratik ceza zırhlarıyla **bizatihi modern üniversitenin fiziksel ve kurumsal mimarisine dönüşmüştür.**
 
@@ -64,7 +75,7 @@ Bir alana derin bir merakla, üretme ateşiyle giren bir genç dimağ; üniversi
 
 ---
 
-### I. Teslimiyet Senedi Olarak Diploma
+### I. Teslimiyet Senedi Olarak Diploma: İtaatin Belgesi
 
 Toplumsal yanılsama, üniversite diplomasını bir bilgi, liyakat ve erginleşme ehliyeti zanneder. Oysa üniversite fabrikasının banttan indirdiği ürün bilgi değil, uysallaştırılmış memurdur.
 
@@ -80,6 +91,11 @@ Altına atılan rektör ve dekan imzalarının arkasındaki gizli metin şudur: 
 
 > *"Okullaşmış toplumda bilgi bir meta, diploma ise o metanın tekelini elinde tutan loncanın şantaj aracıdır. İnsanlar öğrenme yetilerini okullara devrettikçe kendi meraklarına yabancılaşır ve kurumların sunduğu paket programlar dışında hiçbir şey yapamayacaklarına inandırılırlar."*  
 > — **Ivan Illich, *Okulsuz Toplum***
+
+İsmet Özel ise modern diploma fetişizmini ve kurumsal yabancılaşmayı şu keskin ifadelerle teşhis eder:
+
+> *"Diploma, modern insanın efendisine gösterdiği kölelik beratıdır. İnsanlar bir kâğıt parçası uğruna haysiyetlerini, meraklarını ve şahsiyetlerini amfilerin kapısında bırakırlar."*  
+> — **İsmet Özel, *Üç Mesele***
 
 ---
 
@@ -120,7 +136,21 @@ Sınavlar; öğrencinin idrakini terbiye etmek, ona haddini bildirmek ve itaati 
 
 ---
 
-### IV. Erginleşememe Prangası ve Fabrika Tipi Standartlaştırma
+### IV. Feynman'ın Aynası: Ezberleyen Fakat Anlamayan Kargo Kültü Bilimi
+
+Nobel Fizik Ödüllü Richard Feynman, Brezilya üniversitelerinde verdiği dersler sırasında öğrencilerin ve profesörlerin durumunu incelerken tüm ezberci akademi dünyasını sarsan şu tarihî teşhisi koyar:
+
+> *"Öğrencilerin her şeyi harfiyen ezberlediğini gördüm. Kitaptaki formülleri ezbere okuyor, sınav sorularına kitaptaki cümlelerle kusursuz yanıtlar veriyorlardı. Ama onlara doğadan somut tek bir örnek sorduğumda, ışığın bir aynaya veya suya çarptığında ne yaptığını sorduğumda tam bir sessizlik oluyordu! Hiçbir şey anlamamışlardı. Sadece kelimeleri ve sembolleri papağan gibi ezberlemişlerdi. Bu bilim değil; bilimin taklididir, bir kargo kültüdür."*  
+> — **Richard Feynman, *Surely You're Joking, Mr. Feynman!***
+
+Modern üniversite, kavramların özünü ve inşa etme kudretini kavrayan zihinler değil; soruların formatını ezberleyen "optik form memurları" yetiştirir. Ali Şeriati bu duruma "öğretilmiş cehalet" adını verir:
+
+> *"Öğretilmiş cehalet, bilmeyen insanın cehaletinden bin kat daha tehlikelidir. Çünkü diplomalı cahil, bildiğini zannettiği için hakikati aramayı bütünüyle bırakmıştır."*  
+> — **Ali Şeriati, *Kendini Devrimci Yetiştirmek***
+
+---
+
+### V. Erginleşememe Prangası ve Fabrika Tipi Standartlaştırma
 
 Immanuel Kant, aydınlanmayı bir hürriyet manifestosu olarak sunarken, insanın kendi aklını başkalarının rehberliği olmadan kullanamayışını "ergin olmama hali" olarak tarif ediyordu:
 
@@ -132,11 +162,16 @@ Oysa üniversite, öğrenciye sistematik olarak şunu fısıldar: *"Sen tek baş
 > *"Mevcut yükseköğretim kurumları dehanın değil, faydalı ve itaatkâr memurların yetiştirilmesini hedefler. Eğitimin yaygınlaştırılması ve standartlaştırılması el ele gider; amaç, tek tek bireyleri tek tip tornadan geçirerek devlet çarkının uysal birer dişlisi haline getirmektir."*  
 > — **Friedrich Nietzsche, *Eğitim Kurumlarımızın Geleceği Üzerine***
 
+Bertrand Russell ise modern eğitimin nasıl itaate programlandığını şu sözlerle deşifre eder:
+
+> *"Eğitim sistemi bilgi aşılamak için değil, otoriteye itaat edecek ve kurulu nizamı asla sorgulamayacak uysal kitleler imal etmek için dizayn edilmiştir."*  
+> — **Bertrand Russell, *Education and the Social Order***
+
 Antonio Gramsci'nin "statüko bekçisi geleneksel aydın" dediği figür, üniversite amfilerinde her dönem yeniden üretilir. Sistem, düzeni tehdit edecek organik ve hür düşünceyi değil, mevcut yapıyı meşrulaştıracak memur kafasını ödüllendirir.
 
 ---
 
-### V. Simgesel Şiddet ve Tersine Doğal Seçilim: Kakistokrasi Sarmalı
+### VI. Simgesel Şiddet ve Tersine Doğal Seçilim: Kakistokrasi Sarmalı
 
 Pierre Bourdieu, akademinin liyakat odaklı bir masaldan ibaret olduğunu, gerçekte kapalı bir kast sistemi olarak işlediğini gösterir:
 
@@ -170,7 +205,7 @@ Vasat akademisyen, kürsüye kendisinden daha zeki, daha üretken tek bir genci 
 
 ---
 
-### VI. Emek Gasbı ve Asistan Sömürüsü: Bilginin Zoraki Mülkiyeti
+### VII. Emek Gasbı ve Asistan Sömürüsü: Bilginin Zoraki Mülkiyeti
 
 Karl Marx'ın 1844 Elyazmaları'nda bahsettiği emek yabancılaşması, akademide araştırma görevlisinin, asistanın ve lisansüstü öğrencisinin sırtında somutlaşır.
 
@@ -180,7 +215,43 @@ Kürsü sahibi tek bir satırını dahi okumadığı makalenin ilk veya sorumlu 
 
 ---
 
-### VII. Sosyal Tahliye Vanaları: Öfkenin Sönümlenmesi ve Sahte Çıkışlar
+### VIII. Epistemolojik Körlük: Metodoloji Putu ve Feyerabend'ın İtirazı
+
+Akademi, araştırmacının önüne "kabul edilebilir tek yöntem" olarak katı, ruhsuz ve bürokratik bir metodoloji şablonu koyar. Bu şablon dışına çıkan her özgün fikir "bilim dışı" ilan edilir. Bilim felsefecisi Paul Feyerabend, bu metodoloji putunu *Yönteme Karşı* eserinde paramparça eder:
+
+> *"Bilim tarihi göstermektedir ki, en büyük keşifler yerleşik yöntem kuralları çiğnendiğinde yapılmıştır. Bilime tek bir yöntem dayatmak, aklı hadım etmektir. Tek geçerli ilke vardır: Her şey uyar (Anything goes)!"*  
+> — **Paul Feyerabend, *Against Method***
+
+Gaston Bachelard ise akademik alışkanlıkların nasıl birer zihinsel duvara dönüştüğünü şöyle özetler:
+
+> *"Bilimsel zihnin oluşumunda en büyük engel bilgisizlik değil; yerleşik ve kutsanmış eski bilgilerdir. Hakiki ilim, geçmişin tabularını yıkma cesaretidir."*  
+> — **Gaston Bachelard, *Bilimsel Zihnin Oluşumu***
+
+---
+
+### IX. "Derisi Masada Olmayanlar": Riski Başkasına Yıkan Akademik Parazitlik
+
+Nassim Nicholas Taleb, *Skin in the Game (Derini Ortaya Koymak)* ve *Antifragile* eserlerinde modern akademisyenin en can alıcı zafiyetini yüzüne vurur:
+
+> *"Bir teoriyi ortaya atan ama o teorinin çöküşünden hiçbir bedel ödemeyen, risk almayan (no skin in the game) akademisyenin fikirleri değersizdir. Pratikte hiçbir sistem inşa etmemiş, piyasada iflas etme riski almamış, laboratuvar tezgâhında donanım yakmamış unvan sahipleri; bedelini başkalarının ödediği sahte bir bilgelik satarlar."*  
+> — **Nassim Nicholas Taleb, *Skin in the Game***
+
+Kürsü sahibi, makalesinde savunduğu hatalı ekonomi modelinin veya verimsiz algoritmanın faturasını asla ödemez; faturayı işsiz kalan mezunlar ve kaynakları heba olan toplum öder.
+
+---
+
+### X. Düşüncesizliğin Banalitesi: Bürokratik Memurlaşma ve Vicdan Felci
+
+Hannah Arendt'in Eichmann davasında analiz ettiği *"Kötülüğün Banalitesi"*, amfilerde ve dekanlık koridorlarında "Düşüncesizliğin Banalitesi" olarak tezahür eder:
+
+> *"Kötülük her zaman canavarca bir niyetten doğmaz; çoğu zaman sadece kurallara harfiyen uyan, kendi aklıyla düşünmeyi ve vicdani sorgulamayı bırakmış sıradan bürokratların elinde sıradanlaşır."*  
+> — **Hannah Arendt, *Eichmann Kudüs'te: Kötülüğün Sıradanlığı***
+
+Öğrenciye sıfır veren, baremsiz sınavlarla gençlerin geleceğini karartan, mobbing uygulayan öğretim görevlisi kendini savunurken *"Ben sadece yönetmeliği uyguluyorum"* der. Düşünce ve vicdan askıya alınmış, rektörlük kararnamesi ahlakın yerine ikame edilmiştir.
+
+---
+
+### XI. Sosyal Tahliye Vanaları: Öfkenin Sönümlenmesi ve Sahte Çıkışlar
 
 Bu denli katı bir güç asimetrisi, baremsiz sınavlar, keyfi notlandırma ve mobbing altında normal şartlarda kampüslerin her dönem kitlesel boykotlarla sarsılması gerekirdi. Peki Türk üniversitelerinde neden yaprak dahi kımıldamaz?
 
@@ -204,7 +275,7 @@ Bu içselleştirilmiş çaresizliğin üzerine inşa edilen **4 Büyük Tahliye 
 
 ---
 
-### VIII. Deli Gömleğini Parçalamak: İcazetsiz Üretim ve Yeni-Yakalı Duruş
+### XII. Deli Gömleğini Parçalamak: İcazetsiz Üretim ve Yeni-Yakalı Duruş
 
 Hakiki ilim, hiçbir zaman amfi derebeylerinin inayetine veya unvan tüccarlarının icazetine muhtaç olmamıştır. Jacques Derrida'nın "Koşulsuz Üniversite" ütopyasında tarif ettiği bağımsız hakikat arayışı, amfilerin mermer duvarlarına kurban edilemez:
 
@@ -225,7 +296,20 @@ Aaron Swartz, bilginin duvarlar arkasına hapsedilmesine canı pahasına direnir
 
 ---
 
-### IX. Dijital Agora & Açık Kaynak: Bilginin Demokratikleşmesi ve Yapay Zekâ
+### XIII. Otonom Polimatlar Panteonu: Amfisiz Dehaların Mirası
+
+İnsanlık tarihinin en büyük sıçramaları unvan tüccarlarının amfilerinde değil; amfilerin dışındaki hür atölyelerde gerçekleşmiştir:
+
+- **Nikola Tesla:** Üniversiteyi terk etti, amfilerin "imkânsız" dediği alternatif akımı (AC), indüksiyon motorunu ve kablosuz iletişimi tek başına icat etti.
+  > *"Zihin tecrit içinde keskinleşir. Yaratıcı olmak için yalnız kalmak gerekir. Fikirler dış baskılardan ve kalıplardan uzak kaldığında doğar."* — **Nikola Tesla**
+- **Leonardo da Vinci:** Üniversite eğitimi almamış bir *"uomo senza lettere"* (harfsiz adam) idi. Latince bilmediği için dönemin akademisyenleri tarafından küçümsendi ama anatomi, mühendislik ve sanatta çağının fersah fersah ötesine geçti.
+- **Srinivasa Ramanujan:** Hiçbir formel akademik unvanı olmadan, Cambridge kütüphanelerindeki profesörlerin yüzyılda kanıtlayamadığı binlerce matematik te梳mini tek başına bir deftere yazdı.
+- **Steve Wozniak & Steve Jobs:** Garajda Apple I ve II'yi lehimleyerek merkezi mainframe tekelini yıktılar.
+- **Linus Torvalds:** Üniversite kürsülerinin kapalı işletim sistemlerine karşı Linux çekirdeğini oturma odasında yazarak açık kaynak devrimini başlattı.
+
+---
+
+### XIV. Dijital Agora & Açık Kaynak: Bilginin Demokratikleşmesi ve Yapay Zekâ
 
 21. yüzyıl, amfilerin kapalı kapılarını ve kürsü tekellerini geri dönülmez biçimde yıkmıştır. Bugün bir gencin ihtiyaç duyduğu bilgi:
 * MİT, Stanford, Berkeley'in açık ders arşivlerinde (OpenCourseWare),
@@ -239,22 +323,24 @@ Akademinin "sen yetersizsin" diyerek kapı dışarı ettiği zihinler; Hugging F
 
 ---
 
-### X. Özgür Zihnin Yol Haritası: 10 Temel İlke
+### XV. Özgür Zihnin Yol Haritası: 12 Sarsılmaz İlke
 
 1. **İcazet Arama Hastalığından Kurtul:** Merak ettiğin alanda üretmek için bir profesörün onayına, bir unvanın himayesine ihtiyacın yok.
 2. **Kodu ve Eseri Konuştur:** Diplomaların süslü yalanları karşısında en dürüst hakem çalışan açık kaynak kod, yayınlanmış açık makale ve somut üründür.
-3. **Amfiyi Araçsallaştır, Kutsallaştırma:** Üniversitedeysen orayı sadece bir altyapı istasyonu (kütüphane, cihaz, donanım, network) olarak gör; zihnini asla rektörlük nizamına teslim etme.
-4. **Sararmış Notları Yak, Güncel Literatüre Dal:** 20 yıl öncesinin vize notlarıyla değil; dünyanın en güncel açık yayınları, teknik dokümantasyonları ve global repolarıyla beslen.
-5. **Kendi Laboratuvarını Kendi Tezgâhında Kur:** Masaüstün, GitHub repon ve yerel yapay zekâ çalışma alanın senin en büyük enstitündür.
-6. **Emek Gasbına Karşı Açık Lisans Kalkanı Kullan:** Ürettiğin fikri ve kodu açık kaynak lisanslarıyla (MIT, GPL, CC) mühürle; kürsü derebeylerinin zoraki yazarlık tuzağına düşme.
-7. **Akran Öğrenimini ve Dijital Agoraları Esas Al:** Hiyerarşik hoca-öğrenci asimetrisi yerine; global topluluklarla, akranlarınla ve yapay zekâ asistanlarınla yatay düzlemde öğren.
-8. **Not Terörüne Karşı Zihinsel Bağışıklık Kazan:** Harf notları senin zekânın değil, itaat derecenin ölçüsüdür; karneleri ruhuna kazıma.
-9. **Polimat ve Otonom Ol:** Sadece tek bir dar disiplinin uzmanı değil; donanımı yazılımla, felsefeyi matematikle, tasarımı mühendislikle harmanlayan çok yönlü bir inşa edici ol.
-10. **Deli Gömleğini Yırt:** Zihnini rütbelere, unvanlara, kalıplara ve bürokratik tabulara teslim etme. Düşün, inşa et, paylaş ve özgür kal.
+3. **Derini Masaya Koy (Skin in the Game):** Sadece lafazanlık değil; risk alan, inşa eden, test eden ve bedelini ödeyen sahici bir üretici ol.
+4. **Amfiyi Araçsallaştır, Kutsallaştırma:** Üniversitedeysen orayı sadece bir altyapı istasyonu (kütüphane, cihaz, donanım, network) olarak gör; zihnini asla rektörlük nizamına teslim etme.
+5. **Sararmış Notları Yak, Güncel Literatüre Dal:** 20 yıl öncesinin vize notlarıyla değil; dünyanın en güncel açık yayınları, teknik dokümantasyonları ve global repolarıyla beslen.
+6. **Kendi Laboratuvarını Kendi Tezgâhında Kur:** Masaüstün, GitHub repon ve yerel yapay zekâ çalışma alanın senin en büyük enstitündür.
+7. **Kargo Kültü Ezberini Reddet:** Richard Feynman gibi, anlamadığın formülü papağan gibi tekrarlama; doğayı ve sistemi bizzat deneysel olarak sök ve anla.
+8. **Emek Gasbına Karşı Açık Lisans Kalkanı Kullan:** Ürettiğin fikri ve kodu açık kaynak lisanslarıyla (MIT, GPL, CC) mühürle; kürsü derebeylerinin zoraki yazarlık tuzağına düşme.
+9. **Akran Öğrenimini ve Dijital Agoraları Esas Al:** Hiyerarşik hoca-öğrenci asimetrisi yerine; global topluluklarla, akranlarınla ve yapay zekâ asistanlarınla yatay düzlemde öğren.
+10. **Not Terörüne Karşı Zihinsel Bağışıklık Kazan:** Harf notları senin zekânın değil, itaat derecenin ölçüsüdür; karneleri ruhuna kazıma.
+11. **Polimat ve Otonom Ol:** Sadece tek bir dar disiplinin uzmanı değil; donanımı yazılımla, felsefeyi matematikle, tasarımı mühendislikle harmanlayan çok yönlü bir inşa edici ol.
+12. **Deli Gömleğini Yırt:** Zihnini rütbelere, unvanlara, kalıplara ve bürokratik tabulara teslim etme. Düşün, inşa et, paylaş ve özgür kal.
 
 ---
 
-### XI. Kavramsal Karşılaştırma Matrisi
+### XVI. Kavramsal Karşılaştırma Matrisi
 
 | Kriter | 🏰 Geleneksel Bürokrasi Akademisi | ⚡ Otonom & Açık Kaynak Üretim |
 | :--- | :--- | :--- |
@@ -263,16 +349,27 @@ Akademinin "sen yetersizsin" diyerek kapı dışarı ettiği zihinler; Hugging F
 | **Hiyerarşi & İletişim** | Derebeylik tipi monolog, odasına girerken titrenen unvanlı hoca | Eşitler arası açık tartışma, PR review, topluluk diyaloğu |
 | **Mülkiyet & Haklar** | Asistanın emeğinin zoraki yazarlıkla gasbedilmesi | Açık kaynak lisansları (MIT/Apache/CC), yazar hakları |
 | **Hata & Şüphe Kültürü** | Şüphe suç sayılır, itiraz dersten kalma sebebidir | Hata keşif fırsatıdır, `issue` ve `bug fix` ile gelişir |
+| **Risk & Mesuliyet** | Skin in the game yok; teorik lafazanlık, sıfır bedel | Derisi masada; çalışan sistem, doğrudan doğrulama |
 | **Çıktı & Hedef** | Uysal memur, tescillenmiş diploma, sisteme entegrasyon | Otonom zihin, özgür üretim, hakiki bilimsel ve teknik katma değer |
 
 ---
 
-### XII. Felsefi ve Sosyolojik Literatür Kaynakçası
+### XVII. Felsefi, Sosyolojik ve Bilimsel Literatür Kaynakçası
 
-- **Cemil Meriç** — *Bu Ülke*, İletişim Yayınları.
+- **Cemil Meriç** — *Bu Ülke*, İletişim Yayınları / *Umrandan Uygarlığa*.
+- **Nurettin Topçu** — *Türkiye'nin Maarif Davası*, Dergâh Yayınları.
+- **İsmet Özel** — *Üç Mesele (Teknik, Medeniyet, Yabancılaşma)*, Tiyo Yayınevi.
+- **Ali Şeriati** — *Kendini Devrimci Yetiştirmek & Medeniyet ve Modernizm*, Fecr Yayınevi.
+- **Richard Feynman** — *Surely You're Joking, Mr. Feynman! (Emin Misiniz Bay Feynman?)*, Alfa Yayınları.
 - **Arthur Schopenhauer** — *Üniversite Felsefesi Üzerine (Parerga ve Paralipomena)*, Say Yayınları.
 - **Michel Foucault** — *Hapishanenin Doğuşu: Gözetim ve Ceza*, İmge Kitabevi.
 - **Pierre Bourdieu** — *Homo Academicus*, Stanford University Press / *Pratik Nedenler*.
+- **Paul Feyerabend** — *Against Method (Yönteme Karşı)*, Ayrıntı Yayınları.
+- **Nassim Nicholas Taleb** — *Skin in the Game (Derini Ortaya Koymak)* & *Antifragile*, Varlık Yayınları.
+- **Hannah Arendt** — *Eichmann Kudüs'te: Kötülüğün Sıradanlığı*, Metis Yayınları.
+- **Karl Jaspers** — *Die Idee der Universität (Üniversite İdesi)*.
+- **Gaston Bachelard** — *Bilimsel Zihnin Oluşumu*, İthaki Yayınları.
+- **Bertrand Russell** — *Education and the Social Order (Eğitim ve Toplumsal Düzen)*.
 - **Ivan Illich** — *Okulsuz Toplum (Deschooling Society)*, Şule Yayınları.
 - **Paulo Freire** — *Ezilenlerin Pedagojisi*, Ayrıntı Yayınları.
 - **Immanuel Kant** — *Aydınlanma Nedir? Sorusuna Yanıt*, Felsefe Yazıları.

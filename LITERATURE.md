@@ -1,63 +1,87 @@
-# Felsefi ve Kuramsal Temeller: Düşünce Atlası
+# Felsefi, Sosyolojik ve Bilimsel Düşünce Atlası
 
-Bu metin, **"İdrakin Deli Gömleği"** manifestosunun dayandığı düşünürlerin kavramsal çerçevesini, metin içi bağlamlarını ve felsefi arka planlarını ayrıntılandırmak amacıyla hazırlanmıştır.
+Bu metin, **"İdrakin Deli Gömleği"** manifestosunun dayandığı düşünürlerin, bilim insanlarının ve felsefecilerin kavramsal çerçevesini ve alıntı analizlerini sunar.
 
 ---
 
 ## 1. Cemil Meriç: İdrakin Deli Gömlekleri ve Müstağrip Bürokrasi
-- **Ana Eser:** *Bu Ülke*, *Umrandan Uygarlığa*
-- **Kavramsal Çerçeve:** Cemil Meriç'e göre ithal edilen hazır kalıplar ve dogmalar, insan tecessüsünü felç eden birer deli gömleğidir. Entelektüel, kelimeleri rütbelerine göre kabul etmeyen; unvanların arkasındaki hakikati sorgulayan hür zihindir.
-- **Manifestoya İzdüşümü:** Üniversite kürsülerinin kurduğu yapay hiyerarşi ve dogma nizamı, düşünceye giydirilen modern ve kurumsal bir deli gömleğidir.
+- **Eserler:** *Bu Ülke*, *Umrandan Uygarlığa*, *Kırk Ambar*
+- **Kavram:** Cemil Meriç'e göre ithal hazır kalıplar ve dogmalar zihni felç eden deli gömlekleridir. Rütbelere ve unvanlara göre kabul edilen fikirler hakikatin katilidir.
 
 ---
 
-## 2. Michel Foucault: Panoptikon, Disiplinci İktidar ve Sınav Ritüeli
-- **Ana Eser:** *Surveiller et punir (Hapishanenin Doğuşu)*
-- **Kavramsal Çerçeve:** Foucault; okul, kışla ve hapishanenin aynı mimari ve disiplinci mantıkla işlediğini gösterir. Sınav ritüeli, bireyin bilgi birikimini ölçmekten ziyade; onu sürekli gözetim (*surveillance*), kayıt ve tasnif mekanizmasına hapsederek uysal bir bedene dönüştürme ayinidir.
-- **Manifestoya İzdüşümü:** Vize/final ritüelleri ve notlandırma baremleri, bağımsız zihni terbiye eden ve itaati ödüllendiren disiplinci iktidar aygıtlarıdır.
+## 2. Richard Feynman: Ezbercilik ve Kargo Kültü Bilimi
+- **Eser:** *Surely You're Joking, Mr. Feynman! (Emin Misiniz Bay Feynman?)*
+- **Kavram:** Formülleri ve sembolleri harfiyen ezberleyen ancak tabiatın ve makinelerin işleyişinden tek bir zerre anlamayan akademisyen ve öğrenci tipi "Kargo Kültü" bilimi üretir.
 
 ---
 
-## 3. Pierre Bourdieu: Simgesel Şiddet ve Homo Academicus
-- **Ana Eser:** *Homo Academicus*, *La Reproduction (Yeniden Üretim)*
-- **Kavramsal Çerçeve:** Bourdieu, akademinin meritokratik (liyakat temelli) bir cennet değil; kültürel sermayeyi elinde tutan egemenlerin kendi meşruiyetlerini yeniden ürettikleri kapalı bir kast olduğunu ortaya koyar. Simgesel şiddet sayesinde ezilenler, sistemin adaletsizliğini kendi kişisel yetersizlikleri gibi algılarlar.
-- **Manifestoya İzdüşümü:** Akademik kadro dağıtımları, jüri oyunları ve negatif seleksiyon; simgesel şiddetin ve kast dayanışmasının doğrudan tezahürüdür.
+## 3. Karl Jaspers: Üniversite İdesi ve Ruhun Yitimi
+- **Eser:** *Die Idee der Universität (Üniversite İdesi)*
+- **Kavram:** Üniversite hakikat arayışından kopup devletin bürokratik memur temin merkezine dönüştüğünde kendi varlık meşruiyetini yitirir.
 
 ---
 
-## 4. Ivan Illich: Okulsuz Toplum ve Kurumsal Şantaj
-- **Ana Eser:** *Deschooling Society (Okulsuz Toplum)*
-- **Kavramsal Çerçeve:** Illich, eğitimin kurumsallaşarak metalaştığını savunur. Okul, öğrenmeyi tekeline alarak diploması olmayan bireyi "cahil" ve "geçersiz" ilan eden bir şantaj kurumuna dönüşür.
-- **Manifestoya İzdüşümü:** Diploma, hakiki bilginin değil; kurumsal tekelleşmenin ve teslimiyetin tescilidir.
+## 4. Nassim Nicholas Taleb: Skin in the Game (Derini Ortaya Koymak)
+- **Eserler:** *Skin in the Game*, *Antifragile*
+- **Kavram:** Teoriyi ortaya atan fakat pratikte sıfır risk alan unvan sahipleri; bedelini başkalarının ödediği sahte bilgelikler satarlar. Hakiki ilim, risk alanın ve bizzat inşa edenin tezgâhındadır.
 
 ---
 
-## 5. Arthur Schopenhauer: Üniversite Felsefesi ve Maaşa Bağlı Hakikat
-- **Ana Eser:** *Parerga ve Paralipomena (Üniversite Felsefesi Üzerine)*
-- **Kavramsal Çerçeve:** Schopenhauer, felsefeyi bir devlet memuriyeti olarak icra eden akademisyenleri eleştirir. Maaşını devletten alan ve bakanlık talimatlarına tabi olan bir felsefeci hakikati arayamaz; sadece koltuğunu korur.
-- **Manifestoya İzdüşümü:** Kürsü derebeylikleri ve unvan tüccarları, bilimi ve felsefeyi konfor alanlarının teminatı haline getirmişlerdir.
+## 5. Paul Feyerabend: Yönteme Karşı ve Anarşist Bilgi Kuramı
+- **Eser:** *Against Method (Yönteme Karşı)*
+- **Kavram:** Bilime dayatılan katı ve tek tip metodoloji kuralları dehanın mezarıdır. Büyük keşifler kurallar çiğnendiğinde yapılmıştır: *"Her şey uyar (Anything goes)!"*
 
 ---
 
-## 6. Byung-Chul Han: Psikopolitika ve İçe Patlayan Öfke
-- **Ana Eser:** *Psychopolitik (Psikopolitika: Neoliberalizm ve Yeni İktidar Teknikleri)*
-- **Kavramsal Çerçeve:** Modern iktidar artık bedenleri döverek değil, zihinleri suçluluk duygusuyla yönetir. Birey, yapısal engeller karşısında başarısız olduğunda sisteme isyan etmek yerine kendi yetersizliğine inanır, depresyona girer ve enerjisini içe doğru patlatır.
-- **Manifestoya İzdüşümü:** Öğrencilerin haksız notlandırma ve mobbing karşısında isyan etmek yerine içe kapanması ve sahte kaçış vanalarına (AÖF, af, yatay geçiş) sığınması psikopolitik boyun eğiştir.
+## 6. Michel Foucault: Panoptikon, Disiplinci İktidar ve Sınav Ritüeli
+- **Eser:** *Surveiller et punir (Hapishanenin Doğuşu)*
+- **Kavram:** Sınav ritüeli, bireyin bilgisini ölçmek için değil; onu sürekli gözetim ve hiyerarşik sınıflandırma mekanizmasına hapsederek uysallaştırmak için kurgulanmıştır.
 
 ---
 
-## 7. Aaron Swartz: Gerilla Açık Erişim ve Bilginin Özgürleşmesi
-- **Ana Eser:** *Guerilla Open Access Manifesto (2008)*
-- **Kavramsal Çerçeve:** Swartz, kamu kaynaklarıyla üretilen bilimsel literatürün kurumsal kâr odaklı dergilerin (Elsevier, JSTOR vb.) ve üniversite duvarlarının arkasına kilitlenmesine karşı çıkmıştır. Bilgiyi dijital dünyada özgürleştirmek ahlaki bir ödevdir.
-- **Manifestoya İzdüşümü:** Açık kaynak ekosistemi, arXiv ve dijital agoralar; üniversite kütüphanelerinin ve kürsü tekellerinin kilitlerini kıran otonom cephelerdir.
+## 7. Pierre Bourdieu: Simgesel Şiddet ve Homo Academicus
+- **Eserler:** *Homo Academicus*, *La Reproduction (Yeniden Üretim)*
+- **Kavram:** Akademi kapalı bir kasttır. Simgesel şiddet sayesinde sistemin haksızlıkları, bireye kendi yetersizliği veya başarısızlığı gibi hissettirilir.
 
 ---
 
-## 8. Yerli Bilim Mirası: Sinanoğlu, Sancar ve Arf'ın Haykırışı
+## 8. Nurettin Topçu & İsmet Özel: Mektebin Yabancılaşması ve Kölelik Beratı
+- **Nurettin Topçu (*Türkiye'nin Maarif Davası*):** *"Mektep diplomalı cahiller imalathanesine dönmüştür."*
+- **İsmet Özel (*Üç Mesele*):** *"Diploma, modern insanın efendisine sunduğu kölelik beratıdır."*
+
+---
+
+## 9. Hannah Arendt: Düşüncesizliğin Banalitesi
+- **Eser:** *Eichmann Kudüs'te: Kötülüğün Sıradanlığı*
+- **Kavram:** Kötülük çoğu zaman düşünmeyi bırakan ve sadece yönetmelik uygulayan memurların ellerinde rutinleşir.
+
+---
+
+## 10. Ivan Illich: Okulsuz Toplum ve Kurumsal Şantaj
+- **Eser:** *Deschooling Society (Okulsuz Toplum)*
+- **Kavram:** Okul bilgiyi tekeline alarak diploması olmayan bireyi geçersiz kılan bir lonca şantajı yürütür.
+
+---
+
+## 11. Byung-Chul Han: Psikopolitika ve İçe Patlayan İsyan
+- **Eser:** *Psychopolitik (Psikopolitika)*
+- **Kavram:** Neoliberal iktidar bireyi kendi yetersizliğine inandırır. Başarısızlık yapısal olsa bile birey kendini suçlar ve depresyona girer.
+
+---
+
+## 12. Aaron Swartz: Bilgiyi Özgürleştirme Manifestosu
+- **Eser:** *Guerilla Open Access Manifesto (2008)*
+- **Kavram:** İnsanlığın bilimsel mirasını tekelci veritabanlarına ve üniversite kütüphanelerine kilitlemek suçtur; bilgiyi paylaşmak ahlaki bir ödevdir.
+
+---
+
+## 13. Yerli Bilim Mirası
 - **Prof. Dr. Oktay Sinanoğlu:** *"Türkiye'de üniversiteler bilim üretmek için değil, unvan sahiplerinin feodal beyliklerini koruması için dizayn edilmiştir."*
-- **Prof. Dr. Aziz Sancar:** *"Orada bana 'Sen kimsin, hocana nasıl karşı çıkarsın?' demediler; 'Ne buldun, teorin ne?' dediler."*
+- **Prof. Dr. Aziz Sancar:** *"Bana Amerika'da 'Sen kimsin, hocana nasıl karşı çıkarsın?' demediler; 'Ne buldun, teorin ne?' dediler."*
 - **Ord. Prof. Dr. Cahit Arf:** *"Üniversite, hocanın dediklerinden şüphe duyup daha doğrusunu arayanların yeridir."*
+- **Prof. Dr. A. M. Celal Şengör:** *"Bizde hoca kendini yarı-tanrı zanneder, soru sorarsan düşman beller."*
 
 ---
 
-> Bu düşünce haritası, idrakimize giydirilen deli gömleğini parçalamak isteyen her bağımsız araştırmacı için felsefi bir pusuladır.
+> Bu düşünce haritası, amfilerin mermer duvarlarını aşmak isteyen her bağımsız araştırmacı için pusuladır.
