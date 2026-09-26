@@ -19,59 +19,59 @@
 
 ---
 
-## 📑 Bilimsel ve Felsefi Genişletilmiş İçindekiler
+## 📑 Ansiklopedik ve Bilimsel İçindekiler
 
 - [Mesele: Mabedin Çöküşü ve Kurumsallaşan Zihinsel Esaret](#mesele-mabedin-çöküşü-ve-kurumsallaşan-zihinsel-esaret)
 - [I. Teslimiyet Senedi Olarak Diploma: İtaatin Belgesi](#i-teslimiyet-senedi-olarak-diploma-itaatin-belgesi)
 - [II. Kürsü Derebeyliği ve Hakikatin Maaşa İpoteklenmesi](#ii-kürsü-derebeyliği-ve-hakikatin-maaşa-ipoteklenmesi)
-- [III. Maarifin İflası: Sararmış Notlar, Taş Mektep ve Not Terörü](#iii-maarifin-iflası-sararmış-notlar-taş-mektep-ve-not-terörü)
-- [IV. Dil ve Jargon Tahakkümü: Anlaşılmazlığın Arkasına Saklanan Cehalet](#iv-dil-ve-jargon-tahakkümü-anlaşılmazlığın-arkasına-saklanan-cehalet)
-- [V. Feynman'ın Aynası: Ezberleyen Fakat Anlamayan Kargo Kültü Bilimi](#v-feynmanın-aynası-ezberleyen-fakat-anlamayan-kargo-kültü-bilimi)
-- [VI. Erginleşememe Prangası ve Fabrika Tipi Standartlaştırma](#vi-erginleşememe-prangası-ve-fabrika-tipi-standartlaştırma)
-- [VII. Tarihten Günümüze Medrese & Amfi Krizleri: Ali Kuşçu'dan 1933 Reformuna](#vii-tarihten-günümüze-medrese--amfi-krizleri-ali-kuşçudan-1933-reformuna)
-- [VIII. Milli Bilim Mirası: Cezeri'den Cahit Arf ve Aziz Sancar'a](#viii-milli-bilim-mirası-cezeriden-cahit-arf-ve-aziz-sancara)
-- [IX. Akademik Yağmacılık, Metrik Putu ve H-Index Fetişizmi](#ix-akademik-yağmacılık-metrik-putu-ve-h-index-fetişizmi)
-- [X. Bilimsel İflas: Tekrarlanabilirlik Krizi ve Ioannidis İtirazı](#x-bilimsel-iflas-tekrarlanabilirlik-krizi-ve-ioannidis-itirazı)
-- [XI. Kürsünün Reddettiği Nobeller: Karikó, Krebs ve Shechtman Vakaları](#xi-kürsünün-reddettiği-nobeller-karikó-krebs-ve-shechtman-vakaları)
-- [XII. Hakem Denetiminin İflası: Sokal Olayı ve Jargon İllüzyonu](#xii-hakem-denetiminin-iflası-sokal-olayı-ve-jargon-illüzyonu)
-- [XIII. İntihal Salgını ve "Tercüme Odası" Akademisyenliği](#xiii-intihal-salgını-ve-tercüme-odası-akademisyenliği)
-- [XIV. Emek Gasbı, Mobbing ve Depresyon: Nature 2019 Küresel Verileri](#xiv-emek-gasbı-mobbing-ve-depresyon-nature-2019-küresel-verileri)
-- [XV. Epistemolojik Körlük: Metodoloji Putu ve Feyerabend'ın İtirazı](#xv-epistemolojik-körlük-metodoloji-putu-ve-feyerabendın-itirazı)
-- [XVI. "Derisi Masada Olmayanlar": Riski Başkasına Yıkan Parazitlik](#xvi-derisi-masada-olmayanlar-riski-başkasına-yıkan-parazitlik)
-- [XVII. Düşüncesizliğin Banalitesi: Bürokratik Memurlaşma ve Vicdan Felci](#xvii-düşüncesizliğin-banalitesi-bürokratik-memurlaşma-ve-vicdan-felci)
-- [XVIII. Sosyal Tahliye Vanaları: Öfkenin Sönümlenmesi ve Sahte Çıkışlar](#xviii-sosyal-tahliye-vanaları-öfkenin-sönümlenmesi-ve-sahte-çıkışlar)
-- [XIX. İstikbal Göklerdedir: Amfilerden Sonsuz Kızıl Elma Ufkuna](#xix-istikbal-göklerdedir-amfilerden-sonsuz-kızıl-elma-ufkuna)
-- [XX. Otonom Polimatlar Panteonu ve Tarihi Vaka Analizleri](#xx-otonom-polimatlar-panteonu-ve-tarihi-vaka-analizleri)
-- [XXI. Milli Teknoloji Hamlesi & Dijital Agora: Yerli ve Bağımsız Üretim](#xxi-milli-teknoloji-hamlesi--dijital-agora-yerli-ve-bağımsız-üretim)
-- [XXII. Tersine Mühendislik ve "Hacking" Kültürü: İdrakin Pratik İlacı](#xxii-tersine-mühendislik-ve-hacking-kültürü-idrakin-pratik-ilacı)
-- [XXIII. Açık Donanım ve Garaj Laboratuvarları: Fiziksel Dünyada Amfisiz İnşa](#xxiii-açık-donanım-ve-garaj-laboratuvarları-fiziksel-dünyada-amfisiz-inşa)
-- [XXIV. Yapay Zekâ Çağında Otonom Polimat İnşa Kılavuzu & Meta-Learning](#xxiv-yapay-zekâ-çağında-otonom-polimat-inşa-kılavuzu--meta-learning)
-- [XXV. Günlük 7 Otonom İnşa Disiplini](#xxv-günlük-7-otonom-inşa-disiplini)
-- [XXVI. Özgür Zihnin Yol Haritası: 12 Sarsılmaz İlke](#xxvi-özgür-zihnin-yol-haritası-12-sarsılmaz-ilke)
-- [XXVII. Büyük Zihinlerin Amfi ve Bürokrasi İtirazları Koleksiyonu](#xxvii-büyük-zihinlerin-amfi-ve-bürokrasi-itirazları-koleksiyonu)
-- [XXVIII. Akademik İkiyüzlülük Sözlüğü (Jargon Dekoderi)](#xxviii-akademik-ikiyüzlülük-sözlüğü-jargon-dekoderi)
-- [XXIX. Kavramsal Karşılaştırma Matrisi](#xxix-kavramsal-karşılaştırma-matrisi)
-- [XXX. Felsefi, Sosyolojik ve Bilimsel Literatür Kaynakçası](#xxx-felsefi-sosyolojik-ve-bilimsel-literatür-kaynakçası)
+- [III. 1982 YÖK Düzeni: Sistemin Kendi Kurbanlarını Gardiyan Yapma Paradoksu](#iii-1982-yök-düzeni-sistemin-kendi-kurbanlarını-gardiyan-yapma-paradoksu)
+- [IV. Maarifin İflası: Sararmış Notlar, Taş Mektep ve Not Terörü](#iv-maarifin-iflası-sararmış-notlar-taş-mektep-ve-not-terörü)
+- [V. Dil ve Jargon Tahakkümü: Anlaşılmazlığın Arkasına Saklanan Cehalet](#v-dil-ve-jargon-tahakkümü-anlaşılmazlığın-arkasına-saklanan-cehalet)
+- [VI. Feynman'ın Aynası: Ezberleyen Fakat Anlamayan Kargo Kültü Bilimi](#vi-feynmanın-aynası-ezberleyen-fakat-anlamayan-kargo-kültü-bilimi)
+- [VII. Erginleşememe Prangası ve Fabrika Tipi Standartlaştırma](#vii-erginleşememe-prangası-ve-fabrika-tipi-standartlaştırma)
+- [VIII. Tarihten Günümüze Medrese & Amfi Krizleri: Ali Kuşçu'dan 1933 Reformuna](#viii-tarihten-günümüze-medrese--amfi-krizleri-ali-kuşçudan-1933-reformuna)
+- [IX. Milli Bilim Mirası: Cezeri'den Cahit Arf ve Aziz Sancar'a](#ix-milli-bilim-mirası-cezeriden-cahit-arf-ve-aziz-sancara)
+- [X. Akademik Yağmacılık, Metrik Putu ve H-Index Fetişizmi](#x-akademik-yağmacılık-metrik-putu-ve-h-index-fetişizmi)
+- [XI. Bilimsel İflas: Tekrarlanabilirlik Krizi ve Ioannidis İtirazı](#xi-bilimsel-iflas-tekrarlanabilirlik-krizi-ve-ioannidis-itirazı)
+- [XII. Kürsünün Reddettiği Nobeller: Karikó, Krebs ve Shechtman Vakaları](#xii-kürsünün-reddettiği-nobeller-karikó-krebs-ve-shechtman-vakaları)
+- [XIII. Hakem Denetiminin İflası: Sokal Olayı ve Jargon İllüzyonu](#xiii-hakem-denetiminin-iflası-sokal-olayı-ve-jargon-illüzyonu)
+- [XIV. İntihal Salgını ve "Tercüme Odası" Akademisyenliği](#xiv-intihal-salgını-ve-tercüme-odası-akademisyenliği)
+- [XV. Emek Gasbı, Mobbing ve Depresyon: Nature 2019 Küresel Verileri](#xv-emek-gasbı-mobbing-ve-depresyon-nature-2019-küresel-verileri)
+- [XVI. Epistemolojik Körlük: Metodoloji Putu ve Feyerabend'ın İtirazı](#xvi-epistemolojik-körlük-metodoloji-putu-ve-feyerabendın-itirazı)
+- [XVII. "Derisi Masada Olmayanlar": Riski Başkasına Yıkan Parazitlik](#xvii-derisi-masada-olmayanlar-riski-başkasına-yıkan-parazitlik)
+- [XVIII. Düşüncesizliğin Banalitesi: Bürokratik Memurlaşma ve Vicdan Felci](#xviii-düşüncesizliğin-banalitesi-bürokratik-memurlaşma-ve-vicdan-felci)
+- [XIX. Sosyal Tahliye Vanaları: Öfkenin Sönümlenmesi ve Sahte Çıkışlar](#xix-sosyal-tahliye-vanaları-öfkenin-sönümlenmesi-ve-sahte-çıkışlar)
+- [XX. İstikbal Göklerdedir: Amfilerden Sonsuz Kızıl Elma Ufkuna](#xx-istikbal-göklerdedir-amfilerden-sonsuz-kızıl-elma-ufkuna)
+- [XXI. Otonom Polimatlar Panteonu ve Tarihi Vaka Analizleri](#xxi-otonom-polimatlar-panteonu-ve-tarihi-vaka-analizleri)
+- [XXII. Milli Teknoloji Hamlesi & Dijital Agora: Yerli ve Bağımsız Üretim](#xxii-milli-teknoloji-hamlesi--dijital-agora-yerli-ve-bağımsız-üretim)
+- [XXIII. Tersine Mühendislik ve "Hacking" Kültürü: İdrakin Pratik İlacı](#xxiii-tersine-mühendislik-ve-hacking-kültürü-idrakin-pratik-ilacı)
+- [XXIV. Açık Donanım ve Garaj Laboratuvarları: Fiziksel Dünyada Amfisiz İnşa](#xxiv-açık-donanım-ve-garaj-laboratuvarları-fiziksel-dünyada-amfisiz-inşa)
+- [XXV. Yapay Zekâ Çağında Otonom Polimat İnşa Kılavuzu & Meta-Learning](#xxv-yapay-zekâ-çağında-otonom-polimat-inşa-kılavuzu--meta-learning)
+- [XXVI. Günlük 7 Otonom İnşa Disiplini](#xxvi-günlük-7-otonom-inşa-disiplini)
+- [XXVII. Özgür Zihnin Yol Haritası: 12 Sarsılmaz İlke](#xxvii-özgür-zihnin-yol-haritası-12-sarsılmaz-ilke)
+- [XXVIII. Büyük Zihinlerin Amfi ve Bürokrasi İtirazları Koleksiyonu](#xxviii-büyük-zihinlerin-amfi-ve-bürokrasi-itirazları-koleksiyonu)
+- [XXIX. Akademik İkiyüzlülük Sözlüğü (Jargon Dekoderi)](#xxix-akademik-ikiyüzlülük-sözlüğü-jargon-dekoderi)
+- [XXX. Kavramsal Karşılaştırma Matrisi](#xxx-kavramsal-karşılaştırma-matrisi)
+- [XXXI. Felsefi, Sosyolojik ve Bilimsel Literatür Kaynakçası](#xxxi-felsefi-sosyolojik-ve-bilimsel-literatür-kaynakçası)
 
 ---
 
 ```mermaid
 flowchart TD
-    subgraph Geleneksel Akademi ["🏰 Geleneksel Bürokrasi & Kast Düzeni"]
-        A[Merak & Tecessüs ile Giren Genç Zihin] --> B[Sararmış Notlar & Kargo Kültü Ezberi]
-        B --> C[Tekrarlanamayan Çöp Yayınlar & Predatory Journals]
-        C --> D[Mobbing %21 & Depresyon %36 Nature Raporu]
-        D --> E{Kritik Kavşak}
-        E -- "İtiraz & Bağımsız Düşünce" --> F[Karikó / Shechtman Tipi Yalıtım]
-        E -- "Uysallaşma & Biat" --> G[Teslimiyet Senedi: Diploma / Memuriyet]
-        F --> H[Beyin Göçü / Sessiz Terk / Otonom İnşa]
+    subgraph Geleneksel Akademi ["🏰 1982 Düzeni & Gardiyanlık Kısırdöngüsü"]
+        A[1982 Kışla Düzeni: 2547 Sayılı YÖK Kanunu] --> B[Sistemin Torna ve Biat Aşamasından Geçen Memur]
+        B --> C[30 Yıl Çekilen Çile, Eğilen Baş ve Alınan Unvan]
+        C --> D[Karar Verici / Rektör / Bakanlık Koltuğuna Oturma]
+        D --> E{Kritik Soru: Sistemi Değiştirir mi?}
+        E -- "HAYIR! Bilişsel Uyumsuzluk & Statüko Savunması" --> F["Ben çektim, onlar da çekecek!" Sendromu]
+        F --> G[Deli Gömleğini Yeni Nesle Giydiren Eski Kurbanlar]
     end
 
     subgraph Otonom Üretim ["⚡ Milli Teknoloji & İcazetsiz Üretim"]
-        I[Milli Tecessüs & İnşa İradesi] --> J[Global Açık Arşivler, LLM, Milli Tezgâh & Laboratuvar]
-        J --> K[Doğrudan Üretim: İHA/SİHA, Kod, Donanım, Makale, Prototip]
-        K --> L[Skin in the Game: Gerçek Dünya Testi & Bağımsız Doğrulama]
-        L --> M[İstikbal Göklerdedir: Hür ve Otonom Türk Dehası]
+        H[Vesayet Beklemeden Doğrudan İnşa] --> I[Global Açık Arşivler, LLM, Milli Tezgâh & Laboratuvar]
+        I --> J[Doğrudan Üretim: İHA/SİHA, Kod, Donanım, Makale, Prototip]
+        J --> K[Skin in the Game: Gerçek Dünya Testi & Bağımsız Doğrulama]
+        K --> L[İstikbal Göklerdedir: Hür ve Otonom Türk Dehası]
     end
 
     style Geleneksel Akademi fill:#1a161f,stroke:#ef4444,stroke-width:2px,color:#fca5a5
@@ -136,14 +136,42 @@ Akademi, bilgi üretiminin ve hür tefekkürün kalesi olduğu iddiasıyla meşr
 > *"Bizde üniversite hocası kendini yarı-tanrı zanneder. Odasına girerken titrersin, soru sorarsan düşman beller. Bu kafa feodal kabile reisliği kafasıdır. Bu kafayla dünya çapında tek bir bilim insanı yetiştiremezsin; yetiştiklerini de Batı'ya kaçırırsın."*  
 > — **Prof. Dr. A. M. Celal Şengör**
 
-Bilgi, bu feodal beyliklerde bir keşif vasıtası olmaktan çıkarılıp tahakküm aparatına dönüştürülür. Edward Said'in bağımsız aydın tanımı ile üniversite koridorlarında karşılaşılan memur tipi arasındaki derin uçurum tam olarak buradadır:
+---
 
-> *"Entelektüel, iktidara karşı doğruyu söyleyen, uzlaşmaz, koro halinde şarkı söylemeyi reddeden kişidir. Oysa profesyonel akademisyen; uzmanlık alanı adı verilen daracık bir çite hapsolmuş, fon sağlayıcıları ve idareyi ürkütmekten ödü kopan bir unvan bekçisidir."*  
-> — **Edward Said, *Entelektüel: Sürgün, Marjinal, Yabancı***
+### III. 1982 YÖK Düzeni: Sistemin Kendi Kurbanlarını Gardiyan Yapma Paradoksu
+
+Neden 12 Eylül 1980 darbesinin ürünü olan, 1981-1982'de kurulan 2547 sayılı YÖK düzeni ve bu boğucu bürokrasi 40 yılı aşkın süredir değişmez? Neden sistemi eleştirenler dahi iktidar olduğunda bu nizamı tasfiye etmez?
+
+Cevap, sosyolojinin en karanlık gerçeğinde saklıdır: **Sistemi değiştirebilecek karar verici makamlara oturanların tamamı, bizzat o sistemin tornasından geçmiş, onun diplomasını almış ve onun kurbanı olmuş insanlardır.**
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                   KURUMSAL GARDİYANLIK KISIRDÖNGÜSÜ                         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 1. Gençlikte İtaat: 20'li yaşlarda asistan olur; hocasının çantasını taşır,  │
+│    mobbinge susar, ezber yapar, baş eğer.                                  │
+│ 2. Bedel Yatırımı (Sunk Cost Fallacy): 30 yıl boyunca gençliğini, onurunu  │
+│    ve özgün düşüncesini o unvan ve kadro için feda eder.                   │
+│ 3. Makama Ulaşma: 50'li yaşlarda Rektör, Dekan, YÖK Üyesi, Bakan olur.     │
+│ 4. Bilişsel Uyumsuzluk & İntikam: "Ben 30 yıl bu çileyi çektim, bu sınavları│
+│    verdim, bu jürilerden geçtim; şimdi sistemi kaldırırsam benim çektiğim  │
+│    eziyetin, aldığım unvanın ne anlamı kalır?" der.                        │
+│ 5. Gardiyanlaşma: Eski kurban, artık sistemin en tavizsiz celladı olur.    │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+Amerikalı yazar Upton Sinclair'in meşhur tespiti tam burayı tarif eder:
+
+> *"Bir adama, maaşı ve statüsü bir şeyi anlamamasına bağlıyken o şeyi anlatmak imkânsızdır."*  
+> — **Upton Sinclair**
+
+Robert Michels'in *"Oligarşinin Tunç Kanunu"* uyarınca, bürokratik yapılar zamanla amacından sapar ve tek amacı kendi varlığını sürdürmek olan kapalı kastlara dönüşür. 1982 düzeni bu yüzden içeriden reforme edilemez; çünkü **içerideki herkes, o düzenin suç ortağı ve hissedarı haline getirilmiştir.**
+
+Diplomalı bir zihinden, diplomasızlığın ve icazetsiz üretimin önünü açacak bir devrim beklenemez. Sistemi değiştirecek olanlar, amfilerin icazetini reddedip kendi tezgâhında üretenlerdir.
 
 ---
 
-### III. Maarifin İflası: Sararmış Notlar, Taş Mektep ve Not Terörü
+### IV. Maarifin İflası: Sararmış Notlar, Taş Mektep ve Not Terörü
 
 <p align="center">
   <img src="./assets/maarif-itirazi.jpg" alt="Taş Mektep, Sararmış Notlar ve Hakiki Maarif İtirazı" width="100%" style="border-radius: 10px; margin: 15px 0;">
@@ -163,7 +191,7 @@ Paulo Freire'nin "bankacı eğitim modeli" tam bu noktada işler: Öğrenci, hoc
 
 ---
 
-### IV. Dil ve Jargon Tahakkümü: Anlaşılmazlığın Arkasına Saklanan Cehalet
+### V. Dil ve Jargon Tahakkümü: Anlaşılmazlığın Arkasına Saklanan Cehalet
 
 Akademik zümre, kendi kısırlığını ve fikir fukaralığını gizlemek için adına "akademik dil" dediği yapay, ağdalı ve anlaşılmaz bir jargon şatosu inşa eder. Basit bir gerçeği herkesin anlayabileceği durulukta söylemek, akademinin sahte büyücülük tekeline tehdit sayılır.
 
@@ -179,21 +207,21 @@ Arthur Schopenhauer ise bu sahte bilgeliği şu tokat gibi sözlerle yerin dibin
 
 ---
 
-### V. Feynman'ın Aynası: Ezberleyen Fakat Anlamayan Kargo Kültü Bilimi
+### VI. Feynman'ın Aynası: Ezberleyen Fakat Anlamayan Kargo Kültü Bilimi
 
 Nobel Fizik Ödüllü Richard Feynman, ezberci akademi dünyasını sarsan şu tarihî teşhisi koyar:
 
 > *"Öğrencilerin her şeyi harfiyen ezberlediğini gördüm. Kitaptaki formülleri ezbere okuyor, sınav sorularına kitaptaki cümlelerle kusursuz yanıtlar veriyorlardı. Ama onlara doğadan somut tek bir örnek sorduğumda, ışığın bir aynaya veya suya çarptığında ne yaptığını sorduğumda tam bir sessizlik oluyordu! Hiçbir şey anlamamışlardı. Sadece kelimeleri ve sembolleri papağan gibi ezberlemişlerdi. Bu bilim değil; bilimin taklididir, bir kargo kültüdür."*  
 > — **Richard Feynman, *Surely You're Joking, Mr. Feynman!***
 
-Modern üniversite, kavramların özünü ve inşa etme kudretini kavrayan zihinler değil; soruların formatını ezberleyen "optik form memurları" yetiştirir. Ali Şeriati bu duruma "öğretilmiş cehalet" adını verir:
+Ali Şeriati bu duruma "öğretilmiş cehalet" adını verir:
 
 > *"Öğretilmiş cehalet, bilmeyen insanın cehaletinden bin kat daha tehlikelidir. Çünkü diplomalı cahil, bildiğini zannettiği için hakikati aramayı bütünüyle bırakmıştır."*  
 > — **Ali Şeriati, *Kendini Devrimci Yetiştirmek***
 
 ---
 
-### VI. Erginleşememe Prangası ve Fabrika Tipi Standartlaştırma
+### VII. Erginleşememe Prangası ve Fabrika Tipi Standartlaştırma
 
 Immanuel Kant, aydınlanmayı bir hürriyet manifestosu olarak sunarken, insanın kendi aklını başkalarının rehberliği olmadan kullanamayışını "ergin olmama hali" olarak tarif ediyordu:
 
@@ -207,7 +235,7 @@ Friedrich Nietzsche ve Bertrand Russell ise üniversitelerin devasa birer memur 
 
 ---
 
-### VII. Tarihten Günümüze Medrese & Amfi Krizleri: Ali Kuşçu'dan 1933 Reformuna
+### VIII. Tarihten Günümüze Medrese & Amfi Krizleri: Ali Kuşçu'dan 1933 Reformuna
 
 Türkiye'de bilgi üretiminin kurumsal prangalarla boğulması dün başlamamıştır. Tarih, hakiki tecessüsün bürokratik taassupla çatışmasının ibretlik sahneleriyle doludur:
 
@@ -220,7 +248,7 @@ Bu tarihi döngü göstermektedir ki; kurumlar değişse de (Medrese -> Darülf�
 
 ---
 
-### VIII. Milli Bilim Mirası: Cezeri'den Cahit Arf ve Aziz Sancar'a
+### IX. Milli Bilim Mirası: Cezeri'den Cahit Arf ve Aziz Sancar'a
 
 <p align="center">
   <img src="./assets/milli-bilim-mirasi.jpg" alt="Cezeri'den Cahit Arf ve Aziz Sancar'a Milli Bilim Mirası" width="100%" style="border-radius: 10px; margin: 15px 0;">
@@ -235,7 +263,7 @@ Bu topraklar; amfilerin bürokratik vesayetine sığmayan, bizzat tezgâhında �
 
 ---
 
-### IX. Akademik Yağmacılık, Metrik Putu ve H-Index Fetişizmi
+### X. Akademik Yağmacılık, Metrik Putu ve H-Index Fetişizmi
 
 21. yüzyıl üniversitesi, hakikat arayışını bütünüyle terk ederek adına "akademik teşvik" denen bir puan avcılığına teslim olmuştur. Goodhart Yasası burada kusursuz biçimde işler: **"Bir metrik bir hedef haline geldiğinde, iyi bir metrik olmaktan çıkar."**
 
@@ -245,7 +273,7 @@ Bu topraklar; amfilerin bürokratik vesayetine sığmayan, bizzat tezgâhında �
 
 ---
 
-### X. Bilimsel İflas: Tekrarlanabilirlik Krizi ve Ioannidis İtirazı
+### XI. Bilimsel İflas: Tekrarlanabilirlik Krizi ve Ioannidis İtirazı
 
 Stanford Üniversitesi'nden John Ioannidis'in meşhur 2005 makalesi *"Why Most Published Research Findings Are False"* (Yayınlanan Çoğu Bilimsel Bulgu Neden Yanlıştır?) ve *Nature* dergisinin 1.576 bilim insanıyla yaptığı 2016 küresel araştırması, akademinin içine düştüğü derin bataklığı gözler önüne sermiştir:
 
@@ -260,51 +288,35 @@ Stanford Üniversitesi'nden John Ioannidis'in meşhur 2005 makalesi *"Why Most P
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-P-hacking (istatistiklerle oynama), negatif sonuçların çöpe atılması ve sadece pozitif sansasyonel sonuçların fon alması nedeniyle, hakemli dergilerdeki binlerce makale laboratuvar tezgâhında çökmektedir. Hakikatin hakemi artık "hakemli dergi mühürleri" olamaz.
+---
+
+### XII. Kürsünün Reddettiği Nobeller: Karikó, Krebs ve Shechtman Vakaları
+
+* **Katalin Karikó (2023 Nobel Tıp Ödülü):** mRNA aşı teknolojisinin kurucusu Karikó'nun çığır açan makalesi hem *Nature* hem de *Science* tarafından reddedildi. UPenn tarafından unvanı düşürüldü (*demoted*), laboratuvar fonları kesildi.
+* **Hans Krebs (1953 Nobel Tıp Ödülü):** Sitrik Asit Döngüsü makalesi *Nature* dergisi tarafından *"yerimiz yok"* denilerek geri çevrildi.
+* **Dan Shechtman (2011 Nobel Kimya Ödülü):** Yarı-kristalleri (*quasicrystals*) keşfettiğinde Linus Pauling tarafından alay edilip araştırma grubundan kovuldu; yıllar sonra Nobel'i tek başına aldı.
+* **Peter Higgs (2013 Nobel Fizik Ödülü):** Higgs Bozonu makalesi CERN Physics Letters tarafından *"fiziksel dünyaya uygulanabilirliği yok"* denilerek reddedildi.
 
 ---
 
-### XI. Kürsünün Reddettiği Nobeller: Karikó, Krebs ve Shechtman Vakaları
+### XIII. Hakem Denetiminin İflası: Sokal Olayı ve Jargon İllüzyonu
 
-Akademik yayın tekellerinin ve kürsü jürilerinin liyakatin değil; yerleşik dogmanın bekçisi olduğunun en açık kanıtı, insanlığın kaderini değiştiren Nobel ödüllü buluşların bizzat bu dergilerce reddedilmiş olmasıdır:
-
-* **Katalin Karikó (2023 Nobel Tıp Ödülü):** mRNA aşı teknolojisinin kurucusu Karikó'nun çığır açan makalesi hem *Nature* hem de *Science* tarafından *"yeterince yenilikçi değil"* denilerek reddedildi. Pennsylvania Üniversitesi (UPenn) tarafından unvanı düşürüldü (*demoted*), laboratuvar fonları kesildi ve yıllarca üniversite koridorlarında dışlandı.
-* **Hans Krebs (1953 Nobel Tıp Ödülü):** Biyokimyanın temeli olan Sitrik Asit Döngüsü (Krebs Döngüsü) makalesi *Nature* dergisi tarafından *"yerimiz yok"* denilerek reddedildi.
-* **Dan Shechtman (2011 Nobel Kimya Ödülü):** Yarı-kristalleri (*quasicrystals*) keşfettiğinde, iki kez Nobel almış Linus Pauling tarafından *"Yarı-kristal yoktur, sadece yarı-bilim insanı vardır"* denilerek alay edildi ve araştırma grubundan kovuldu. Yıllar sonra Nobel'i tek başına aldı.
-* **Peter Higgs (2013 Nobel Fizik Ödülü):** Higgs Bozonu'nu öngören ilk makalesi CERN Physics Letters tarafından *"fiziksel dünyaya uygulanabilirliği yok"* denilerek reddedildi.
-
-Bu vakalar göstermektedir ki; amfi kürsüleri ve hakem kurulları çığır açan hakikati ilk anda daima **düşman** ilan eder.
+1996 yılında fizik profesörü Alan Sokal'ın postmodern zırvalardan ibaret makalesinin saygın hakemli dergi *Social Text* tarafından ciddiyetle basılması ve 2018'deki *Sokal Squared* deneyinde 20 uydurma makalenin saygın dergilerden tam not alması; amfilerin "hakemli yayın" putunun ideolojik onay ve jargon büyücülüğünden ibaret olduğunu kanıtlamıştır.
 
 ---
 
-### XII. Hakem Denetiminin İflası: Sokal Olayı ve Jargon İllüzyonu
-
-1996 yılında New York Üniversitesi'nden fizik profesörü Alan Sokal, postmodern jargondan ibaret hiçbir anlamı olmayan zırvalarla dolu bir makale yazdı (*"Transgressing the Boundaries: Towards a Transformative Hermeneutics of Quantum Gravity"*). Saygın hakemli dergi *Social Text*, içi boş süslü kavramlara kanarak makaleyi alkışlarla yayımladı.
-
-2018 yılında Peter Boghossian, James Lindsay ve Helen Pluckrose (*Sokal Squared* / Grievance Studies), hakemli dergilere tamamen uydurma, etik dışı ve akıl almaz 20 makale gönderdi; bunların birçoğu saygın hakemli dergilerden tam notla geçip ödül aldı.
-
-Bu olaylar, amfilerin "hakemli yayın" putunun aslında ideolojik onay ve jargon büyücülüğünden ibaret olduğunu kanıtlamıştır.
-
----
-
-### XIII. İntihal Salgını ve "Tercüme Odası" Akademisyenliği
-
-Kendi medeniyetine, kendi diline ve özgün tecessüsüne yabancılaşmış müstağrip akademisyen profili; bilim üretmeyi Batı'daki makaleleri kötü bir Türkçeyle kopyalayıp amfi kürsüsünden okumak zanneder.
+### XIV. İntihal Salgını ve "Tercüme Odası" Akademisyenliği
 
 Cemil Meriç bu trajediye *"Tercüme Odası Entelektüeli"* adını verir:
 
 > *"Kendi semamızın yıldızlarına gözlerini kapayıp Batı'nın sönük lambalarına pervanelik edenler, bu millete kılavuzluk edemezler. Düşünce tercüme edilemez; tefekkür bizzat kendi toprağında, kendi diliyle ve kendi sancısıyla doğar."*  
 > — **Cemil Meriç, *Umrandan Uygarlığa***
 
-Bugün tez merkezlerinde parayla yazdırılan lisansüstü tezler, intihal tespit yazılımlarının arkasından dolanmak için takla attırılan kopyala-yapıştır metinler; amfilerin bilimi değil, diplomalı sahtekârlığı kurumsallaştırdığının en somut kanıtıdır.
-
 ---
 
-### XIV. Emek Gasbı, Mobbing ve Depresyon: Nature 2019 Küresel Verileri
+### XV. Emek Gasbı, Mobbing ve Depresyon: Nature 2019 Küresel Verileri
 
-Karl Marx'ın bahsettiği emek yabancılaşması, akademide araştırma görevlisinin ve lisansüstü öğrencisinin sırtında somutlaşır. Kürsü sahibi tek bir satırını dahi okumadığı makalenin ilk veya sorumlu yazarı (*corresponding author*) olurken, asistan dipnotta teşekkür edilen bir köleden farksızdır.
-
-*Nature* dergisinin 6.300'den fazla lisansüstü araştırmacıyla yaptığı 2019 Küresel Araştırması, bu sömürünün yarattığı insani yıkımı resmi rakamlarla ortaya koymuştur:
+*Nature* dergisinin 6.300'den fazla lisansüstü araştırmacıyla yaptığı 2019 Küresel Araştırması:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -318,67 +330,46 @@ Karl Marx'ın bahsettiği emek yabancılaşması, akademide araştırma görevli
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Akademi, genç dehaları yeşerten bir bahçe değil; ruhları tüketen bir mobbing mengenesidir.
-
 ---
 
-### XV. Epistemolojik Körlük: Metodoloji Putu ve Feyerabend'ın İtirazı
+### XVI. Epistemolojik Körlük: Metodoloji Putu ve Feyerabend'ın İtirazı
 
-Bilim felsefecisi Paul Feyerabend, akademiye dayatılan tek tip metodoloji putunu yıkar:
-
-> *"Bilim tarihi göstermektedir ki, en büyük keşifler yerleşik yöntem kuralları çiğnendiğinde yapılmıştır. Bilime tek bir yöntem dayatmak, aklı hadım etmektir. Tek geçerli ilke vardır: Her şey uyar (Anything goes)!"*  
+> *"Bilim tarihi göstermektedir ki, en büyük keşifler yerleşik yöntem kuralları çiğnendiğinde yapılmıştır. Tek geçerli ilke vardır: Her şey uyar (Anything goes)!"*  
 > — **Paul Feyerabend, *Against Method***
 
-Gaston Bachelard ise akademik alışkanlıkların nasıl birer zihinsel duvara dönüştüğünü şöyle özetler:
-
-> *"Bilimsel zihnin oluşumunda en büyük engel bilgisizlik değil; yerleşik ve kutsanmış eski bilgilerdir. Hakiki ilim, geçmişin tabularını yıkma cesaretidir."*  
-> — **Gaston Bachelard, *Bilimsel Zihnin Oluşumu***
-
 ---
 
-### XVI. "Derisi Masada Olmayanlar": Riski Başkasına Yıkan Parazitlik
+### XVII. "Derisi Masada Olmayanlar": Riski Başkasına Yıkan Parazitlik
 
-Nassim Nicholas Taleb, *Skin in the Game* ve *Antifragile* eserlerinde modern akademisyenin zafiyetini teşhir eder:
-
-> *"Bir teoriyi ortaya atan ama o teorinin çöküşünden hiçbir bedel ödemeyen, risk almayan (no skin in the game) akademisyenin fikirleri değersizdir. Pratikte hiçbir sistem inşa etmemiş unvan sahipleri; bedelini başkalarının ödediği sahte bir bilgelik satarlar."*  
+> *"Bir teoriyi ortaya atan ama o teorinin çöküşünden hiçbir bedel ödemeyen, risk almayan (no skin in the game) akademisyenin fikirleri değersizdir."*  
 > — **Nassim Nicholas Taleb, *Skin in the Game***
 
 ---
 
-### XVII. Düşüncesizliğin Banalitesi: Bürokratik Memurlaşma ve Vicdan Felci
+### XVIII. Düşüncesizliğin Banalitesi: Bürokratik Memurlaşma ve Vicdan Felci
 
-Hannah Arendt'in Eichmann davasında analiz ettiği *"Kötülüğün Banalitesi"*, amfilerde vicdanı askıya alıp sadece yönetmelik uygulayan öğretim görevlilerinde "Düşüncesizliğin Banalitesi" olarak somutlaşır:
-
-> *"Kötülük her zaman canavarca bir niyetten doğmaz; çoğu zaman sadece kurallara harfiyen uyan, kendi aklıyla düşünmeyi ve vicdani sorgulamayı bırakmış sıradan bürokratların elinde sıradanlaşır."*  
+> *"Kötülük çoğu zaman sadece kurallara harfiyen uyan, kendi aklıyla düşünmeyi ve vicdani sorgulamayı bırakmış sıradan bürokratların elinde sıradanlaşır."*  
 > — **Hannah Arendt, *Eichmann Kudüs'te***
 
 ---
 
-### XVIII. Sosyal Tahliye Vanaları: Öfkenin Sönümlenmesi ve Sahte Çıkışlar
+### XIX. Sosyal Tahliye Vanaları: Öfkenin Sönümlenmesi ve Sahte Çıkışlar
 
-Byung-Chul Han'ın *Psikopolitika* kuramı; sistemin 4 tahliye vanasıyla (AÖF koridoru, KYK tamponu, Ek Madde 1 ve aflar) öğrencinin isyan potansiyelini buharlaştırdığını belgeler:
-
-> *"Bugün iktidar bedensel şiddet uygulamaz; bireyi kendi yetersizliğine inandırarak sömürür. Birey, sistemin kurbanı olduğunu fark edemez; başarısızlığı kendi kişisel eksikliği zanneder, depresyona girer ve enerjisini içe doğru patlatır."*  
-> — **Byung-Chul Han, *Psikopolitika***
+Byung-Chul Han'ın *Psikopolitika* kuramı; sistemin 4 tahliye vanasıyla (AÖF koridoru, KYK tamponu, Ek Madde 1 ve periyodik aflar) öğrencinin isyan potansiyelini buharlaştırdığını belgeler.
 
 ---
 
-### XIX. İstikbal Göklerdedir: Amfilerden Sonsuz Kızıl Elma Ufkuna
+### XX. İstikbal Göklerdedir: Amfilerden Sonsuz Kızıl Elma Ufkuna
 
 <p align="center">
   <img src="./assets/istikbal-goklerdedir.jpg" alt="İstikbal Göklerdedir - İdrakin Sonsuz Hürriyeti" width="100%" style="border-radius: 10px; margin: 15px 0;">
 </p>
 
-Hakiki ilim, hiçbir zaman amfi derebeylerinin inayetine veya unvan tüccarlarının icazetine muhtaç olmamıştır. Jacques Derrida'nın "Koşulsuz Üniversite" ütopyasında tarif ettiği bağımsız hakikat arayışı, amfilerin mermer duvarlarına kurban edilemez:
-
-> *"Koşulsuz üniversite, hiçbir dogma ve iktidar odağına bağlı olmaksızın hakikati söyleme ve sorgulama hakkını talep eder. Üniversite bu koşulsuz özgürlüğü kaybettiği anda sadece bürokrasinin bir uzantısı haline gelir."*  
-> — **Jacques Derrida, *Koşulsuz Üniversite***
-
-Mustafa Kemal Atatürk'ün *"İstikbal göklerdedir"* şiarı; Türk gençliğinin amfi vesayetini yırtıp semalara, uzaya ve bağımsız yüksek teknolojiye yürümesini emreder.
+Hakiki ilim, amfilerin mermer duvarlarına kurban edilemez. Mustafa Kemal Atatürk'ün *"İstikbal göklerdedir"* şiarı; Türk gençliğinin amfi vesayetini yırtıp semalara ve bağımsız yüksek teknolojiye yürümesini emreder.
 
 ---
 
-### XX. Otonom Polimatlar Panteonu ve Tarihi Vaka Analizleri
+### XXI. Otonom Polimatlar Panteonu ve Tarihi Vaka Analizleri
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -399,53 +390,31 @@ Mustafa Kemal Atatürk'ün *"İstikbal göklerdedir"* şiarı; Türk gençliğin
 └──────────────────────┴────────────────────────┴─────────────────────────────┘
 ```
 
-#### Vaka 1: Aaron Swartz ve Bilgiyi Özgürleştirme Savaşı
-MIT ve JSTOR'un duvarları arkasına kilitlenen 4.8 milyon akademik makaleyi kamuya açmak için canını ortaya koydu. Bilginin bir avuç tekelci şirketin kâr kapısı yapılmasına karşı manifestosuyla ölümsüzleşti:
-> *"Bilgi güçtür. Ancak tüm güçler gibi onu kendilerine saklamak isteyenler vardır. Bilgiyi özgürleştirmek ahlaki bir zorunluluktur."*
-
-#### Vaka 2: Nuri Demirağ ve Şakir Zümre'nin Amfi & Bürokrasiyle İmtihanı
-Türkiye'nin ilk yerli uçak fabrikasını kuran Nuri Demirağ ve ilk yerli harp sanayiini kuran Şakir Zümre; yabancı hayranı bürokratların *"Biz yapamayız, dışarıdan alalım"* lobisiyle engellendi. Gerçek üretim aşkı, amfilerin teorik teslimiyetini her zaman aşmıştır.
-
 ---
 
-### XXI. Milli Teknoloji Hamlesi & Dijital Agora: Yerli ve Bağımsız Üretim
+### XXII. Milli Teknoloji Hamlesi & Dijital Agora: Yerli ve Bağımsız Üretim
 
 <p align="center">
   <img src="./assets/milli-teknoloji-agora.jpg" alt="Milli Teknoloji Hamlesi ve Yapay Zekâ Mühendisliği Laboratuvarı" width="100%" style="border-radius: 10px; margin: 15px 0;">
 </p>
 
-21. yüzyıl Türk mühendisi ve araştırmacısı; amfilerin sararmış notlarına mahkûm değildir. Milli Teknoloji Hamlesi'nin otonom ruhuyla:
-* **Havacılık ve Uzayda:** KAAN, Kızılelma, Bayraktar TB3, ANKA ve TÜRKSAT yerli tezgâhlarda tasarlanmaktadır.
-* **Yapay Zekâ ve Yazılımda:** Türkçe büyük dil modelleri (LLM), açık kaynaklı derin öğrenme kütüphaneleri ve otonom sistemler global platformlarda paylaşılmaktadır.
-* **Açık İlimde:** arXiv, GitHub, Hugging Face ve açık donanım repoları sayesinde dünyanın en ileri araştırmalarına anında erişilip katkı sunulmaktadır.
-
-Artık hakikatin hakemi rektörlük nizamı değil; göklerde uçan milli sistemler, doğrulanan matematiksel teoremler ve açık kaynakta çalışan koddur.
+21. yüzyıl Türk mühendisi ve araştırmacısı; amfilerin sararmış notlarına mahkûm değildir. Milli Teknoloji Hamlesi'nin otonom ruhuyla KAAN, Kızılelma, Bayraktar TB3, TÜRKSAT ve Türkçe LLM modelleri yerli tezgâhlarda tasarlanmaktadır.
 
 ---
 
-### XXII. Tersine Mühendislik ve "Hacking" Kültürü: İdrakin Pratik İlacı
+### XXIII. Tersine Mühendislik ve "Hacking" Kültürü: İdrakin Pratik İlacı
 
-İdrake giydirilen deli gömleğini parçalamanın en etkili pratik yöntemi **Tersine Mühendislik (Reverse Engineering)** ve sahici **Hacking** ahlakıdır.
-
-Steven Levy'nin *Hackers: Heroes of the Computer Revolution* eserinde formüle ettiği Hacker Etiği ilkeleri, akademi dogmatizminin tam panzehiridir:
-1. **Bilgiye ve Sistemlere Erişim Sınırsız ve Doğrudan Olmalıdır:** Bir şeyi anlamanın tek yolu onu bizzat sökmek, çalıştırmak ve değiştirmektir.
-2. **Tüm Bürokrasiye ve Otoriteye Şüpheyle Yaklaş:** Liyakati diplomalar ve unvanlar değil; ortaya konan çalışan eser belirler.
-3. **Kodu ve Eseri Herkesle Paylaş:** Saklanan bilgi çürür; açık kaynakta paylaşılan bilgi kâinatı dönüştürür.
+İdrake giydirilen deli gömleğini parçalamanın en etkili pratik yöntemi **Tersine Mühendislik (Reverse Engineering)** ve sahici **Hacker Etiği**dir: Bilgiye erişim sınırsız olmalı, bürokrasiye değil esere güvenilmeli, kod ve donanım açık kaynakta paylaşılmalıdır.
 
 ---
 
-### XXIII. Açık Donanım ve Garaj Laboratuvarları: Fiziksel Dünyada Amfisiz İnşa
+### XXIV. Açık Donanım ve Garaj Laboratuvarları: Fiziksel Dünyada Amfisiz İnşa
 
-Akademik tekel sadece yazılımda değil, laboratuvar donanımlarında da kırılmıştır. Bugün tek bir bağımsız genç:
-* **Açık Kaynak Donanım (OSHW):** Arduino, Raspberry Pi, ESP32 ve açık mimarili RISC-V çipleriyle kendi kartını basabilmektedir.
-* **Masaüstü Fabrikasyon:** 3D yazıcılar ve masaüstü CNC tezgahlarıyla 50 yıl önce koca bir üniversite enstitüsünün yapamadığı mekanik prototiplemeyi kendi odasında tamamlamaktadır.
-* **Açık Bilimsel Cihazlar:** Kendi açık mikroskobunu (Foldscope), elektroensefalografi (OpenBCI) cihazını ve spektrometresini inşa ederek üniversitenin kilitli laboratuvarlarına muhtaç olmadan deneysel bilim yapmaktadır.
+Arduino, Raspberry Pi, ESP32, açık mimarili RISC-V çipleri, 3D yazıcılar ve açık bilimsel cihazlar (Foldscope, OpenBCI) ile üniversitenin kilitli laboratuvarlarına muhtaç olmadan deneysel bilim yapılabilmektedir.
 
 ---
 
-### XXIV. Yapay Zekâ Çağında Otonom Polimat İnşa Kılavuzu & Meta-Learning
-
-Modern çağda tek bir bağımsız araştırmacı veya mühendis; açık kaynaklı yapay zekâ asistanlarıyla donanmış bir **Otonom Polimat (Autonomous Polymath)** haline gelebilir:
+### XXV. Yapay Zekâ Çağında Otonom Polimat İnşa Kılavuzu & Meta-Learning
 
 ```mermaid
 graph LR
@@ -471,27 +440,21 @@ graph LR
     style Adım4 fill:#26181b,stroke:#ef4444,color:#fca5a5
 ```
 
-#### Feynman Tekniği ile Öğrenme Mimarisi:
-1. **Hedef Konuyu Seç:** Bir profesörün ders programına bağlı kalmadan, merak ettiğin temel bir sistemi seç.
-2. **10 Yaşındaki Bir Çocuğa Anlatır Gibi Basitleştir:** Jargonun arkasına saklanmadan en yalın haliyle açıkla.
-3. **Tıkandığın Noktalarda Orijinal Literatüre Dön:** Anlamadığın yerleri ezberleme; ilk ilkesine (*first principles*) kadar in.
-4. **Basitleştir ve Analojilerle İnşa Et:** Kendi zihinsel modelini oluştur ve kodla/donanımla test et.
-
 ---
 
-### XXV. Günlük 7 Otonom İnşa Disiplini
+### XXVI. Günlük 7 Otonom İnşa Disiplini
 
-1. **Günde 1 Saat Orijinal Mimari ve Kaynak Kod Oku:** Hocanın slaytını değil, Linux çekirdeğini, açık makaleleri veya standart teknik dokümantasyonları oku.
+1. **Günde 1 Saat Orijinal Mimari ve Kaynak Kod Oku:** Hocanın slaytını değil, Linux çekirdeğini ve açık makaleleri oku.
 2. **Her Gün 'Proof of Work' Üret:** Git commit'i, lehimlenmiş devre, yazılmış teknik analiz; günü boş geçirme.
-3. **Korkusuzca 'Bilmiyorum' De ve İlk İlkelere İn:** Amfi kibriyle sahte bilgelik taslama; bir şeyi atomik gerçekliğine kadar sök.
-4. **Sorgulanmamış Hiçbir Otoriteyi Kabul Etme:** Rütbeleri değil, delilleri ve çalışan sistemleri tart.
-5. **Kendi Kütüphaneni ve Markdown Not Ağını Canlı Tut:** Bilgiyi unutulacak sınav kâğıdına değil, ömür boyu büyüyecek Zettelkasten ağına yaz.
-6. **Milli Köklerine Tutun, Küresel Agoraya Katkı Sun:** Kendi toprağının meselelerini evrensel bilim standartlarıyla çöz.
-7. **Bedel Ödemekten ve Hata Yapmaktan Korkma:** Hata sistemin çöküşü değil, keşfin başlangıcıdır.
+3. **İlk İlkelere (First Principles) İn:** Formülü ezberleme, atomik gerçeğine kadar sök.
+4. **Otoriteyi Değil Delili Tart:** Rütbeleri değil çalışan sistemleri esas al.
+5. **Kişisel Bilgi Ağını (PKM) Büyüt:** Markdown & Zettelkasten ile kalıcı bilgi inşa et.
+6. **Milli Kökler & Küresel Standart:** Yerli dertleri evrensel liyakatle çöz.
+7. **Bedel Ödemekten Korkma:** Hata keşfin başlangıcıdır; derini masaya koy.
 
 ---
 
-### XXVI. Özgür Zihnin Yol Haritası: 12 Sarsılmaz İlke
+### XXVII. Özgür Zihnin Yol Haritası: 12 Sarsılmaz İlke
 
 1. **İcazet Arama Hastalığından Kurtul:** Üretmek için bir profesörün onayına, bir kürsünün lütfuna ihtiyacın yok.
 2. **Kodu ve Eseri Konuştur:** Diplomanın süslü yalanları karşısında en dürüst hakem çalışan açık kaynak kod ve milli üretimdir.
@@ -508,29 +471,30 @@ graph LR
 
 ---
 
-### XXVII. Büyük Zihinlerin Amfi ve Bürokrasi İtirazları Koleksiyonu
+### XXVIII. Büyük Zihinlerin Amfi ve Bürokrasi İtirazları Koleksiyonu
 
 > *"Eğitim, okulda öğrenilen her şey unutulduktan sonra geriye kalandır. Merakın formel eğitim çarkından sağ çıkması bir mucizedir."*  
 > — **Albert Einstein**
 
-> *"Benim beynim sadece bir alıcıdır. Evrende bilgi, güç ve ilham aldığımız yüce bir çekirdek vardır. Ben bu çekirdeğin sırlarına nüfuz edemedim ama var olduğunu biliyorum."*  
+> *"Benim beynim sadece bir alıcıdır. Evrende bilgi, güç ve ilham aldığımız yüce bir çekirdek vardır."*  
 > — **Nikola Tesla**
 
-> *"Matematik de resim ve musiki gibi bir sanattır. Onu formül ezberine indirgeyenler ruhunu anlamamıştır. Hakiki matematikçi amfilerin değil, hakikatin aşığıdır."*  
+> *"Matematik de resim ve musiki gibi bir sanattır. Onu formül ezberine indirgeyenler ruhunu anlamamıştır."*  
 > — **Ord. Prof. Dr. Cahit Arf**
 
-> *"Düşünce şüpheyle başlar. Şüphe etmeyen kafa mezardan farksızdır. Amfilerin mermerleri değil, insanın hakikate duyduğu tecessüs onu âlim kılar."*  
+> *"Düşünce şüpheyle başlar. Şüphe etmeyen kafa mezardan farksızdır."*  
 > — **Cemil Meriç**
 
-> *"Aç kal, budala kal (Stay hungry, stay foolish). Başkalarının dogmalarının gürültüsünün kendi iç sesinizi boğmasına izin vermeyin."*  
+> *"Aç kal, budala kal (Stay hungry, stay foolish)."*  
 > — **Steve Jobs**
 
 ---
 
-### XXVIII. Akademik İkiyüzlülük Sözlüğü (Jargon Dekoderi)
+### XXIX. Akademik İkiyüzlülük Sözlüğü (Jargon Dekoderi)
 
 | Resmi Akademik Terim | Kurumsal Perdenin Arkasındaki Acı Hakikat |
 | :--- | :--- |
+| **"1982 YÖK Düzeni"** | Sistemin kendi tornasından geçmiş eski kurbanları yeni gardiyanlar yaptığı oligarşik çark. |
 | **"Bölüm Huzuru"** | Hocanın bariz cehaletine ve mobbingine kimsenin ses çıkaramaması. |
 | **"Akademik Teşvik"** | Puan toplamak için yağmacı dergilerde dilimlenmiş çöp makale avcılığı. |
 | **"Jüri Kararı"** | Feodal kürsü üyelerinin birbirinin akrabasına veya müridine kadro tahsis etmesi. |
@@ -542,7 +506,7 @@ graph LR
 
 ---
 
-### XXIX. Kavramsal Karşılaştırma Matrisi
+### XXX. Kavramsal Karşılaştırma Matrisi
 
 | Kriter | 🏰 Geleneksel Bürokrasi Akademisi | ⚡ Milli & Otonom Teknoloji Üretimi |
 | :--- | :--- | :--- |
@@ -556,7 +520,7 @@ graph LR
 
 ---
 
-### XXX. Felsefi, Sosyolojik ve Bilimsel Literatür Kaynakçası
+### XXXI. Felsefi, Sosyolojik ve Bilimsel Literatür Kaynakçası
 
 - **Cemil Meriç** — *Bu Ülke* / *Umrandan Uygarlığa* / *Kırk Ambar*, İletişim Yayınları.
 - **Nurettin Topçu** — *Türkiye'nin Maarif Davası* / *İsyan Ahlâkı*, Dergâh Yayınları.
@@ -571,6 +535,8 @@ graph LR
 - **John P. A. Ioannidis** — *Why Most Published Research Findings Are False*, PLoS Medicine, 2005.
 - **Nature Raporları** — *1,500 scientists lift the lid on reproducibility (2016)* & *Global PhD Survey on Mental Health and Bullying (2019)*.
 - **Alan Sokal** — *Transgressing the Boundaries: Towards a Transformative Hermeneutics of Quantum Gravity*, Social Text, 1996.
+- **Upton Sinclair** — *I, Candidate for Governor: And How I Got Licked*.
+- **Robert Michels** — *Political Parties: A Sociological Study of the Oligarchical Tendencies of Modern Democracy*.
 - **George Orwell** — *Politics and the English Language (Siyaset ve İngiliz Dili)*.
 - **Richard Feynman** — *Surely You're Joking, Mr. Feynman! (Emin Misiniz Bay Feynman?)*, Alfa Yayınları.
 - **Paul Feyerabend** — *Against Method (Yönteme Karşı)*, Ayrıntı Yayınları.
