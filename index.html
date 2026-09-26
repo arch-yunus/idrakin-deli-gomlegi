@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="tr" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>İdrakin Deli Gömleği — Üniversite, Tecessüsün Katli ve Teslimiyet Senedi</title>
+  <meta name="description" content="Modern üniversite bürokrasisi, tecessüsün katli ve icazetsiz otonom üretim manifestosu.">
+  <meta name="theme-color" content="#0d1117">
+  
+  <!-- Open Graph -->
+  <meta property="og:title" content="İdrakin Deli Gömleği">
+  <meta property="og:description" content="Üniversite, Tecessüsün Katli ve Teslimiyet Senedi — İcazetsiz Düşünce Manifestosu">
+  <meta property="og:type" content="article">
+
+  <!-- Fonts & Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: ['class', '[data-theme="dark"]'],
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              crimson: '#e63946',
+              gold: '#d4af37',
+              darkbg: '#0a0d12',
+              cardbg: '#12161f',
+              border: '#232936'
+            }
+          },
+          fontFamily: {
+            display: ['Cinzel', 'serif'],
+            serif: ['Newsreader', 'Georgia', 'serif'],
+            sans: ['Inter', 'sans-serif'],
+            mono: ['JetBrains Mono', 'monospace']
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    :root {
+      --bg: #090c10;
+      --card-bg: #111620;
+      --text-main: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #f87171;
+      --border-color: #21262d;
+      --quote-bg: rgba(239, 68, 68, 0.05);
+    }
+
+    [data-theme="sepia"] {
+      --bg: #fbf0d9;
+      --card-bg: #f4e3c1;
+      --text-main: #2d261e;
+      --text-muted: #6e604f;
+      --accent: #b45309;
+      --border-color: #e2cca5;
+      --quote-bg: rgba(180, 83, 9, 0.08);
+    }
+
+    [data-theme="light"] {
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --accent: #dc2626;
+      --border-color: #e2e8f0;
+      --quote-bg: rgba(220, 38, 38, 0.05);
+    }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text-main);
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    .prose-custom p {
+      font-family: 'Newsreader', Georgia, serif;
+      font-size: 1.22rem;
+      line-height: 1.85;
+      margin-bottom: 1.75rem;
+      color: var(--text-main);
+    }
+
+    .quote-box {
+      background: var(--quote-bg);
+      border-left: 4px solid var(--accent);
+      border-radius: 0 0.5rem 0.5rem 0;
+    }
+
+    .progress-bar {
+      height: 3px;
+      background: linear-gradient(90deg, #ef4444, #f59e0b, #10b981);
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 0%;
+      z-index: 100;
+      transition: width 0.1s linear;
+    }
+
+    /* Custom Scrollbar */
+    ::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+    ::-webkit-scrollbar-track {
+      background: var(--bg);
+    }
+    ::-webkit-scrollbar-thumb {
+      background: var(--border-color);
+      border-radius: 4px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: var(--accent);
+    }
+
+    .active-nav-link {
+      color: var(--accent) !important;
+      font-weight: 600;
+      border-left-color: var(--accent) !important;
+    }
+
+    @media print {
+      .no-print { display: none !important; }
+      body { background: white !important; color: black !important; }
+      .prose-custom p { font-size: 11pt !important; line-height: 1.5 !important; }
+    }
+  </style>
+</head>
+<body class="font-sans antialiased selection:bg-red-900/50 selection:text-red-200">
+  <!-- Progress Bar -->
+  <div id="progressBar" class="progress-bar"></div>
+
+  <!-- Ambient Sound Audio Synth -->
+  <script>
+    let audioCtx = null;
+    let isPlaying = false;
+    let noiseNode = null;
+    let gainNode = null;
+
+    function toggleAmbientSound() {
+      const btn = document.getElementById('soundBtn');
+      if (!audioCtx) {
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      }
+
+      if (!isPlaying) {
+        // Create brown noise generator for focus reading
+        const bufferSize = audioCtx.sampleRate * 2;
+        const noiseBuffer = audioCtx.createBuffer(1, bufferSize, audioCtx.sampleRate);
+        const output = noiseBuffer.getChannelData(0);
+        let lastOut = 0.0;
+        for (let i = 0; i < bufferSize; i++) {
+          const white = Math.random() * 2 - 1;
+          output[i] = (lastOut + (0.02 * white)) / 1.02;
+          lastOut = output[i];
+          output[i] *= 3.5; // Gain compensation
+        }
+        noiseNode = audioCtx.createBufferSource();
+        noiseNode.buffer = noiseBuffer;
+        noiseNode.loop = true;
+
+        gainNode = audioCtx.createGain();
+        gainNode.gain.setValueAtTime(0.04, audioCtx.currentTime);
+
+        noiseNode.connect(gainNode);
+        gainNode.connect(audioCtx.destination);
+        noiseNode.start();
+        isPlaying = true;
+        btn.innerHTML = `<span class="inline-block w-2 h-2 rounded-full bg-emerald-500 animate-pulse mr-1"></span> Ambiyans: Açık`;
+        btn.classList.add('border-emerald-500/50', 'text-emerald-400');
+      } else {
+        if (noiseNode) {
+          noiseNode.stop();
+          noiseNode.disconnect();
+        }
+        isPlaying = false;
+        btn.innerHTML = `🎧 Odak Sesi`;
+        btn.classList.remove('border-emerald-500/50', 'text-emerald-400');
+      }
+    }
+  </script>
+
+  <!-- Top Navigation Bar -->
+  <header class="sticky top-0 z-40 backdrop-blur-md bg-opacity-80 border-b border-[var(--border-color)] bg-[var(--bg)] px-4 sm:px-8 py-3 transition-colors no-print">
+    <div class="max-w-7xl mx-auto flex items-center justify-between">
+      <div class="flex items-center space-x-3">
+        <a href="#" class="font-display font-black text-xl tracking-wider text-red-500 hover:text-red-400 flex items-center gap-2">
+          <span class="text-2xl">⚡</span>
+          <span>İDRAKİN DELİ GÖMLEĞİ</span>
+        </a>
+        <span class="hidden md:inline-block px-2 py-0.5 text-xs font-mono rounded bg-red-950/60 text-red-400 border border-red-800/40">
+          Manifesto v2.0
+        </span>
+      </div>
+
+      <!-- Controls -->
+      <div class="flex items-center space-x-2 sm:space-x-3 text-xs sm:text-sm">
+        <!-- Search Trigger -->
+        <div class="relative hidden sm:block">
+          <input type="text" id="searchInput" placeholder="Manifestoda ara..." 
+                 class="px-3 py-1.5 rounded-lg bg-[var(--card-bg)] border border-[var(--border-color)] text-xs focus:outline-none focus:border-red-500 w-36 lg:w-48 placeholder-[var(--text-muted)] text-[var(--text-main)]">
+        </div>
+
+        <!-- Ambient Audio Button -->
+        <button id="soundBtn" onclick="toggleAmbientSound()" 
+                class="px-2.5 py-1.5 rounded-lg border border-[var(--border-color)] hover:border-red-500/50 transition-colors flex items-center gap-1 font-mono text-xs">
+          🎧 Odak Sesi
+        </button>
+
+        <!-- Theme Switcher -->
+        <div class="flex items-center border border-[var(--border-color)] rounded-lg p-0.5 bg-[var(--card-bg)]">
+          <button onclick="setTheme('dark')" id="theme-dark" class="px-2 py-1 rounded text-xs hover:text-red-400 transition" title="Karanlık Mod">🌙</button>
+          <button onclick="setTheme('sepia')" id="theme-sepia" class="px-2 py-1 rounded text-xs hover:text-amber-500 transition" title="Sepya Mod">📜</button>
+          <button onclick="setTheme('light')" id="theme-light" class="px-2 py-1 rounded text-xs hover:text-blue-500 transition" title="Aydınlık Mod">☀️</button>
+        </div>
+
+        <!-- Font Resizer -->
+        <div class="hidden md:flex items-center border border-[var(--border-color)] rounded-lg p-0.5 bg-[var(--card-bg)]">
+          <button onclick="adjustFontSize(-1)" class="px-2 py-1 text-xs hover:text-red-400 font-bold" title="Yazıyı Küçült">A-</button>
+          <button onclick="adjustFontSize(1)" class="px-2 py-1 text-xs hover:text-red-400 font-bold" title="Yazıyı Büyüt">A+</button>
+        </div>
+
+        <!-- GitHub Repo -->
+        <a href="https://github.com/arch-yunus/idrakin-deli-gomlegi" target="_blank" rel="noopener" 
+           class="px-3 py-1.5 rounded-lg bg-red-600 hover:bg-red-500 text-white font-medium text-xs flex items-center gap-1.5 transition">
+          <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+          <span class="hidden sm:inline">GitHub</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-10">
+      
+      <!-- Left Sidebar: Table of Contents & Info -->
+      <aside class="hidden lg:block lg:col-span-3 no-print">
+        <div class="sticky top-20 space-y-6">
+          <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
+            <h3 class="font-mono text-xs uppercase tracking-wider text-[var(--text-muted)] mb-3 flex items-center gap-2">
+              <span>📖</span> İçindekiler
+            </h3>
+            <nav id="tocNav" class="space-y-1 text-sm font-sans max-h-[60vh] overflow-y-auto pr-2">
+              <a href="#mesele" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">Mesele: Mabedin Çöküşü</a>
+              <a href="#bolum-1" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">I. Teslimiyet Senedi Olarak Diploma</a>
+              <a href="#bolum-2" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">II. Kürsü Derebeyliği</a>
+              <a href="#bolum-3" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">III. Uysal Bedenler ve Sınav</a>
+              <a href="#bolum-4" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">IV. Erginleşememe Prangası</a>
+              <a href="#bolum-5" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">V. Kakistokrasi ve Tersine Seçilim</a>
+              <a href="#bolum-6" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">VI. Emek Gasbı ve Asistan Sömürüsü</a>
+              <a href="#bolum-7" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">VII. Sosyal Tahliye Vanaları</a>
+              <a href="#bolum-8" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">VIII. İcazetsiz Üretim</a>
+              <a href="#bolum-9" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">IX. Dijital Agora ve Yapay Zekâ</a>
+              <a href="#bolum-10" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">X. 10 Temel İlke</a>
+              <a href="#matris" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">Karşılaştırma Matrisi</a>
+              <a href="#kaynakca" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">Kaynakça & Literatür</a>
+            </nav>
+          </div>
+
+          <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)] text-xs font-mono space-y-2">
+            <div class="flex justify-between text-[var(--text-muted)]">
+              <span>Tahmini Okuma:</span>
+              <span class="text-[var(--text-main)] font-semibold">12 Dakika</span>
+            </div>
+            <div class="flex justify-between text-[var(--text-muted)]">
+              <span>Kelime Sayısı:</span>
+              <span class="text-[var(--text-main)] font-semibold">~2,400</span>
+            </div>
+            <div class="flex justify-between text-[var(--text-muted)]">
+              <span>Lisans:</span>
+              <span class="text-[var(--text-main)] font-semibold">CC BY-NC-SA 4.0</span>
+            </div>
+          </div>
+        </div>
+      </aside>
+
+      <!-- Center / Right Article Content -->
+      <main class="lg:col-span-9 max-w-3xl prose-custom mx-auto" id="articleBody">
+        
+        <!-- Manifesto Header -->
+        <div class="border-b border-[var(--border-color)] pb-10 mb-10 text-center sm:text-left">
+          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-red-950/40 text-red-400 border border-red-800/40 text-xs font-mono mb-4">
+            <span>🔥</span> Felsefi & Sosyolojik İtiraz Manifestosu
+          </div>
+          <h1 class="font-display font-black text-3xl sm:text-4xl lg:text-5xl tracking-tight leading-tight mb-4 text-[var(--text-main)]">
+            İDRAKİN DELİ GÖMLEĞİ
+          </h1>
+          <p class="font-serif italic text-xl sm:text-2xl text-[var(--text-muted)] leading-relaxed">
+            Üniversite, Tecessüsün Katli ve Teslimiyet Senedi
+          </p>
+          <div class="flex items-center gap-4 mt-6 text-xs font-mono text-[var(--text-muted)] justify-center sm:justify-start">
+            <span>Yazar: <strong>arch-yunus</strong></span>
+            <span>•</span>
+            <span>Konu: <strong>Akademi & Otonom Bilgi</strong></span>
+          </div>
+        </div>
+
+        <!-- Epic Main Epigraph -->
+        <div class="quote-box p-6 mb-12 shadow-sm">
+          <p class="font-serif italic text-lg sm:text-xl text-[var(--text-main)] mb-2">
+            "İzm'ler idrakimize giydirilen deli gömlekleri. İtibari, samimi olmayan tabular. Kollarımızı bağlayan, bizi birbirimize düşman eden mefhumlar. Düşünceye vurulan zincirler."
+          </p>
+          <div class="font-mono text-xs text-red-400 font-semibold tracking-wider uppercase">— Cemil Meriç, <em>Bu Ülke</em></div>
+        </div>
+
+        <!-- Chapter: Mesele -->
+        <section id="mesele" class="mb-14 scroll-mt-24">
+          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
+            <span class="text-red-500 font-mono text-xl">#</span> Mesele: Mabedin Çöküşü ve Kurumsallaşan Zihinsel Esaret
+          </h2>
+          <p>
+            İnsan idrakinin en saf, en ele avuca sığmaz itici gücü <strong>tecessüstür</strong>; yani hakikati arama iştiyakı, doymak bilmez bir anlama, sökme ve sıfırdan inşa etme arzusu. Bu arzu doğası gereği serazattır; sınır tanımaz, hiçbir kalıba sığmaz, ne bir binanın harcına hapsedilebilir ne de vizelerin ve finallerin dar takvimine.
+          </p>
+          <p>
+            Oysa modern dünya, hakikatin bu vahşi ve kuralsız nehrini ıslah etmek, onu ehlileştirip devlet aygıtının ve sermayenin dişlilerine uyumlu hale getirmek için adına "akademi" denen devasa mabetler inşa etmiştir.
+          </p>
+          <p>
+            Cemil Meriç, zihni donduran ithal fikir şablonlarına <em>"idrake giydirilen deli gömlekleri"</em> teşhisini koyarken meseleyi salt ideolojik bir körleşme olarak ele alıyordu. Oysa bugün o gömlek, soyut mefhumların sınırlarını aşmış; amfileri, sararmış ders notları, kürsü derebeylikleri ve bürokratik ceza zırhlarıyla <strong>bizatihi modern üniversitenin fiziksel ve kurumsal mimarisine dönüşmüştür.</strong>
+          </p>
+          <p>
+            Bir alana derin bir merakla, üretme ateşiyle giren bir genç dimağ; üniversite kapısından adım attığı anda hakikatin agorasını değil, ortaçağ lonca sisteminin bürokratik devlet memurluğuyla tahkim edilmiş modern bir karikatürünü bulur. Kendi merakının peşinden gitmek isteyen zihin, sistemin mengenesinde un ufak edilir; heyecan yerini bürokratik yılgınlığa, üretim aşkı ise itaat talimlerine bırakır.
+          </p>
+        </section>
+
+        <!-- Chapter I -->
+        <section id="bolum-1" class="mb-14 scroll-mt-24">
+          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
+            <span class="text-red-500 font-mono text-xl">I.</span> Teslimiyet Senedi Olarak Diploma
+          </h2>
+          <p>
+            Toplumsal yanılsama, üniversite diplomasını bir bilgi, liyakat ve erginleşme ehliyeti zanneder. Oysa üniversite fabrikasının banttan indirdiği ürün bilgi değil, uysallaştırılmış memurdur.
+          </p>
+          
+          <div class="p-5 my-6 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)] text-red-400 font-serif italic text-lg leading-snug">
+            "Diploma, bireye verilen bir ehliyet değil; sistemin onayından geçtiğini, sivriliklerinin törpülendiğini ve uysallaştırıldığını tescilleyen bir teslimiyet senedidir."
+          </div>
+
+          <p>
+            Dört veya beş yıl boyunca bir amfide tescillenen şey zihinsel derinlik değildir:
+          </p>
+          <ul class="list-disc pl-6 space-y-2 mb-6 font-serif text-lg text-[var(--text-main)]">
+            <li>Saçma ve çağdışı bir bürokrasiye ses çıkarmadan tahammül edebilme kapasitesi,</li>
+            <li>Hocanın bariz cehaletini ve hatalarını yüzüne vurmayacak kadar kendini sansürleme becerisi,</li>
+            <li>Anlamsız bir ezberi sınav kâğıdına kusup kapıdan çıktığı an unutmayı kabulleniş,</li>
+            <li>Kendi özgün metodolojisini çöpe atıp "kürsünün istediği şablonu" taklit etme ikiyüzlülüğü.</li>
+          </ul>
+
+          <p>
+            Altına atılan rektör ve dekan imzalarının arkasındaki gizli metin şudur: <em>"Bu birey artık tehlikesizdir. Köşeleri zımparalanmış, merakı hadım edilmiş, sisteme memur olmaya hazır hale getirilmiştir."</em> Eğer bir insanın sivrilikleri törpülenmemişse, o diploma ya hiç verilmez ya da o kişi orayı terk etmek zorunda kalır. Çünkü köşe, çarkı bozar; sistem ise sadece pürüzsüz yuvarlanan dişlilerle döner.
+          </p>
+
+          <div class="quote-box p-5 my-6">
+            <p class="font-serif italic text-base sm:text-lg mb-2">
+              "Okullaşmış toplumda bilgi bir meta, diploma ise o metanın tekelini elinde tutan loncanın şantaj aracıdır. İnsanlar öğrenme yetilerini okullara devrettikçe kendi meraklarına yabancılaşır ve kurumların sunduğu paket programlar dışında hiçbir şey yapamayacaklarına inandırılırlar."
+            </p>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Ivan Illich, <em>Okulsuz Toplum</em></div>
+          </div>
+        </section>
+
+        <!-- Chapter II -->
+        <section id="bolum-2" class="mb-14 scroll-mt-24">
+          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
+            <span class="text-red-500 font-mono text-xl">II.</span> Kürsü Derebeyliği ve Hakikatin Maaşa İpoteklenmesi
+          </h2>
+          <p>
+            Akademi, bilgi üretiminin ve hür tefekkürün kalesi olduğu iddiasıyla meşruiyet devşirir; oysa gerçekte unvan tüccarlarının ve konfor alanı bekçilerinin patrimonyal mülküdür. Arthur Schopenhauer, ta 19. yüzyılda bu sahte kutsallığın maskesini acımasızca indirmiştir:
+          </p>
+
+          <div class="quote-box p-5 my-6">
+            <p class="font-serif italic text-base sm:text-lg mb-2">
+              "Hakikati aramakla değil, devletten alacağı maaşla ve kürsüdeki koltuğuyla ilgilenen unvan sahipleri felsefeyi ve bilimi boğar. Üniversite felsefesi, hakikatin değil; geçim derdinin, itibar avcılığının ve bakanlıkların talimatlarının hizmetindedir. Hakikat ise tehlikelidir, rahat bozar; bu yüzden üniversite kürsülerine asla yaklaştırılmaz."
+            </p>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Arthur Schopenhauer, <em>Üniversite Felsefesi Üzerine</em></div>
+          </div>
+
+          <p>
+            Üniversite hocası, kürsüsünü bir araştırma tezgâhı değil, ferman dağıttığı feodal bir tımar arazisi olarak görür. Kendisine soru sorulmasını cehaletine yöneltilmiş bir tecavüz, literatürün güncel halinin hatırlatılmasını ise "hocalık onuruna hakaret" sayar. Celal Şengör'ün şu tespiti bu toprakların değişmez trajedisidir:
+          </p>
+
+          <div class="quote-box p-5 my-6">
+            <p class="font-serif italic text-base sm:text-lg mb-2">
+              "Bizde üniversite hocası kendini yarı-tanrı zanneder. Odasına girerken titrersin, soru sorarsan düşman beller. Bu kafa feodal kabile reisliği kafasıdır. Bu kafayla dünya çapında tek bir bilim insanı yetiştiremezsin; yetiştiklerini de Batı'ya kaçırırsın."
+            </p>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Prof. Dr. A. M. Celal Şengör</div>
+          </div>
+        </section>
+
+        <!-- Chapter III -->
+        <section id="bolum-3" class="mb-14 scroll-mt-24">
+          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
+            <span class="text-red-500 font-mono text-xl">III.</span> Uysal Bedenler İmalatı: Sınav Ritüeli ve Panoptikon
+          </h2>
+          <p>
+            Üniversite amfisi ve sınav salonu, nesnel bilginin ölçüldüğü tarafsız alanlar değildir. Michel Foucault'nun hapishane, kışla ve hastane üçgeninde analiz ettiği disiplinci iktidarın en rafine uygulama sahalarıdır.
+          </p>
+
+          <div class="quote-box p-5 my-6">
+            <p class="font-serif italic text-base sm:text-lg mb-2">
+              "Disiplinci iktidar, bireyleri uysal bedenler haline getirmek için çalışır. Sınav ritüeli bu uysallaştırmanın doruk noktasıdır; bireyi sürekli bir gözetim, kayıt ve hiyerarşik sınıflandırma mekanizmasına hapseder. Sınavda amaç bilginin derinliği değil; iktidarın normuna ne kadar kusursuz uyulduğunun denetlenmesidir."
+            </p>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Michel Foucault, <em>Hapishanenin Doğuşu</em></div>
+          </div>
+
+          <p>
+            Sınavlar; öğrencinin idrakini terbiye etmek, ona haddini bildirmek ve itaati zihinsel bir omurilik refleksine dönüştürmek üzere kurgulanmış ayinlerdir. Paulo Freire'nin bankacı eğitim modeli tam burada işler: Öğrenci hocanın 25 yıl önce sararmış notlarını zihnine yatırır ve sınavda geri tahsil ettirir.
+          </p>
+        </section>
+
+        <!-- Chapter IV -->
+        <section id="bolum-4" class="mb-14 scroll-mt-24">
+          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
+            <span class="text-red-500 font-mono text-xl">IV.</span> Erginleşememe Prangası ve Fabrika Düzeni
+          </h2>
+          <p>
+            Immanuel Kant, aydınlanmayı bir hürriyet manifestosu olarak sunarken, insanın kendi aklını başkalarının rehberliği olmadan kullanamayışını <em>"ergin olmama hali"</em> olarak tarif ediyordu:
+          </p>
+          
+          <div class="quote-box p-5 my-6">
+            <p class="font-serif italic text-base sm:text-lg mb-2">
+              "Aydınlanma; insanın kendi suçu ile düşmüş olduğu bir ergin olmama durumundan kurtulmasıdır. Sapere Aude! Kendi aklını kullanma cesaretini göster!"
+            </p>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Immanuel Kant, <em>Aydınlanma Nedir?</em></div>
+          </div>
+
+          <p>
+            Oysa üniversite öğrenciye sürekli şunu fısıldar: <em>"Sen tek başına düşünemezsin, bizim icazetimiz olmadan konuşamazsın."</em> Nietzsche'nin uyardığı gibi, amaç deha yetiştirmek değil, devlet çarkının uysal birer memurunu banttan indirmektir.
+          </p>
+        </section>
+
+        <!-- Chapter V -->
+        <section id="bolum-5" class="mb-14 scroll-mt-24">
+          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
+            <span class="text-red-500 font-mono text-xl">V.</span> Simgesel Şiddet ve Tersine Doğal Seçilim (Kakistokrasi)
+          </h2>
+          <p>
+            Pierre Bourdieu'nün <em>Homo Academicus</em> eserinde vurguladığı üzere akademi kapalı bir kasttır. Bu kast, liyakati tasfiye edip vasatı ödüllendiren kusursuz bir <strong>Tersine Doğal Seçilim</strong> kurmuştur.
+          </p>
+
+          <div class="quote-box p-5 my-6">
+            <p class="font-serif italic text-base sm:text-lg mb-2">
+              "Bana Amerika'da neden kaldığımı soruyorlar. Çünkü orada bana 'Sen kimsin, hocana nasıl karşı çıkarsın?' demediler; 'Ne buldun, teorin ne?' dediler. Liyakat ve dürüstlük olmayan bir yerde bilim yeşermez; sadece dalkavukluk yeşerir."
+            </p>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Prof. Dr. Aziz Sancar</div>
+          </div>
+
+          <div class="quote-box p-5 my-6">
+            <p class="font-serif italic text-base sm:text-lg mb-2">
+              "Üniversite, hocanın dediklerini ezberleyip tekrar edenlerin değil; hocanın dediklerinden şüphe duyup daha doğrusunu arayanların yeridir. Şüpheyi suç sayan bir akademi, ortaçağ manastırından farksızdır."
+            </p>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Ord. Prof. Dr. Cahit Arf</div>
+          </div>
+        </section>
+
+        <!-- Chapter VI -->
+        <section id="bolum-6" class="mb-14 scroll-mt-24">
+          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
+            <span class="text-red-500 font-mono text-xl">VI.</span> Emek Gasbı ve Asistan Sömürüsü: Bilginin Zoraki Mülkiyeti
+          </h2>
+          <p>
+            Karl Marx'ın 1844 Elyazmaları'nda bahsettiği emek yabancılaşması akademide doğrudan yaşanır. Genç araştırmacının gecesini gündüzüne katarak yazdığı tez, kodladığı model ve makale; kürsü sahibinin zoraki yazarlığıyla (<em>coercive/gift authorship</em>) gasbedilir. Emekçisi olduğu bilgi üzerinde genç zihne hiçbir hak bırakılmaz.
+          </p>
+        </section>
+
+        <!-- Chapter VII -->
+        <section id="bolum-7" class="mb-14 scroll-mt-24">
+          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
+            <span class="text-red-500 font-mono text-xl">VII.</span> Sosyal Tahliye Vanaları: Öfkenin Sönümlenmesi
+          </h2>
+          <p>
+            Byung-Chul Han'ın <em>Psikopolitika</em> kuramı tam buradaki sessizliği açıklar. Sistem kurduğu 4 tahliye vanasıyla (AÖF koridoru, KYK tamponu, Ek Madde 1 yatay geçişi ve periyodik aflar) öğrencinin isyan potansiyelini buharlaştırır, öfkeyi atomize eder.
+          </p>
+        </section>
+
+        <!-- Chapter VIII -->
+        <section id="bolum-8" class="mb-14 scroll-mt-24">
+          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
+            <span class="text-red-500 font-mono text-xl">VIII.</span> Deli Gömleğini Parçalamak: İcazetsiz Üretim
+          </h2>
+          <p>
+            Jacques Derrida'nın "Koşulsuz Üniversite" ütopyasında ve Noam Chomsky'nin entelektüel sorumluluk çağrısında belirttiği gibi hakikat kurumsal onayların peşinde koşmaz.
+          </p>
+          <div class="quote-box p-5 my-6">
+            <p class="font-serif italic text-base sm:text-lg mb-2">
+              "Bilgi güçtür. Ancak tüm güçler gibi, onu sadece kendilerine saklamak isteyenler vardır... Bilgiyi özgürleştirmek ahlaki bir zorunluluktur."
+            </p>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Aaron Swartz, <em>Guerilla Open Access Manifesto</em></div>
+          </div>
+        </section>
+
+        <!-- Chapter IX -->
+        <section id="bolum-9" class="mb-14 scroll-mt-24">
+          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
+            <span class="text-red-500 font-mono text-xl">IX.</span> Dijital Agora & Açık Kaynak: Bilginin Demokratikleşmesi
+          </h2>
+          <p>
+            Bugün MİT OpenCourseWare, arXiv, GitHub, Linux ekosistemi ve Yapay Zekâ (LLM) eşlikçileri amfilerin kapılarını kırmıştır. Tek bir bağımsız geliştirici yapay zekâ ile eşleşerek koca bir enstitünün bir yılda çıkaramadığı nitelikte üretim yapabilmektedir.
+          </p>
+        </section>
+
+        <!-- Chapter X: 10 Principles -->
+        <section id="bolum-10" class="mb-14 scroll-mt-24">
+          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
+            <span class="text-red-500 font-mono text-xl">X.</span> Özgür Zihnin Yol Haritası: 10 Temel İlke
+          </h2>
+          
+          <div class="grid grid-cols-1 gap-4 font-sans text-sm">
+            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
+              <span class="font-mono font-bold text-red-400 mr-2">01.</span>
+              <strong>İcazet Arama Hastalığından Kurtul:</strong> Üretmek için bir profesörün onayına ihtiyacın yok.
+            </div>
+            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
+              <span class="font-mono font-bold text-red-400 mr-2">02.</span>
+              <strong>Kodu ve Eseri Konuştur:</strong> Diplomanın süslü yalanları karşısında en dürüst hakem çalışan açık kaynak kod ve somut üründür.
+            </div>
+            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
+              <span class="font-mono font-bold text-red-400 mr-2">03.</span>
+              <strong>Amfiyi Araçsallaştır:</strong> Üniversiteyi sadece bir altyapı istasyonu gör; zihnini rektörlük nizamına teslim etme.
+            </div>
+            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
+              <span class="font-mono font-bold text-red-400 mr-2">04.</span>
+              <strong>Sararmış Notları Yak:</strong> Dünyanın en güncel açık yayınları ve global repolarıyla beslen.
+            </div>
+            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
+              <span class="font-mono font-bold text-red-400 mr-2">05.</span>
+              <strong>Kendi Laboratuvarını Tezgâhında Kur:</strong> Masaüstün ve LLM çalışma alanın senin en büyük enstitündür.
+            </div>
+            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
+              <span class="font-mono font-bold text-red-400 mr-2">06.</span>
+              <strong>Açık Lisans Kalkanı Kullan:</strong> Emeğini açık kaynak lisanslarıyla mühürle, emek hırsızlarına kaptırma.
+            </div>
+            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
+              <span class="font-mono font-bold text-red-400 mr-2">07.</span>
+              <strong>Akran Öğrenimini Esas Al:</strong> Hiyerarşi yerine global topluluklarla yatay düzlemde öğren.
+            </div>
+            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
+              <span class="font-mono font-bold text-red-400 mr-2">08.</span>
+              <strong>Not Terörüne Bağışıklık Kazan:</strong> Harf notları zekânın değil, itaatin ölçüsüdür.
+            </div>
+            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
+              <span class="font-mono font-bold text-red-400 mr-2">09.</span>
+              <strong>Polimat ve Otonom Ol:</strong> Donanımı yazılımla, felsefeyi matematikle harmanla.
+            </div>
+            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
+              <span class="font-mono font-bold text-red-400 mr-2">10.</span>
+              <strong>Deli Gömleğini Yırt:</strong> Zihnini rütbelere teslim etme; düşün, inşa et, paylaş ve özgür kal.
+            </div>
+          </div>
+        </section>
+
+        <!-- Chapter: Comparison Matrix -->
+        <section id="matris" class="mb-14 scroll-mt-24">
+          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
+            <span class="text-red-500 font-mono text-xl">#</span> Kavramsal Karşılaştırma Matrisi
+          </h2>
+          <div class="overflow-x-auto rounded-xl border border-[var(--border-color)] bg-[var(--card-bg)]">
+            <table class="w-full text-left font-sans text-xs sm:text-sm">
+              <thead class="bg-black/30 border-b border-[var(--border-color)] text-[var(--text-muted)] font-mono uppercase">
+                <tr>
+                  <th class="p-4">Kriter</th>
+                  <th class="p-4 text-red-400">Geleneksel Bürokrasi</th>
+                  <th class="p-4 text-emerald-400">Otonom & Açık Üretim</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-[var(--border-color)]">
+                <tr>
+                  <td class="p-4 font-semibold">Bilgi Kaynağı</td>
+                  <td class="p-4 text-[var(--text-muted)]">Sararmış ders notları, tekel slaytlar</td>
+                  <td class="p-4 text-[var(--text-main)]">arXiv, GitHub, LLM, OpenCourseWare</td>
+                </tr>
+                <tr>
+                  <td class="p-4 font-semibold">Doğrulama</td>
+                  <td class="p-4 text-[var(--text-muted)]">Hocanın görüşünü papağan gibi tekrarlamak</td>
+                  <td class="p-4 text-[var(--text-main)]">Çalışan kod, gerçek dünya testi, açık PR</td>
+                </tr>
+                <tr>
+                  <td class="p-4 font-semibold">Hiyerarşi</td>
+                  <td class="p-4 text-[var(--text-muted)]">Derebeylik tipi mutlak monolog</td>
+                  <td class="p-4 text-[var(--text-main)]">Eşitler arası açık sokratik tartışma</td>
+                </tr>
+                <tr>
+                  <td class="p-4 font-semibold">Mülkiyet</td>
+                  <td class="p-4 text-[var(--text-muted)]">Asistan emeğinin zoraki gasbı</td>
+                  <td class="p-4 text-[var(--text-main)]">Açık kaynak lisansları (MIT/CC)</td>
+                </tr>
+                <tr>
+                  <td class="p-4 font-semibold">Hata Kültürü</td>
+                  <td class="p-4 text-[var(--text-muted)]">Şüphe suç sayılır, itiraz cezalandırılır</td>
+                  <td class="p-4 text-[var(--text-main)]">Hata keşif fırsatıdır (`issue` & `fix`)</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <!-- Chapter: Bibliography -->
+        <section id="kaynakca" class="mb-14 scroll-mt-24 border-t border-[var(--border-color)] pt-8">
+          <h2 class="font-display font-bold text-xl sm:text-2xl text-[var(--text-main)] mb-6">
+            Felsefi ve Sosyolojik Literatür Kaynakçası
+          </h2>
+          <ul class="space-y-2 text-sm font-serif text-[var(--text-muted)]">
+            <li>• <strong>Cemil Meriç</strong> — <em>Bu Ülke</em>, İletişim Yayınları.</li>
+            <li>• <strong>Arthur Schopenhauer</strong> — <em>Üniversite Felsefesi Üzerine</em>, Say Yayınları.</li>
+            <li>• <strong>Michel Foucault</strong> — <em>Hapishanenin Doğuşu</em>, İmge Kitabevi.</li>
+            <li>• <strong>Pierre Bourdieu</strong> — <em>Homo Academicus</em>, Stanford Univ Press.</li>
+            <li>• <strong>Ivan Illich</strong> — <em>Okulsuz Toplum</em>, Şule Yayınları.</li>
+            <li>• <strong>Paulo Freire</strong> — <em>Ezilenlerin Pedagojisi</em>, Ayrıntı Yayınları.</li>
+            <li>• <strong>Immanuel Kant</strong> — <em>Aydınlanma Nedir?</em></li>
+            <li>• <strong>Byung-Chul Han</strong> — <em>Psikopolitika</em>, Metis Yayınları.</li>
+            <li>• <strong>Aaron Swartz</strong> — <em>Guerilla Open Access Manifesto</em>, 2008.</li>
+            <li>• <strong>Prof. Dr. Oktay Sinanoğlu</strong> — <em>Büyük Uyanış & Hedef Türkiye</em>.</li>
+            <li>• <strong>Prof. Dr. Aziz Sancar</strong> — <em>Nobel Otobiyografisi</em>.</li>
+            <li>• <strong>Ord. Prof. Dr. Cahit Arf</strong> — <em>Matematik ve Hayat</em>.</li>
+          </ul>
+        </section>
+
+        <!-- Final Epigraph -->
+        <div class="text-center py-10 border-t border-[var(--border-color)]">
+          <p class="font-serif italic text-xl text-red-400 mb-2">
+            "Kelimeleri rütbelerine göre kabul eden bir cemiyette, hakikat nasıl nefes alsın?"
+          </p>
+          <span class="font-mono text-xs text-[var(--text-muted)]">— Cemil Meriç</span>
+        </div>
+
+      </main>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="border-t border-[var(--border-color)] bg-[var(--card-bg)] py-8 mt-16 text-center text-xs font-mono text-[var(--text-muted)] no-print">
+    <div class="max-w-7xl mx-auto px-4 space-y-2">
+      <p>İdrakin Deli Gömleği — İcazetsiz Düşünce ve Otonom Üretim Manifestosu</p>
+      <p>Açık kaynak olarak dağıtılmaktadır. Lisans: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="underline text-red-400">CC BY-NC-SA 4.0</a></p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script>
+    // Theme setter
+    function setTheme(themeName) {
+      document.documentElement.setAttribute('data-theme', themeName);
+      localStorage.setItem('idrakin_theme', themeName);
+    }
+    const savedTheme = localStorage.getItem('idrakin_theme') || 'dark';
+    setTheme(savedTheme);
+
+    // Font size adjust
+    let currentFontSize = 1.22;
+    function adjustFontSize(delta) {
+      currentFontSize = Math.max(1.0, Math.min(1.6, currentFontSize + (delta * 0.08)));
+      document.querySelectorAll('.prose-custom p').forEach(el => {
+        el.style.fontSize = `${currentFontSize}rem`;
+      });
+    }
+
+    // Scroll Progress & Active TOC
+    window.addEventListener('scroll', () => {
+      const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrolled = (winScroll / height) * 100;
+      document.getElementById('progressBar').style.width = scrolled + '%';
+
+      // Highlight active TOC link
+      const sections = document.querySelectorAll('main section');
+      const navLinks = document.querySelectorAll('#tocNav a');
+      let currentSectionId = '';
+
+      sections.forEach(sec => {
+        const top = sec.offsetTop - 150;
+        if (winScroll >= top) {
+          currentSectionId = sec.getAttribute('id');
+        }
+      });
+
+      navLinks.forEach(link => {
+        link.classList.remove('active-nav-link');
+        if (link.getAttribute('href') === `#${currentSectionId}`) {
+          link.classList.add('active-nav-link');
+        }
+      });
+    });
+
+    // Simple search filter
+    document.getElementById('searchInput')?.addEventListener('input', (e) => {
+      const term = e.target.value.toLowerCase().trim();
+      const paragraphs = document.querySelectorAll('.prose-custom p, .prose-custom .quote-box, .prose-custom section');
+      if (!term) {
+        paragraphs.forEach(p => p.style.opacity = '1');
+        return;
+      }
+      paragraphs.forEach(p => {
+        if (p.textContent.toLowerCase().includes(term)) {
+          p.style.opacity = '1';
+        } else {
+          p.style.opacity = '0.3';
+        }
+      });
+    });
+  </script>
+</body>
+</html>
