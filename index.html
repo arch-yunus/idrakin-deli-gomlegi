@@ -10,6 +10,7 @@
   <!-- Open Graph -->
   <meta property="og:title" content="İdrakin Deli Gömleği">
   <meta property="og:description" content="Üniversite, Tecessüsün Katli ve Teslimiyet Senedi — İcazetsiz Düşünce Manifestosu">
+  <meta property="og:image" content="./assets/hero-banner.jpg">
   <meta property="og:type" content="article">
 
   <!-- Fonts & Icons -->
@@ -128,6 +129,15 @@
       border-left-color: var(--accent) !important;
     }
 
+    .banner-img {
+      border-radius: 12px;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4), 0 8px 10px -6px rgba(0, 0, 0, 0.4);
+      margin: 2rem 0;
+      width: 100%;
+      object-fit: cover;
+      border: 1px solid var(--border-color);
+    }
+
     @media print {
       .no-print { display: none !important; }
       body { background: white !important; color: black !important; }
@@ -197,13 +207,13 @@
           <span>İDRAKİN DELİ GÖMLEĞİ</span>
         </a>
         <span class="hidden md:inline-block px-2 py-0.5 text-xs font-mono rounded bg-red-950/60 text-red-400 border border-red-800/40">
-          Manifesto v2.5 (Extended)
+          Manifesto & Galeri
         </span>
       </div>
 
       <!-- Controls -->
       <div class="flex items-center space-x-2 sm:space-x-3 text-xs sm:text-sm">
-        <!-- Search Trigger -->
+        <!-- Search -->
         <div class="relative hidden sm:block">
           <input type="text" id="searchInput" placeholder="Manifestoda ara..." 
                  class="px-3 py-1.5 rounded-lg bg-[var(--card-bg)] border border-[var(--border-color)] text-xs focus:outline-none focus:border-red-500 w-36 lg:w-48 placeholder-[var(--text-muted)] text-[var(--text-main)]">
@@ -270,21 +280,6 @@
               <a href="#kaynakca" class="block py-1 pl-2 border-l-2 border-transparent text-[var(--text-muted)] hover:text-red-400 text-xs transition">Genişletilmiş Kaynakça</a>
             </nav>
           </div>
-
-          <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)] text-xs font-mono space-y-2">
-            <div class="flex justify-between text-[var(--text-muted)]">
-              <span>Tahmini Okuma:</span>
-              <span class="text-[var(--text-main)] font-semibold">16 Dakika</span>
-            </div>
-            <div class="flex justify-between text-[var(--text-muted)]">
-              <span>Kelime Sayısı:</span>
-              <span class="text-[var(--text-main)] font-semibold">~3,400</span>
-            </div>
-            <div class="flex justify-between text-[var(--text-muted)]">
-              <span>Lisans:</span>
-              <span class="text-[var(--text-main)] font-semibold">CC BY-NC-SA 4.0</span>
-            </div>
-          </div>
         </div>
       </aside>
 
@@ -292,7 +287,7 @@
       <main class="lg:col-span-9 max-w-3xl prose-custom mx-auto" id="articleBody">
         
         <!-- Manifesto Header -->
-        <div class="border-b border-[var(--border-color)] pb-10 mb-10 text-center sm:text-left">
+        <div class="border-b border-[var(--border-color)] pb-6 mb-8 text-center sm:text-left">
           <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-red-950/40 text-red-400 border border-red-800/40 text-xs font-mono mb-4">
             <span>🔥</span> Felsefi, Sosyolojik ve Bilimsel İtiraz Manifestosu
           </div>
@@ -302,26 +297,17 @@
           <p class="font-serif italic text-xl sm:text-2xl text-[var(--text-muted)] leading-relaxed">
             Üniversite, Tecessüsün Katli ve Teslimiyet Senedi
           </p>
-          <div class="flex items-center gap-4 mt-6 text-xs font-mono text-[var(--text-muted)] justify-center sm:justify-start">
-            <span>Yazar: <strong>arch-yunus</strong></span>
-            <span>•</span>
-            <span>Kapsam: <strong>Genişletilmiş Literatür</strong></span>
-          </div>
         </div>
 
+        <!-- Hero Banner 1 -->
+        <img src="./assets/hero-banner.jpg" alt="İdrakin Deli Gömleğini Parçalamak" class="banner-img">
+
         <!-- Epic Epigraphs -->
-        <div class="quote-box p-6 mb-8 shadow-sm">
+        <div class="quote-box p-6 mb-6 shadow-sm">
           <p class="font-serif italic text-lg sm:text-xl text-[var(--text-main)] mb-2">
             "İzm'ler idrakimize giydirilen deli gömlekleri. İtibari, samimi olmayan tabular. Kollarımızı bağlayan, bizi birbirimize düşman eden mefhumlar. Düşünceye vurulan zincirler."
           </p>
           <div class="font-mono text-xs text-red-400 font-semibold tracking-wider uppercase">— Cemil Meriç, <em>Bu Ülke</em></div>
-        </div>
-
-        <div class="quote-box p-6 mb-12 shadow-sm">
-          <p class="font-serif italic text-lg sm:text-xl text-[var(--text-main)] mb-2">
-            "Mektep, insanı kendi fıtratına yabancılaştıran, ruhu öldürüp yerine diplomayı ikame eden bir bezirgânlık haline gelmiştir. Hakiki mektep unvan dağıtan değil, hakikate sevdalı şahsiyetler yoğuran ocaktır."
-          </p>
-          <div class="font-mono text-xs text-red-400 font-semibold tracking-wider uppercase">— Nurettin Topçu, <em>Türkiye'nin Maarif Davası</em></div>
         </div>
 
         <!-- Chapter: Mesele -->
@@ -332,37 +318,21 @@
           <p>
             İnsan idrakinin en saf, en ele avuca sığmaz itici gücü <strong>tecessüstür</strong>; yani hakikati arama iştiyakı, doymak bilmez bir anlama, sökme ve sıfırdan inşa etme arzusu. Bu arzu doğası gereği serazattır; sınır tanımaz, hiçbir kalıba sığmaz, ne bir binanın harcına hapsedilebilir ne de vizelerin ve finallerin dar takvimine.
           </p>
-          
           <div class="quote-box p-5 my-6">
             <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Üniversite, hakikatin koşulsuz arandığı bir cemaat olmaktan çıkıp devletin memur ihtiyacını karşılayan bir meslek okuluna veya bürokratik bir aygıta dönüştüğünde kendi ruhunu katleder. Hakikat arayışı kurumsal mekanizmaların emrine verilemez."
+              "Üniversite, hakikatin koşulsuz arandığı bir cemaat olmaktan çıkıp devletin memur ihtiyacını karşılayan bir meslek okuluna veya bürokratik bir aygıta dönüştüğünde kendi ruhunu katleder."
             </p>
             <div class="font-mono text-xs text-red-400 font-semibold">— Karl Jaspers, <em>Die Idee der Universität</em></div>
           </div>
-
-          <p>
-            Cemil Meriç, zihni donduran ithal fikir şablonlarına <em>"idrake giydirilen deli gömlekleri"</em> teşhisini koyarken meseleyi salt ideolojik bir körleşme olarak ele alıyordu. Oysa bugün o gömlek, soyut mefhumların sınırlarını aşmış; amfileri, sararmış ders notları, kürsü derebeylikleri ve bürokratik ceza zırhlarıyla <strong>bizatihi modern üniversitenin fiziksel ve kurumsal mimarisine dönüşmüştür.</strong>
-          </p>
         </section>
 
         <!-- Chapter I -->
         <section id="bolum-1" class="mb-14 scroll-mt-24">
           <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
-            <span class="text-red-500 font-mono text-xl">I.</span> Teslimiyet Senedi Olarak Diploma: İtaatin Belgesi
+            <span class="text-red-500 font-mono text-xl">I.</span> Teslimiyet Senedi Olarak Diploma
           </h2>
-          <p>
-            Toplumsal yanılsama, üniversite diplomasını bir bilgi, liyakat ve erginleşme ehliyeti zanneder. Oysa üniversite fabrikasının banttan indirdiği ürün bilgi değil, uysallaştırılmış memurdur.
-          </p>
-          
           <div class="p-5 my-6 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)] text-red-400 font-serif italic text-lg leading-snug">
             "Diploma, bireye verilen bir ehliyet değil; sistemin onayından geçtiğini, sivriliklerinin törpülendiğini ve uysallaştırıldığını tescilleyen bir teslimiyet senedidir."
-          </div>
-
-          <div class="quote-box p-5 my-6">
-            <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Diploma, modern insanın efendisine gösterdiği kölelik beratıdır. İnsanlar bir kâğıt parçası uğruna haysiyetlerini, meraklarını ve şahsiyetlerini amfilerin kapısında bırakırlar."
-            </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— İsmet Özel, <em>Üç Mesele</em></div>
           </div>
         </section>
 
@@ -373,26 +343,23 @@
           </h2>
           <div class="quote-box p-5 my-6">
             <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Hakikati aramakla değil, devletten alacağı maaşla ve kürsüdeki koltuğuyla ilgilenen unvan sahipleri felsefeyi ve bilimi boğar. Üniversite felsefesi, hakikatin değil; geçim derdinin, itibar avcılığının ve bakanlıkların talimatlarının hizmetindedir."
+              "Hakikati aramakla değil, devletten alacağı maaşla ve kürsüdeki koltuğuyla ilgilenen unvan sahipleri felsefeyi ve bilimi boğar."
             </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— Arthur Schopenhauer, <em>Üniversite Felsefesi Üzerine</em></div>
-          </div>
-          <div class="quote-box p-5 my-6">
-            <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Bizde üniversite hocası kendini yarı-tanrı zanneder. Odasına girerken titrersin, soru sorarsan düşman beller. Bu kafa feodal kabile reisliği kafasıdır."
-            </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— Prof. Dr. A. M. Celal Şengör</div>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Arthur Schopenhauer</div>
           </div>
         </section>
 
-        <!-- Chapter III -->
+        <!-- Chapter III & Banner 2 -->
         <section id="bolum-3" class="mb-14 scroll-mt-24">
           <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
             <span class="text-red-500 font-mono text-xl">III.</span> Uysal Bedenler İmalatı: Sınav Ritüeli ve Panoptikon
           </h2>
+          <!-- Banner 2: Panopticon Exam -->
+          <img src="./assets/panopticon-exam.jpg" alt="Panoptikon Sınav Salonu" class="banner-img">
+
           <div class="quote-box p-5 my-6">
             <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Disiplinci iktidar, bireyleri uysal bedenler haline getirmek için çalışır. Sınav ritüeli bu uysallaştırmanın doruk noktasıdır; bireyi sürekli bir gözetim, kayıt ve hiyerarşik sınıflandırma mekanizmasına hapseder."
+              "Disiplinci iktidar, bireyleri uysal bedenler haline getirmek için çalışır. Sınav ritüeli bu uysallaştırmanın doruk noktasıdır."
             </p>
             <div class="font-mono text-xs text-red-400 font-semibold">— Michel Foucault, <em>Hapishanenin Doğuşu</em></div>
           </div>
@@ -405,15 +372,9 @@
           </h2>
           <div class="quote-box p-5 my-6">
             <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Öğrencilerin her şeyi harfiyen ezberlediğini gördüm. Kitaptaki formülleri ezbere okuyor, sınav sorularına kitaptaki cümlelerle yanıt veriyorlardı. Ama somut tek bir örnek sorduğumda tam bir sessizlik oluyordu! Hiçbir şey anlamamışlardı. Bu bilim değil; bir kargo kültüdür."
+              "Öğrencilerin her şeyi harfiyen ezberlediğini gördüm. Ama doğadan somut tek bir örnek sorduğumda tam bir sessizlik oluyordu! Bu bilim değil; bir kargo kültüdür."
             </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— Richard Feynman, <em>Surely You're Joking, Mr. Feynman!</em></div>
-          </div>
-          <div class="quote-box p-5 my-6">
-            <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Öğretilmiş cehalet, bilmeyen insanın cehaletinden bin kat daha tehlikelidir. Çünkü diplomalı cahil, bildiğini zannettiği için hakikati aramayı bütünüyle bırakmıştır."
-            </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— Ali Şeriati, <em>Kendini Devrimci Yetiştirmek</em></div>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Richard Feynman</div>
           </div>
         </section>
 
@@ -424,45 +385,26 @@
           </h2>
           <div class="quote-box p-5 my-6">
             <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Aydınlanma; insanın kendi suçu ile düşmüş olduğu bir ergin olmama durumundan kurtulmasıdır. Sapere Aude! Kendi aklını kullanma cesaretini göster!"
+              "Aydınlanma; insanın kendi suçu ile düşmüş olduğu bir ergin olmama durumundan kurtulmasıdır. Sapere Aude!"
             </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— Immanuel Kant, <em>Aydınlanma Nedir?</em></div>
-          </div>
-          <div class="quote-box p-5 my-6">
-            <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Eğitim sistemi bilgi aşılamak için değil, otoriteye itaat edecek ve kurulu nizamı asla sorgulamayacak uysal kitleler imal etmek için dizayn edilmiştir."
-            </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— Bertrand Russell, <em>Education and the Social Order</em></div>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Immanuel Kant</div>
           </div>
         </section>
 
-        <!-- Chapter VI -->
+        <!-- Chapter VI & Banner 3 -->
         <section id="bolum-6" class="mb-14 scroll-mt-24">
           <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
-            <span class="text-red-500 font-mono text-xl">VI.</span> Simgesel Şiddet ve Tersine Doğal Seçilim: Kakistokrasi
+            <span class="text-red-500 font-mono text-xl">VI.</span> Simgesel Şiddet ve Kakistokrasi Sarmalı
           </h2>
+          <!-- Banner 3: Feudal Chair -->
+          <img src="./assets/feudal-chair.jpg" alt="Kürsü Derebeyliği ve Kakistokrasi" class="banner-img">
+
           <div class="quote-box p-5 my-6">
             <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Bana Amerika'da 'Sen kimsin, hocana nasıl karşı çıkarsın?' demediler; 'Ne buldun, teorin ne?' dediler. Liyakat ve dürüstlük olmayan bir yerde bilim yeşermez; sadece dalkavukluk yeşerir."
+              "Bana Amerika'da 'Sen kimsin, hocana nasıl karşı çıkarsın?' demediler; 'Ne buldun, teorin ne?' dediler. Liyakat olmayan yerde sadece dalkavukluk yeşerir."
             </p>
             <div class="font-mono text-xs text-red-400 font-semibold">— Prof. Dr. Aziz Sancar</div>
           </div>
-          <div class="quote-box p-5 my-6">
-            <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Üniversite, hocanın dediklerinden şüphe duyup daha doğrusunu arayanların yeridir. Şüpheyi suç sayan bir akademi, ortaçağ manastırından farksızdır."
-            </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— Ord. Prof. Dr. Cahit Arf</div>
-          </div>
-        </section>
-
-        <!-- Chapter VII -->
-        <section id="bolum-7" class="mb-14 scroll-mt-24">
-          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
-            <span class="text-red-500 font-mono text-xl">VII.</span> Emek Gasbı ve Asistan Sömürüsü
-          </h2>
-          <p>
-            Genç araştırmacının gecesini gündüzüne katarak yazdığı tez ve makaleler, kürsü sahibinin zoraki yazarlığıyla (<em>coercive authorship</em>) gasbedilir. Emek yabancılaşması doğrudan asistanın sırtında somutlaşır.
-          </p>
         </section>
 
         <!-- Chapter VIII: Feyerabend -->
@@ -472,96 +414,49 @@
           </h2>
           <div class="quote-box p-5 my-6">
             <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Bilim tarihi göstermektedir ki, en büyük keşifler yerleşik yöntem kuralları çiğnendiğinde yapılmıştır. Bilime tek bir yöntem dayatmak aklı hadım etmektir. Tek geçerli ilke vardır: Her şey uyar (Anything goes)!"
+              "Bilime tek bir yöntem dayatmak aklı hadım etmektir. Tek geçerli ilke vardır: Her şey uyar (Anything goes)!"
             </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— Paul Feyerabend, <em>Against Method</em></div>
-          </div>
-          <div class="quote-box p-5 my-6">
-            <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Bilimsel zihnin oluşumunda en büyük engel bilgisizlik değil; yerleşik ve kutsanmış eski bilgilerdir."
-            </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— Gaston Bachelard, <em>Bilimsel Zihnin Oluşumu</em></div>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Paul Feyerabend</div>
           </div>
         </section>
 
         <!-- Chapter IX: Taleb -->
         <section id="bolum-9" class="mb-14 scroll-mt-24">
           <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
-            <span class="text-red-500 font-mono text-xl">IX.</span> "Derisi Masada Olmayanlar": Riski Başkasına Yıkan Parazitlik
+            <span class="text-red-500 font-mono text-xl">IX.</span> "Derisi Masada Olmayanlar" (Skin in the Game)
           </h2>
           <div class="quote-box p-5 my-6">
             <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Bir teoriyi ortaya atan ama o teorinin çöküşünden hiçbir bedel ödemeyen, risk almayan (no skin in the game) akademisyenin fikirleri değersizdir. Pratikte hiçbir sistem inşa etmemiş unvan sahipleri, bedelini başkalarının ödediği sahte bilgelikler satarlar."
+              "Bir teoriyi ortaya atan ama o teorinin çöküşünden hiçbir bedel ödemeyen, risk almayan (no skin in the game) akademisyenin fikirleri değersizdir."
             </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— Nassim Nicholas Taleb, <em>Skin in the Game</em></div>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Nassim Nicholas Taleb</div>
           </div>
         </section>
 
-        <!-- Chapter X: Arendt -->
-        <section id="bolum-10" class="mb-14 scroll-mt-24">
-          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
-            <span class="text-red-500 font-mono text-xl">X.</span> Düşüncesizliğin Banalitesi: Bürokratik Memurlaşma
-          </h2>
-          <div class="quote-box p-5 my-6">
-            <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Kötülük çoğu zaman sadece kurallara harfiyen uyan, kendi aklıyla düşünmeyi ve vicdani sorgulamayı bırakmış sıradan bürokratların elinde sıradanlaşır."
-            </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— Hannah Arendt, <em>Kötülüğün Sıradanlığı</em></div>
-          </div>
-        </section>
-
-        <!-- Chapter XI: Tahliye Vanaları -->
-        <section id="bolum-11" class="mb-14 scroll-mt-24">
-          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
-            <span class="text-red-500 font-mono text-xl">XI.</span> Sosyal Tahliye Vanaları: Öfkenin Sönümlenmesi
-          </h2>
-          <div class="quote-box p-5 my-6">
-            <p class="font-serif italic text-base sm:text-lg mb-2">
-              "Bugün iktidar bireyi kendi yetersizliğine inandırarak sömürür. Birey başarısızlığı kişisel eksikliği zanneder, depresyona girer ve enerjisini içe doğru patlatır."
-            </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— Byung-Chul Han, <em>Psikopolitika</em></div>
-          </div>
-        </section>
-
-        <!-- Chapter XII: İcazetsiz Üretim -->
+        <!-- Chapter XII & Banner 5 -->
         <section id="bolum-12" class="mb-14 scroll-mt-24">
           <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
             <span class="text-red-500 font-mono text-xl">XII.</span> Deli Gömleğini Parçalamak: İcazetsiz Üretim
           </h2>
+          <!-- Banner 5: Sapere Aude Freedom -->
+          <img src="./assets/sapere-aude-freedom.jpg" alt="Sapere Aude - Amfilerden Sonsuz Kozmosa Çıkış" class="banner-img">
+
           <div class="quote-box p-5 my-6">
             <p class="font-serif italic text-base sm:text-lg mb-2">
               "Bilgi güçtür. Ancak onu sadece kendilerine saklamak isteyenler vardır. Bilgiyi özgürleştirmek ahlaki bir zorunluluktur."
             </p>
-            <div class="font-mono text-xs text-red-400 font-semibold">— Aaron Swartz, <em>Guerilla Open Access Manifesto</em></div>
+            <div class="font-mono text-xs text-red-400 font-semibold">— Aaron Swartz</div>
           </div>
         </section>
 
-        <!-- Chapter XIII: Dehalar Panteonu -->
-        <section id="bolum-13" class="mb-14 scroll-mt-24">
-          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
-            <span class="text-red-500 font-mono text-xl">XIII.</span> Otonom Polimatlar Panteonu: Amfisiz Dehaların Mirası
-          </h2>
-          <div class="space-y-4 font-sans text-sm">
-            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
-              <strong class="text-red-400">Nikola Tesla:</strong> Üniversiteyi terk etti; amfilerin "imkânsız" dediği alternatif akımı (AC) ve indüksiyon motorunu tek başına icat etti.
-            </div>
-            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
-              <strong class="text-red-400">Leonardo da Vinci:</strong> Formel akademi eğitimi almamış bir *"uomo senza lettere"* idi; anatomide ve mühendislikte çağının ötesine geçti.
-            </div>
-            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
-              <strong class="text-red-400">Srinivasa Ramanujan:</strong> Hiçbir unvanı olmadan Cambridge profesörlerinin çözemediği binlerce matematik teoremini defterine yazdı.
-            </div>
-            <div class="p-4 rounded-xl bg-[var(--card-bg)] border border-[var(--border-color)]">
-              <strong class="text-red-400">Linus Torvalds:</strong> Üniversite kürsülerine meydan okuyarak Linux çekirdeğini oturma odasında geliştirdi.
-            </div>
-          </div>
-        </section>
-
-        <!-- Chapter XIV: Dijital Agora -->
+        <!-- Chapter XIV & Banner 4 -->
         <section id="bolum-14" class="mb-14 scroll-mt-24">
           <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
-            <span class="text-red-500 font-mono text-xl">XIV.</span> Dijital Agora & Açık Kaynak: Bilginin Demokratikleşmesi
+            <span class="text-red-500 font-mono text-xl">XIV.</span> Dijital Agora & Açık Kaynak
           </h2>
+          <!-- Banner 4: Digital Agora -->
+          <img src="./assets/digital-agora.jpg" alt="Açık Kaynak Dijital Agora" class="banner-img">
+
           <p>
             MİT OpenCourseWare, arXiv, GitHub ve LLM modelleri kürsü tekellerini yerle bir etmiştir. Tek bir bağımsız geliştirici yapay zekâ ile eşleşerek koca bir enstitünün 1 yılda üretemediği sistemleri inşa edebilmektedir.
           </p>
@@ -625,82 +520,6 @@
           </div>
         </section>
 
-        <!-- Chapter: Comparison Matrix -->
-        <section id="matris" class="mb-14 scroll-mt-24">
-          <h2 class="font-display font-bold text-2xl sm:text-3xl text-[var(--text-main)] mb-6 flex items-center gap-3">
-            <span class="text-red-500 font-mono text-xl">#</span> Kavramsal Karşılaştırma Matrisi
-          </h2>
-          <div class="overflow-x-auto rounded-xl border border-[var(--border-color)] bg-[var(--card-bg)]">
-            <table class="w-full text-left font-sans text-xs sm:text-sm">
-              <thead class="bg-black/30 border-b border-[var(--border-color)] text-[var(--text-muted)] font-mono uppercase">
-                <tr>
-                  <th class="p-4">Kriter</th>
-                  <th class="p-4 text-red-400">Geleneksel Bürokrasi</th>
-                  <th class="p-4 text-emerald-400">Otonom & Açık Üretim</th>
-                </tr>
-              </thead>
-              <tbody class="divide-y divide-[var(--border-color)]">
-                <tr>
-                  <td class="p-4 font-semibold">Bilgi Kaynağı</td>
-                  <td class="p-4 text-[var(--text-muted)]">Sararmış ders notları, tekel slaytlar</td>
-                  <td class="p-4 text-[var(--text-main)]">arXiv, GitHub, LLM, OpenCourseWare</td>
-                </tr>
-                <tr>
-                  <td class="p-4 font-semibold">Doğrulama</td>
-                  <td class="p-4 text-[var(--text-muted)]">Hocanın görüşünü papağan gibi tekrarlamak</td>
-                  <td class="p-4 text-[var(--text-main)]">Çalışan kod, gerçek dünya testi, açık PR</td>
-                </tr>
-                <tr>
-                  <td class="p-4 font-semibold">Hiyerarşi</td>
-                  <td class="p-4 text-[var(--text-muted)]">Derebeylik tipi mutlak monolog</td>
-                  <td class="p-4 text-[var(--text-main)]">Eşitler arası açık sokratik tartışma</td>
-                </tr>
-                <tr>
-                  <td class="p-4 font-semibold">Mülkiyet</td>
-                  <td class="p-4 text-[var(--text-muted)]">Asistan emeğinin zoraki gasbı</td>
-                  <td class="p-4 text-[var(--text-main)]">Açık kaynak lisansları (MIT/CC)</td>
-                </tr>
-                <tr>
-                  <td class="p-4 font-semibold">Risk & Sorumluluk</td>
-                  <td class="p-4 text-[var(--text-muted)]">Skin in the game yok, sıfır bedel</td>
-                  <td class="p-4 text-[var(--text-main)]">Derisi masada; gerçek dünya testi</td>
-                </tr>
-                <tr>
-                  <td class="p-4 font-semibold">Hata Kültürü</td>
-                  <td class="p-4 text-[var(--text-muted)]">Şüphe suç sayılır, itiraz cezalandırılır</td>
-                  <td class="p-4 text-[var(--text-main)]">Hata keşif fırsatıdır (`issue` & `fix`)</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </section>
-
-        <!-- Chapter: Bibliography -->
-        <section id="kaynakca" class="mb-14 scroll-mt-24 border-t border-[var(--border-color)] pt-8">
-          <h2 class="font-display font-bold text-xl sm:text-2xl text-[var(--text-main)] mb-6">
-            Felsefi, Sosyolojik ve Bilimsel Literatür Kaynakçası
-          </h2>
-          <ul class="space-y-2 text-sm font-serif text-[var(--text-muted)]">
-            <li>• <strong>Cemil Meriç</strong> — <em>Bu Ülke</em> / <em>Umrandan Uygarlığa</em></li>
-            <li>• <strong>Nurettin Topçu</strong> — <em>Türkiye'nin Maarif Davası</em></li>
-            <li>• <strong>İsmet Özel</strong> — <em>Üç Mesele</em></li>
-            <li>• <strong>Richard Feynman</strong> — <em>Surely You're Joking, Mr. Feynman!</em></li>
-            <li>• <strong>Karl Jaspers</strong> — <em>Die Idee der Universität</em></li>
-            <li>• <strong>Paul Feyerabend</strong> — <em>Against Method</em></li>
-            <li>• <strong>Nassim Nicholas Taleb</strong> — <em>Skin in the Game</em></li>
-            <li>• <strong>Hannah Arendt</strong> — <em>Eichmann Kudüs'te</em></li>
-            <li>• <strong>Arthur Schopenhauer</strong> — <em>Üniversite Felsefesi Üzerine</em></li>
-            <li>• <strong>Michel Foucault</strong> — <em>Hapishanenin Doğuşu</em></li>
-            <li>• <strong>Pierre Bourdieu</strong> — <em>Homo Academicus</em></li>
-            <li>• <strong>Ivan Illich</strong> — <em>Okulsuz Toplum</em></li>
-            <li>• <strong>Byung-Chul Han</strong> — <em>Psikopolitika</em></li>
-            <li>• <strong>Aaron Swartz</strong> — <em>Guerilla Open Access Manifesto</em></li>
-            <li>• <strong>Prof. Dr. Oktay Sinanoğlu</strong> — <em>Büyük Uyanış</em></li>
-            <li>• <strong>Prof. Dr. Aziz Sancar</strong> — <em>Nobel Otobiyografisi</em></li>
-            <li>• <strong>Ord. Prof. Dr. Cahit Arf</strong> — <em>Matematik ve Hayat</em></li>
-          </ul>
-        </section>
-
         <!-- Final Epigraph -->
         <div class="text-center py-10 border-t border-[var(--border-color)]">
           <p class="font-serif italic text-xl text-red-400 mb-2">
@@ -723,7 +542,6 @@
 
   <!-- Scripts -->
   <script>
-    // Theme setter
     function setTheme(themeName) {
       document.documentElement.setAttribute('data-theme', themeName);
       localStorage.setItem('idrakin_theme', themeName);
@@ -731,7 +549,6 @@
     const savedTheme = localStorage.getItem('idrakin_theme') || 'dark';
     setTheme(savedTheme);
 
-    // Font size adjust
     let currentFontSize = 1.22;
     function adjustFontSize(delta) {
       currentFontSize = Math.max(1.0, Math.min(1.6, currentFontSize + (delta * 0.08)));
@@ -740,14 +557,12 @@
       });
     }
 
-    // Scroll Progress & Active TOC
     window.addEventListener('scroll', () => {
       const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
       const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
       const scrolled = (winScroll / height) * 100;
       document.getElementById('progressBar').style.width = scrolled + '%';
 
-      // Highlight active TOC link
       const sections = document.querySelectorAll('main section');
       const navLinks = document.querySelectorAll('#tocNav a');
       let currentSectionId = '';
@@ -767,15 +582,14 @@
       });
     });
 
-    // Search filter
     document.getElementById('searchInput')?.addEventListener('input', (e) => {
       const term = e.target.value.toLowerCase().trim();
-      const paragraphs = document.querySelectorAll('.prose-custom p, .prose-custom .quote-box, .prose-custom section');
+      const elements = document.querySelectorAll('.prose-custom p, .prose-custom .quote-box, .prose-custom section');
       if (!term) {
-        paragraphs.forEach(p => p.style.opacity = '1');
+        elements.forEach(p => p.style.opacity = '1');
         return;
       }
-      paragraphs.forEach(p => {
+      elements.forEach(p => {
         if (p.textContent.toLowerCase().includes(term)) {
           p.style.opacity = '1';
         } else {

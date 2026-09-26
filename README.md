@@ -1,9 +1,15 @@
 # İdrakin Deli Gömleği: Üniversite, Tecessüsün Katli ve Teslimiyet Senedi
 
-[![Manifesto](https://img.shields.io/badge/Manifesto-İdrakin%20Deli%20Gömleği-red?style=for-the-badge)](./MANIFESTO.md)
-[![Reading Experience](https://img.shields.io/badge/Web%20Reader-Canlı%20Okuma%20Arayüzü-1f2937?style=for-the-badge&logo=githubpages&logoColor=white)](./index.html)
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Autodidact Revolution](https://img.shields.io/badge/Paradigma-İcazetsiz%20Üretim-emerald?style=for-the-badge)](./LITERATURE.md)
+<p align="center">
+  <img src="./assets/hero-banner.jpg" alt="İdrakin Deli Gömleği - Hero Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);">
+</p>
+
+<p align="center">
+  <a href="./MANIFESTO.md"><img src="https://img.shields.io/badge/Manifesto-İdrakin%20Deli%20Gömleği-red?style=for-the-badge" alt="Manifesto"></a>
+  <a href="./index.html"><img src="https://img.shields.io/badge/Web%20Reader-Canlı%20Okuma%20Arayüzü-1f2937?style=for-the-badge&logo=githubpages&logoColor=white" alt="Web Reader"></a>
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg?style=for-the-badge" alt="CC BY-NC-SA 4.0"></a>
+  <a href="./LITERATURE.md"><img src="https://img.shields.io/badge/Paradigma-İcazetsiz%20Üretim-emerald?style=for-the-badge" alt="Paradigma"></a>
+</p>
 
 > *"İzm'ler idrakimize giydirilen deli gömlekleri. İtibari, samimi olmayan tabular. Kollarımızı bağlayan, bizi birbirimize düşman eden mefhumlar. Düşünceye vurulan zincirler."*  
 > — **Cemil Meriç, *Bu Ülke***
@@ -122,6 +128,10 @@ Jürgen Habermas'ın "iletişimsel eylem" ideali üniversitede iflas eder; rasyo
 
 ### III. Uysal Bedenler İmalatı: Sınav Ritüeli, Not Terörü ve Panoptikon
 
+<p align="center">
+  <img src="./assets/panopticon-exam.jpg" alt="Panoptikon Sınav Salonu ve Disiplinci İktidar" width="100%" style="border-radius: 10px; margin: 15px 0;">
+</p>
+
 Üniversite amfisi ve sınav salonu, nesnel bilginin ölçüldüğü tarafsız alanlar değildir. Michel Foucault'nun hapishane, kışla ve hastane üçgeninde analiz ettiği disiplinci iktidarın en rafine uygulama sahalarıdır.
 
 > *"Disiplinci iktidar, bireyleri uysal bedenler haline getirmek için çalışır. Sınav ritüeli bu uysallaştırmanın doruk noktasıdır; bireyi sürekli bir gözetim, kayıt ve hiyerarşik sınıflandırma mekanizmasına hapseder. Sınavda amaç bilginin derinliği değil; iktidarın normuna ne kadar kusursuz uyulduğunun denetlenmesidir."*  
@@ -172,6 +182,10 @@ Antonio Gramsci'nin "statüko bekçisi geleneksel aydın" dediği figür, ünive
 ---
 
 ### VI. Simgesel Şiddet ve Tersine Doğal Seçilim: Kakistokrasi Sarmalı
+
+<p align="center">
+  <img src="./assets/feudal-chair.jpg" alt="Kürsü Derebeyliği ve Kakistokrasi Sarmalı" width="100%" style="border-radius: 10px; margin: 15px 0;">
+</p>
 
 Pierre Bourdieu, akademinin liyakat odaklı bir masaldan ibaret olduğunu, gerçekte kapalı bir kast sistemi olarak işlediğini gösterir:
 
@@ -277,6 +291,10 @@ Bu içselleştirilmiş çaresizliğin üzerine inşa edilen **4 Büyük Tahliye 
 
 ### XII. Deli Gömleğini Parçalamak: İcazetsiz Üretim ve Yeni-Yakalı Duruş
 
+<p align="center">
+  <img src="./assets/sapere-aude-freedom.jpg" alt="Sapere Aude - Amfilerden Sonsuz Kozmosa Çıkış" width="100%" style="border-radius: 10px; margin: 15px 0;">
+</p>
+
 Hakiki ilim, hiçbir zaman amfi derebeylerinin inayetine veya unvan tüccarlarının icazetine muhtaç olmamıştır. Jacques Derrida'nın "Koşulsuz Üniversite" ütopyasında tarif ettiği bağımsız hakikat arayışı, amfilerin mermer duvarlarına kurban edilemez:
 
 > *"Koşulsuz üniversite, hiçbir dogma ve iktidar odağına bağlı olmaksızın hakikati söyleme ve sorgulama hakkını talep eder. Üniversite bu koşulsuz özgürlüğü kaybettiği anda sadece bürokrasinin bir uzantısı haline gelir."*  
@@ -303,13 +321,17 @@ Aaron Swartz, bilginin duvarlar arkasına hapsedilmesine canı pahasına direnir
 - **Nikola Tesla:** Üniversiteyi terk etti, amfilerin "imkânsız" dediği alternatif akımı (AC), indüksiyon motorunu ve kablosuz iletişimi tek başına icat etti.
   > *"Zihin tecrit içinde keskinleşir. Yaratıcı olmak için yalnız kalmak gerekir. Fikirler dış baskılardan ve kalıplardan uzak kaldığında doğar."* — **Nikola Tesla**
 - **Leonardo da Vinci:** Üniversite eğitimi almamış bir *"uomo senza lettere"* (harfsiz adam) idi. Latince bilmediği için dönemin akademisyenleri tarafından küçümsendi ama anatomi, mühendislik ve sanatta çağının fersah fersah ötesine geçti.
-- **Srinivasa Ramanujan:** Hiçbir formel akademik unvanı olmadan, Cambridge kütüphanelerindeki profesörlerin yüzyılda kanıtlayamadığı binlerce matematik te梳mini tek başına bir deftere yazdı.
+- **Srinivasa Ramanujan:** Hiçbir formel akademik unvanı olmadan, Cambridge kütüphanelerindeki profesörlerin yüzyılda kanıtlayamadığı binlerce matematik teoremini tek başına bir deftere yazdı.
 - **Steve Wozniak & Steve Jobs:** Garajda Apple I ve II'yi lehimleyerek merkezi mainframe tekelini yıktılar.
 - **Linus Torvalds:** Üniversite kürsülerinin kapalı işletim sistemlerine karşı Linux çekirdeğini oturma odasında yazarak açık kaynak devrimini başlattı.
 
 ---
 
 ### XIV. Dijital Agora & Açık Kaynak: Bilginin Demokratikleşmesi ve Yapay Zekâ
+
+<p align="center">
+  <img src="./assets/digital-agora.jpg" alt="Açık Kaynak Dijital Agora ve Otonom Yapay Zekâ Zekâsı" width="100%" style="border-radius: 10px; margin: 15px 0;">
+</p>
 
 21. yüzyıl, amfilerin kapalı kapılarını ve kürsü tekellerini geri dönülmez biçimde yıkmıştır. Bugün bir gencin ihtiyaç duyduğu bilgi:
 * MİT, Stanford, Berkeley'in açık ders arşivlerinde (OpenCourseWare),
