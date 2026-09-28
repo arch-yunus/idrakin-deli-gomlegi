@@ -114,6 +114,10 @@ Sezai Karakoç, üniversitenin bu çoraklaşmasını ve ruhunu yitirişini şu v
 
 ### I. Teslimiyet Senedi Olarak Diploma: İtaatin Belgesi
 
+<p align="center">
+  <img src="./assets/fildisi-kule-prangalar.jpg" alt="Fildişi Kulelerin Çöküşü ve Zihinsel Prangaların Kırılışı" width="100%" style="border-radius: 10px; margin: 15px 0;">
+</p>
+
 Toplumsal yanılsama, üniversite diplomasını bir bilgi, liyakat ve erginleşme ehliyeti zanneder. Oysa üniversite fabrikasının banttan indirdiği ürün bilgi değil, uysallaştırılmış memurdur.
 
 > **Diploma, bireye verilen bir ehliyet değil; sistemin onayından geçtiğini, sivriliklerinin törpülendiğini ve uysallaştırıldığını tescilleyen bir teslimiyet senedidir.**
@@ -414,6 +418,10 @@ Byung-Chul Han (*Psikopolitika*) ve Michel Foucault (*Hapishanenin Doğuşu*); s
 
 ### XX. Ahilik ve Milli Lonca Tezgâhı: Amfilerden Önceki Hakiki Maarif Ocağı
 
+<p align="center">
+  <img src="./assets/ahilik-lonca-tezgahi.jpg" alt="Ahilik ve Milli Lonca Tezgâhı - Hakiki Maarif Ocağı" width="100%" style="border-radius: 10px; margin: 15px 0;">
+</p>
+
 Bu toprakların hakiki eğitim ve üretim modeli; 1982'nin bürokratik amfileri değil, Ahi Evran'ın kurduğu **Ahilik ve Fütüvvet Tezgâhıdır**:
 
 ```mermaid
@@ -490,6 +498,10 @@ Hakiki ilim, amfilerin mermer duvarlarına kurban edilemez. Gazi Mustafa Kemal A
 ---
 
 ### XXV. Açık Donanım ve Garaj Laboratuvarları: Fiziksel Dünyada Amfisiz İnşa
+
+<p align="center">
+  <img src="./assets/garaj-laboratuvari-polimat.jpg" alt="Açık Garaj Laboratuvarı, Tersine Mühendislik ve Yapay Zekâ Destekli Otonom Polimat" width="100%" style="border-radius: 10px; margin: 15px 0;">
+</p>
 
 Akademik tekel sadece yazılımda değil, laboratuvar donanımlarında da kırılmıştır:
 * **Açık Kaynak Donanım (OSHW):** Arduino, Raspberry Pi, ESP32 ve açık mimarili RISC-V çipleriyle tek bir genç kendi işlemci mimarisini tasarlayabilmektedir.
