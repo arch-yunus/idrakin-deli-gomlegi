@@ -27,6 +27,9 @@
 > *"Medreselerden aklî ilimlerin (hendese, riyaziye, hikmet) kovulduğu ve yerine salt şekilci ezberin konduğu gün, bu milletin idrakine pas vurulduğu gündür."*  
 > — **Kâtip Çelebi, *Mîzânü'l-Hakk fî İhtiyâri'l-Ehakk (1656)***
 
+> *"İlim ilim bilmektir, ilim kendin bilmektir. Sen kendini bilmezsin, ya nice okumaktır?"*  
+> — **Yunus Emre**
+
 ---
 
 ## 📑 Ansiklopedik ve Bilimsel İçindekiler
@@ -97,19 +100,23 @@ flowchart TD
 
 İnsan idrakinin en saf, en ele avuca sığmaz itici gücü **tecessüstür**; yani hakikati arama iştiyakı, doymak bilmez bir anlama, sökme ve sıfırdan inşa etme arzusu. Bu arzu doğası gereği serazattır; sınır tanımaz, hiçbir kalıba sığmaz, ne bir binanın harcına hapsedilebilir ne de vizelerin ve finallerin dar takvimine. 
 
-Oysa modern dünya, hakikatin bu vahşi ve kuralsız nehrini ıslah etmek, onu ehlileştirip devlet aygıtının ve sermayenin dişlilerine uyumlu hale getirmek için adına "akademi" denen devasa mabetler inşa etmiştir. Karl Jaspers'ın *Üniversite İdesi* eserinde uyardığı gibi:
+Oysa modern dünya, hakikatin bu vahşi ve kuralsız nehrini ıslah etmek, onu ehlileştirip devlet aygıtının ve sermayenin dişlilerine uyumlu hale getirmek için adına "akademi" denen devasa mabetler inşa etmiştir.
 
 > *"Üniversite, hakikatin koşulsuz arandığı bir cemaat olmaktan çıkıp devletin memur ihtiyacını karşılayan bir meslek okuluna veya bürokratik bir aygıta dönüştüğünde kendi ruhunu katleder. Hakikat arayışı kurumsal mekanizmaların emrine verilemez."*  
 > — **Karl Jaspers, *Die Idee der Universität***
+
+> *"Geçmişin taklitçileri ve saray kapılarının uleması hakikatin perdesidir. İlim, kalıpların kopyalanması değil; tabiatın ve eşyanın hakikatine bizzat nüfuz etmektir."*  
+> — **İbn Haldun, *Mukaddime***
 
 Cemil Meriç, zihni donduran ithal fikir şablonlarına *"idrake giydirilen deli gömlekleri"* teşhisini koyarken meseleyi salt ideolojik bir körleşme olarak ele alıyordu. Oysa bugün o gömlek, soyut mefhumların sınırlarını aşmış; amfileri, sararmış ders notları, kürsü derebeylikleri ve bürokratik ceza zırhlarıyla **bizatihi modern üniversitenin fiziksel ve kurumsal mimarisine dönüşmüştür.**
 
 Bir alana derin bir merakla, üretme ateşiyle giren bir genç dimağ; üniversite kapısından adım attığı anda hakikatin agorasını değil, ortaçağ lonca sisteminin bürokratik devlet memurluğuyla tahkim edilmiş modern bir karikatürünü bulur. Kendi merakının peşinden gitmek isteyen zihin, sistemin mengenesinde un ufak edilir; heyecan yerini bürokratik yılgınlığa, üretim aşkı ise itaat talimlerine bırakır.
 
-Sezai Karakoç, üniversitenin bu çoraklaşmasını ve ruhunu yitirişini şu veciz feryatla dile getirir:
-
 > *"Üniversite, bir hakikat arayışı ve ruh çilesi olmaktan çıkmış; kartvizit dağıtan, unvan fetişizmini besleyen ve zihni memurlaştıran soğuk bir bürokrasi kalesine dönmüştür. Hakiki diriliş, amfilerin mermerlerine değil, hakikatin çilesine talip olmakla başlar."*  
 > — **Sezai Karakoç, *Diriliş Neslinin Âmentüsü***
+
+> *"Bilgi, insanın kendi varlığını inşa etmediği müddetçe sadece bir yüktür. Amfiler eşeklere kitap yüklemekten farksız bir hamallık talimathanesine dönmüştür."*  
+> — **Farabi, *İhsâ'ül-Ulûm***
 
 ---
 
@@ -134,10 +141,14 @@ Altına atılan rektör ve dekan imzalarının arkasındaki gizli metin şudur: 
 > *"Okullaşmış toplumda bilgi bir meta, diploma ise o metanın tekelini elinde tutan loncanın şantaj aracıdır. İnsanlar öğrenme yetilerini okullara devrettikçe kendi meraklarına yabancılaşır ve kurumların sunduğu paket programlar dışında hiçbir şey yapamayacaklarına inandırılırlar."*  
 > — **Ivan Illich, *Okulsuz Toplum***
 
-İsmet Özel ise modern diploma fetişizmini ve kurumsal yabancılaşmayı şu keskin ifadelerle teşhis eder:
-
 > *"Diploma, modern insanın efendisine gösterdiği kölelik beratıdır. İnsanlar bir kâğıt parçası uğruna haysiyetlerini, meraklarını ve şahsiyetlerini amfilerin kapısında bırakırlar."*  
 > — **İsmet Özel, *Üç Mesele***
+
+> *"Okulun eğitimimi engellemesine asla izin vermedim. İnsanın kendi başına öğrendiği şeyler, ona başkalarının zorla öğrettiklerinden daima bin kat daha kalıcıdır."*  
+> — **Mark Twain**
+
+> *"Toplum her yerde üyelerinin bireyselliğine karşı açık bir komplo halindedir. Talep edilen tek erdem teslimiyettir; tahammül edilemeyen tek günah ise özgünlüktür."*  
+> — **Ralph Waldo Emerson, *Self-Reliance (Kendine Güven)***
 
 ---
 
@@ -152,6 +163,12 @@ Akademi, bilgi üretiminin ve hür tefekkürün kalesi olduğu iddiasıyla meşr
 
 > *"Bizde üniversite hocası kendini yarı-tanrı zanneder. Odasına girerken titrersin, soru sorarsan düşman beller. Bu kafa feodal kabile reisliği kafasıdır. Bu kafayla dünya çapında tek bir bilim insanı yetiştiremezsin; yetiştiklerini de Batı'ya kaçırırsın."*  
 > — **Prof. Dr. A. M. Celal Şengör**
+
+> *"Bilimsel tecessüs, otoriteye boyun eğmeyi değil; gerekirse bin yıllık kanaatleri tek bir deneyle çöpe atabilme cesaretini gerektirir. Otoriteye dayanan argümanlar bilimde hiçbir şey ifade etmez."*  
+> — **Galileo Galilei, *İki Büyük Dünya Sistemi Üzerine Diyaloglar***
+
+> *"Akademik kariyer bir şans ve dalkavukluk kumarıdır. Kürsülerin başına geçenler ekseriyetle en yetenekliler değil; sisteme en iyi yaltaklanan vasatlardır."*  
+> — **Max Weber, *Meslek Olarak Bilim***
 
 ---
 
@@ -182,7 +199,11 @@ Amerikalı yazar Upton Sinclair'in meşhur tespiti tam burayı tarif eder:
 > *"Bir adama, maaşı ve statüsü bir şeyi anlamamasına bağlıyken o şeyi anlatmak imkânsızdır."*  
 > — **Upton Sinclair**
 
-Robert Michels'in *"Oligarşinin Tunç Kanunu"* uyarınca, bürokratik yapılar zamanla amacından sapar ve tek amacı kendi varlığını sürdürmek olan kapalı kastlara dönüşür. 1982 düzeni bu yüzden içeriden reforme edilemez; çünkü **içerideki herkes, o düzenin suç ortağı ve hissedarı haline getirilmiştir.**
+> *"Bürokratik örgütler zamanla kuruluş amaçlarını unutur ve tek gayeleri kendi varlıklarını ve ayrıcalıklarını korumak olan demir kafeslere dönüşürler. Bu, oligarşinin tunç kanunudur."*  
+> — **Robert Michels, *Siyasi Partiler ve Oligarşinin Tunç Kanunu***
+
+> *"İktidar seçkinleri, kendi meşruiyetlerini kurumların sahte kutsallığı arkasına saklar. Dışarıdan gelen her eleştiriye 'düzen elden gidiyor' çığlığıyla yanıt verirler."*  
+> — **C. Wright Mills, *İktidar Seçkinleri***
 
 Diplomalı bir zihinden, diplomasızlığın ve icazetsiz üretimin önünü açacak bir devrim beklenemez. Sistemi değiştirecek olanlar, amfilerin icazetini reddedip kendi tezgâhında üretenlerdir.
 
@@ -204,6 +225,9 @@ Nurettin Topçu'nun *Türkiye'nin Maarif Davası*nda haykırdığı gibi:
 > *"Mektep diploma tüccarlığına, amfiler memur kışlasına dönmüştür. Hakiki muallim talebesine unvan değil şahsiyet aşılar; talebesinin zihnini sararmış notlara değil kâinatın sırlarına açar. Ruhsuz bilgi kalbi taşlaştırır, zihni köleleştirir."*  
 > — **Nurettin Topçu**
 
+> *"Zoraki eğitim bir şiddet türüdür. Çocuğa veya gence kendi merakı hilafına bir şeyler ezberletmek, onun ruhunu sakatlamaktan farksızdır."*  
+> — **Lev Tolstoy, *Eğitim ve Öğretim Üzerine***
+
 Paulo Freire'nin "bankacı eğitim modeli" tam bu noktada işler: Öğrenci, hocanın 25 yıl önce daktiloyla yazılmış ders notlarındaki bariz bir hatayı dahi düzeltemez; çünkü o hatayı papağan gibi tekrarlamak sınavdan geçmenin, itiraz edip doğrusunu göstermek ise dersten kalmanın mutlak garantisidir. Birey, aklını kürsünün cehaletine teslim ettiği ölçüde "başarılı" ilan edilir.
 
 ---
@@ -212,15 +236,17 @@ Paulo Freire'nin "bankacı eğitim modeli" tam bu noktada işler: Öğrenci, hoc
 
 Akademik zümre, kendi kısırlığını ve fikir fukaralığını gizlemek için adına "akademik dil" dediği yapay, ağdalı ve anlaşılmaz bir jargon şatosu inşa eder. Basit bir gerçeği herkesin anlayabileceği durulukta söylemek, akademinin sahte büyücülük tekeline tehdit sayılır.
 
-George Orwell, *Siyaset ve İngiliz Dili* denemesinde bu durumu şöyle teşhir eder:
-
 > *"Akademik ve bürokratik jargon, düşünceyi derinleştirmek için değil; saçmalığı saygın göstermek, yalanı hakikat kılığına sokmak ve boşluğa sağlamlık süsü vermek için icat edilmiştir."*  
 > — **George Orwell, *Politics and the English Language***
 
-Arthur Schopenhauer ise bu sahte bilgeliği şu tokat gibi sözlerle yerin dibine batırır:
-
 > *"Açık düşünen insan açık yazar. Bulanık, anlaşılmaz ve ağdalı yazanlar ise aslında kafalarında ne olduğunu kendileri de bilmeyen şarlatanlardır. Bir fikri derin göstermenin en ucuz yolu, onu anlaşılmaz kılmaktır."*  
 > — **Arthur Schopenhauer, *Yazarlık ve Üslup Üzerine***
+
+> *"Söylenebilecek her şey açık ve duru söylenebilir. Üzerine konuşulamayan konusunda ise susulmalıdır."*  
+> — **Ludwig Wittgenstein, *Tractatus Logico-Philosophicus***
+
+> *"Kelimeleri rütbelerine göre kabul eden bir cemiyette, hakikat nasıl nefes alsın? İthal terimlerin arkasına saklananlar bu toprakların idrakini hadım etmişlerdir."*  
+> — **Cemil Meriç, *Bu Ülke***
 
 ---
 
@@ -231,10 +257,14 @@ Nobel Fizik Ödüllü Richard Feynman, ezberci akademi dünyasını sarsan şu t
 > *"Öğrencilerin her şeyi harfiyen ezberlediğini gördüm. Kitaptaki formülleri ezbere okuyor, sınav sorularına kitaptaki cümlelerle kusursuz yanıtlar veriyorlardı. Ama onlara doğadan somut tek bir örnek sorduğumda, ışığın bir aynaya veya suya çarptığında ne yaptığını sorduğumda tam bir sessizlik oluyordu! Hiçbir şey anlamamışlardı. Sadece kelimeleri ve sembolleri papağan gibi ezberlemişlerdi. Bu bilim değil; bilimin taklididir, bir kargo kültüdür."*  
 > — **Richard Feynman, *Surely You're Joking, Mr. Feynman!***
 
-Ali Şeriati bu duruma "öğretilmiş cehalet" adını verir:
-
 > *"Öğretilmiş cehalet, bilmeyen insanın cehaletinden bin kat daha tehlikelidir. Çünkü diplomalı cahil, bildiğini zannettiği için hakikati aramayı bütünüyle bırakmıştır."*  
 > — **Ali Şeriati, *Kendini Devrimci Yetiştirmek***
+
+> *"Ezberleyebildiğin hiçbir şeyi aklında tutma. Asıl deha formülleri ezberlemekte değil, tabiatın kanunlarını sezebilmekte ve sıfırdan kurabilmektedir."*  
+> — **Albert Einstein**
+
+> *"Bilim sadece bir bilgi birikimi değildir; her şeyden önce bir düşünme ve sorgulama biçimidir. Şüpheyi unutan her yapı eninde sonunda büyücülük tekkesine dönüşür."*  
+> — **Carl Sagan, *Karanlık Bir Dünyada Bilimin Mum Işığı***
 
 ---
 
@@ -245,10 +275,14 @@ Immanuel Kant, aydınlanmayı bir hürriyet manifestosu olarak sunarken, insanı
 > *"Aydınlanma; insanın kendi suçu ile düşmüş olduğu bir ergin olmama durumundan kurtulmasıdır. Bu ergin olmayış durumu ise, insanın kendi aklını bir başkasının kılavuzluğuna başvurmaksızın kullanamayışıdır. Sapere Aude! Kendi aklını kullanma cesaretini göster!"*  
 > — **Immanuel Kant, *Aydınlanma Nedir?***
 
-Friedrich Nietzsche ve Bertrand Russell ise üniversitelerin devasa birer memur imalat bandı olduğunu teşhis etmiştir:
-
 > *"Mevcut yükseköğretim kurumları dehanın değil, faydalı ve itaatkâr memurların yetiştirilmesini hedefler. Amaç, tek tek bireyleri tek tip tornadan geçirerek devlet çarkının uysal birer dişlisi haline getirmektir."*  
 > — **Friedrich Nietzsche, *Eğitim Kurumlarımızın Geleceği Üzerine***
+
+> *"Modern eğitim insanlara düşünmeyi değil; ne düşüneceklerini ve sisteme nasıl kusursuz uyum sağlayacaklarını öğretir."*  
+> — **Bertrand Russell, *Eğitim ve Toplumsal Düzen***
+
+> *"Özgürlük cesaret ister. İnsanların çoğu özgür olmak istemez; çünkü özgürlük sorumluluk ve risk getirir. Çoğunluk amfilerin güvenli hapishanesine bu yüzden sığınır."*  
+> — **Erich Fromm, *Özgürlükten Kaçış***
 
 ---
 
@@ -258,8 +292,10 @@ Türkiye'de bilgi üretiminin kurumsal prangalarla boğulması dün başlamamı�
 
 1. **Sahn-ı Seman ve Ali Kuşçu'nun Altın Çağı:** Fatih Sultan Mehmed, Semerkand'ın büyük matematikçi ve astronomu Ali Kuşçu'yu İstanbul'a davet ederek medreseleri matematik ve astronomi temeline oturtmuştu. Hakikat arayışı ve hendese el üstündeydi.
 2. **1580 İstanbul Rasathanesi'nin Yıktırılması Trajedisi:** Takiyüddin er-Râsıd'ın kurduğu ve Tycho Brahe'nin rasathanesinden daha üstün aletlerle donatılmış Tophane Rasathanesi; Şeyhülislam Kadızade'nin *"Gökleri gözetlemek uğursuzluk getirir"* fetvasıyla Kaptan-ı Derya Kılıç Ali Paşa'nın gemilerinden atılan top atışlarıyla yerle bir edildi. Bu top atışları, Doğu'nun bilimsel idrakine vurulan en ağır deli gömleğiydi.
-3. **Kâtip Çelebi'nin Feryadı:** 17. yüzyılda Kâtip Çelebi *Mîzânü'l-Hakk*'ta, medreselerden mantık ve riyaziye (matematik) derslerinin kaldırılmasıyla ilmin yerini dedikodu ve taassubun aldığını acıyla kaydetti.
-4. **1933 Üniversite Reformu ve Darülfünun Tasfiyesi:** İsviçreli pedagog Prof. Albert Malche'nin raporuyla Darülfünun lağvedildi. Rapor; hocaların yabancı dil bilmediğini, sararmış notları papağan gibi tekrarladığını ve dünya literatüründen bütünüyle koptuğunu belgeliyordu. 
+3. **Kâtip Çelebi'nin Feryadı:** 17. yüzyılda Kâtip Çelebi *Mîzânü'l-Hakk*'ta, medreselerden mantık ve riyaziye (matematik) derslerinin kaldırılmasıyla ilmin yerini dedikodu ve taassubun aldığını acıyla kaydetti:
+   > *"Medreselerden aklî ilimler kaldırıldığında cehalet meşrulaştı; herkes birbirini tekfir etmeye başladı. Hendesesiz ilim olmaz."*  
+   > — **Kâtip Çelebi**
+4. **1933 Üniversite Reformu ve Darülfünun Tasfiyesi:** İsviçreli pedagog Prof. Albert Malche'nin raporuyla Darülfünun lağvedildi. Rapor; hocaların yabancı dil bilmediğini, sararmış notları papağan gibi tekrarladığını ve dünya literatüründen bütünüyle koptuğunu belgeliyordu.
 
 Bu tarihi döngü göstermektedir ki; kurumlar değişse de (Medrese -> Darülfünun -> Üniversite), bürokratik zihniyet tecessüsü boğma refleksini daima korumuştur.
 
@@ -273,10 +309,21 @@ Bu tarihi döngü göstermektedir ki; kurumlar değişse de (Medrese -> Darülf�
 
 Bu topraklar; amfilerin bürokratik vesayetine sığmayan, bizzat tezgâhında üreten devasa bir bilim ve inşa mirasına sahiptir:
 
-* **Bedîüzzaman el-Cezeri (1136–1206):** Saray bürokrasisine boyun eğmeden, Artuklu diyarında hidrolik otomatları, çift etkili emme basma tulumbalarını, krank millerini ve su saatlerini bizzat elleriyle inşa etti; sibernetiğin ve robotik mühendisliğin kurucusu oldu. *"Uygulamaya dökülmeyen her bilgi doğru ile yanlış arasında asılı kalır"* diyerek amfi teorisyenliğine 800 yıl önceden tokat attı.
-* **Ord. Prof. Dr. Cahit Arf (1910–1997):** *"Üniversite, hocanın dediklerinden şüphe duyup daha doğrusunu arayanların yeridir"* diyerek Arf Değişmezi, Arf Halkaları ve Arf Kapanışları ile dünya matematik literatürüne silinmez bir mühür vurdu.
-* **Prof. Dr. Oktay Sinanoğlu (1935–2019):** *"Türkiye'de üniversiteler feodal beylikler haline getirilmiştir. Deha bu çarkı kırandır"* diyerek Yale Üniversitesi'nde 26 yaşında 20. yüzyılın en genç tam profesörü oldu; atom ve moleküllerin çoklu elektron teorisini kurdu.
-* **Prof. Dr. Aziz Sancar:** *"Bana Amerika'da 'Sen kimsin, hocana nasıl karşı çıkarsın?' demediler; 'Ne buldun, teorin ne?' dediler. Liyakat olan yerde bilim yeşerir; liyakat olmayan yerde sadece dalkavukluk yeşerir"* diyerek Nobel Kimya Ödülü'ne uzandı.
+* **Bedîüzzaman el-Cezeri (1136–1206):** Saray bürokrasisine boyun eğmeden, Artuklu diyarında hidrolik otomatları, çift etkili emme basma tulumbalarını, krank millerini ve su saatlerini bizzat elleriyle inşa etti; sibernetiğin ve robotik mühendisliğin kurucusu oldu.
+  > *"Uygulamaya dökülmeyen her bilgi doğru ile yanlış arasında asılı kalır."*  
+  > — **El-Cezeri**
+* **Ebû Reyhan el-Bîrûnî (973–1048):** Yeryüzünün yarıçapını dağ başında trigonometriyle ölçerken kürsü icazeti aramadı:
+  > *"Ben bilgiyi sadece hakikat olduğu için ararım; sultanların iltifatı veya unvanlar için değil."*  
+  > — **Bîrûnî**
+* **Ord. Prof. Dr. Cahit Arf (1910–1997):** Arf Değişmezi, Arf Halkaları ve Arf Kapanışları ile dünya matematik literatürüne silinmez bir mühür vurdu:
+  > *"Üniversite, hocanın dediklerinden şüphe duyup daha doğrusunu arayanların yeridir. Matematik bir ezber değil, ruhun sonsuz özgürlük dansıdır."*  
+  > — **Cahit Arf**
+* **Prof. Dr. Oktay Sinanoğlu (1935–2019):** Yale Üniversitesi'nde 26 yaşında 20. yüzyılın en genç tam profesörü oldu:
+  > *"Türkiye'de üniversiteler feodal beylikler haline getirilmiştir. Deha bu çarkı kırandır. Kendi köklerine yaslanmayan ağaç ayakta kalamaz."*  
+  > — **Oktay Sinanoğlu**
+* **Prof. Dr. Aziz Sancar (2015 Nobel Kimya):** DNA onarım mekanizmalarını haritalandırdı:
+  > *"Bana Amerika'da 'Sen kimsin, hocana nasıl karşı çıkarsın?' demediler; 'Ne buldun, teorin ne?' dediler. Liyakat olan yerde bilim yeşerir; liyakat olmayan yerde sadece dalkavukluk yeşerir."*  
+  > — **Aziz Sancar**
 
 ---
 
@@ -300,8 +347,8 @@ flowchart LR
    > *"Dünyanın tüm bilimsel ve kültürel mirası —yüzyıllardır kitaplarda ve dergilerde basılmış olan insanlık hafızası— gitgide dijitalleştirilip bir avuç özel şirketin elinde kilit altına alınıyor. Bilim insanlarına araştırmalarını bedavaya yazdırıp halka parayla satan bu tekele boyun eğmek ahlaki değildir. Bilgiye erişim bir ayrıcalık değil, evrensel bir insan hakkıdır."*  
    > — **Aaron Swartz, *Guerilla Open Access Manifesto (2008)***
 3. **Paralı Yağmacı Dergiler (*Predatory Journals*):** 300-1500 dolar karşılığında hakem sürecini 3 günde tamamlayıp hiçbir bilimsel değeri olmayan çöp metinleri yayınlayan dergilerle doçentlik ve profesörlük toplayan bir bürokrasi ordusu türemiştir.
-4. **Atıf Çeteleri (*Citation Cartels*):** Kürsü üyeleri, birbirlerinin hiçbir işe yaramayan makalelerine zoraki atıflar yaparak H-index puanlarını yapay olarak şişirir; liyakatli genç araştırmacıların önünü bu kartellerle keserler.
-5. **Makale Dilimleme (*Salami Slicing*):** Tek bir anlamlı deney veya algoritma, 5 farklı parçaya bölünerek 5 ayrı yayın gibi sunulur. Amaç bilime katkı değil, teşvik puanını maksimize etmektir.
+4. **Atıf Çeteleri (*Citation Cartels*):** Kürsü üyeleri, birbirlerinin hiçbir işe yaramayan makalelerine zoraki atıflar yaparak H-index puanlarını yapay olarak şişirir.
+5. **Makale Dilimleme (*Salami Slicing*):** Tek bir anlamlı deney veya algoritma, 5 farklı parçaya bölünerek 5 ayrı yayın gibi sunulur.
 
 ---
 
@@ -320,20 +367,39 @@ Stanford Üniversitesi'nden John Ioannidis'in meşhur 2005 makalesi *"Why Most P
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
+> *"Bilimsel literatürün büyük bir kısmı, belki de yarısı, basitçe doğru değildir. Küçük örneklem boyutları, geçersiz analizler ve apaçık çıkar çatışmaları yüzünden bilim karanlığa sürüklenmiştir."*  
+> — **Dr. Richard Horton, *The Lancet Baş Editörü***
+
+> *"Bir teorinin bilimsel olmasının tek kriteri, onun yanlışlanabilir ve tekrarlanabilir olmasıdır. Tekrarlanamayan deneyler bilim değil, dogmadır."*  
+> — **Karl Popper, *Bilimsel Keşfin Mantığı***
+
 ---
 
 ### XII. Kürsünün Reddettiği Nobeller: Karikó, Krebs ve Shechtman Vakaları
 
+Tarih, akademinin en büyük devrimleri önce aforoz edip yıllar sonra ödüllendirdiğinin ibretlik sahneleriyle doludur:
+
 * **Katalin Karikó (2023 Nobel Tıp Ödülü):** mRNA aşı teknolojisinin kurucusu Karikó'nun çığır açan makalesi hem *Nature* hem de *Science* tarafından reddedildi. UPenn tarafından unvanı düşürüldü (*demoted*), laboratuvar fonları kesildi.
+  > *"Bana üniversitede sürekli 'Bu konu çıkmaz sokak, bırak' dediler. Eğer onları dinleseydim mRNA aşısı asla doğmazdı."*  
+  > — **Katalin Karikó**
 * **Hans Krebs (1953 Nobel Tıp Ödülü):** Sitrik Asit Döngüsü makalesi *Nature* dergisi tarafından *"yerimiz yok"* denilerek geri çevrildi.
-* **Dan Shechtman (2011 Nobel Kimya Ödülü):** Yarı-kristalleri (*quasicrystals*) keşfettiğinde Linus Pauling tarafından alay edilip araştırma grubundan kovuldu; yıllar sonra Nobel'i tek başına aldı.
+* **Dan Shechtman (2011 Nobel Kimya Ödülü):** Yarı-kristalleri (*quasicrystals*) keşfettiğinde Linus Pauling tarafından *"Yarı-kristal diye bir şey yoktur, sadece yarı-bilim insanları vardır"* denilerek alay edildi ve araştırma grubundan kovuldu; yıllar sonra Nobel'i tek başına aldı.
 * **Peter Higgs (2013 Nobel Fizik Ödülü):** Higgs Bozonu makalesi CERN Physics Letters tarafından *"fiziksel dünyaya uygulanabilirliği yok"* denilerek reddedildi.
+
+> *"Yeni bir bilimsel gerçek, muhaliflerini ikna edip onların ışığı görmesini sağlayarak zafer kazanmaz; asıl zafer o muhaliflerin zamanla ölmesi ve yeni neslin bu gerçekle büyümesiyle gelir."*  
+> — **Max Planck**
+
+> *"Kurulu paradigmalar kendi krizlerini örtbas etmek için her türlü aykırı keşfi önce sapkınlık ilan eder."*  
+> — **Thomas Kuhn, *Bilimsel Devrimlerin Yapısı***
 
 ---
 
 ### XIII. Hakem Denetiminin İflası: Sokal Olayı ve Jargon İllüzyonu
 
 1996 yılında fizik profesörü Alan Sokal'ın postmodern zırvalardan ibaret makalesinin saygın hakemli dergi *Social Text* tarafından ciddiyetle basılması ve 2018'deki *Sokal Squared* deneyinde 20 uydurma makalenin saygın dergilerden tam not alması; amfilerin "hakemli yayın" putunun ideolojik onay ve jargon büyücülüğünden ibaret olduğunu kanıtlamıştır.
+
+> *"Eğer yazdığınız metin yeterince anlaşılmaz, sol-postmodern jargona boğulmuş ve jürinin önyargılarını okşuyorsa; içinde tek bir mantıklı cümle olmasa dahi 'çığır açıcı bilimsel makale' olarak alkışlanır."*  
+> — **Alan Sokal**
 
 ---
 
@@ -343,6 +409,12 @@ Cemil Meriç bu trajediye *"Tercüme Odası Entelektüeli"* adını verir:
 
 > *"Kendi semamızın yıldızlarına gözlerini kapayıp Batı'nın sönük lambalarına pervanelik edenler, bu millete kılavuzluk edemezler. Düşünce tercüme edilemez; tefekkür bizzat kendi toprağında, kendi diliyle ve kendi sancısıyla doğar."*  
 > — **Cemil Meriç, *Umrandan Uygarlığa***
+
+> *"Kendi dilinde düşünmeyen, yabancı kavramların papağanı olan aydın; kendi milletinin idrakine yabancı bir mankurttur."*  
+> — **Peyami Safa, *Doğu-Batı Sentezi***
+
+> *"Dilde birlik, fikirde birlik, işte birlik sağlanmadıkça ilim bağımsızlığı kazanılamaz."*  
+> — **İsmail Gaspıralı**
 
 ---
 
@@ -362,6 +434,12 @@ Cemil Meriç bu trajediye *"Tercüme Odası Entelektüeli"* adını verir:
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
+> *"Akademi, sembolik şiddetin en acımasız uygulandığı yerdir. Hiyerarşik üstler, astlarının emeğini gasp ederken bunu bir 'eğitim süreci' kılıfına sokarlar."*  
+> — **Pierre Bourdieu, *Homo Academicus***
+
+> *"Bugünün performans toplumu bireyi öyle bir cendereye sokar ki, birey sömürüldüğünü fark etmez; yetersiz kaldığını zannederek kendi kendini tüketir ve depresyona girer."*  
+> — **Byung-Chul Han, *Yorgunluk Toplumu***
+
 ---
 
 ### XVI. Epistemolojik Körlük: Metodoloji Putu ve Feyerabend'ın İtirazı
@@ -371,10 +449,8 @@ Akademi, düşünceyi sadece kendi onayladığı dar şablonlara hapseder; biçi
 > *"Bilim tarihi göstermektedir ki, insanlığın en büyük sıçramaları ve devrimci keşifleri; yerleşik yöntem kuralları bilerek veya sezgisel olarak çiğnendiğinde yapılmıştır. Kurallara harfiyen uyan bir bilim, bürokratik bir ayinden başka bir şey değildir. Tek evrensel ilke vardır: Her şey uyar (Anything goes)!"*  
 > — **Paul Feyerabend, *Against Method***
 
-Gaston Bachelard ise *Bilimsel Zihnin Oluşumu* eserinde en büyük epistemolojik engelin kurumsal dogmalar olduğunu vurgular:
-
 > *"Hakiki bilim insanı, daha önce öğrenmiş olduğu şeyleri unutabilme ve amfilerin tescil ettiği kesinlikleri yıkabilme cesaretine sahip olandır. Kurumsal kesinlik, düşüncenin mezar taşıdır."*  
-> — **Gaston Bachelard**
+> — **Gaston Bachelard, *Bilimsel Zihnin Oluşumu***
 
 ---
 
@@ -383,12 +459,15 @@ Gaston Bachelard ise *Bilimsel Zihnin Oluşumu* eserinde en büyük epistemoloji
 Nassim Nicholas Taleb'in *Skin in the Game* (Derini Masaya Koymak) kuramı; amfi akademisyenliğinin ahlaki çöküşünü en çıplak haliyle açıklar:
 
 > *"Bir teoriyi ortaya atan, ahkâm kesen ama o teorinin çöküşünden zerre kadar maddi veya manevi zarar görmeyen (no skin in the game) akademisyenin fikirleri fildişi kulenin boş gevezeliğidir. Gerçek hakikat; sanayide motor tasarlayan, tarlada tohum eken, bilgisayarında çalışan kod yazan ve hatasının bedelini bizzat ödeyen sahici üreticinindir."*  
+> — **Nassim Nicholas Taleb, *Skin in the Game***
+
+> *"Bana ne düşündüğünü söyleme, neye yatırım yaptığını ve hangi riski aldığını göster. Bedel ödemeyen adamın fikri değersizdir."*  
 > — **Nassim Nicholas Taleb**
 
 Paulo Freire ise *Ezilenlerin Pedagojisi* kitabında ezberci eğitim düzenini "Bankacı Eğitim Modeli" olarak niteler:
 
 > *"Hoca dolduran, öğrenci ise içine içi boş kelimelerin yatırıldığı pasif bir banka hesabıdır. Bu pedagoji insanı özgürleştirmez; onu sisteme uysal bir seyirci haline getirir."*  
-> — **Paulo Freire**
+> — **Paulo Freire, *Ezilenlerin Pedagojisi***
 
 ---
 
@@ -397,9 +476,7 @@ Paulo Freire ise *Ezilenlerin Pedagojisi* kitabında ezberci eğitim düzenini "
 Hannah Arendt'in *Eichmann Kudüs'te* eserinde geliştirdiği "Kötülüğün Sıradanlığı" (Banality of Evil) kavramı, modern amfilerdeki vicdan felcini resmeder:
 
 > *"Kötülük her zaman canavarlar tarafından işlenmez; çoğu zaman sadece yönetmeliklere harfiyen uyan, kendi aklıyla düşünmeyi, sorgulamayı ve vicdanının sesini dinlemeyi bırakmış sıradan memurların ellerinde sıradanlaşır."*  
-> — **Hannah Arendt**
-
-Noam Chomsky ve Edward Said, entelektüelin bu bürokratik çarkta memurlaştırılmasını şu tarihi ikazlarla teşhir ederler:
+> — **Hannah Arendt, *Eichmann Kudüs'te***
 
 > *"Entelektüelin birinci görevi, hakikati iktidarın yüzüne haykırmak ve yalanları ifşa etmektir. Unvan peşinde koşan, bakanlık onaylarına ve kürsü konforuna teslim olan akademisyen entelektüel değil; statükonun kâtibidir."*  
 > — **Noam Chomsky & Edward Said**
@@ -414,6 +491,9 @@ Byung-Chul Han (*Psikopolitika*) ve Michel Foucault (*Hapishanenin Doğuşu*); s
 2. **KYK Tamponu ve Harçlık Avuntusu:** Genç dimağları barınma ve temel geçim kaygısıyla meşgul ederek sorgulama, araştırma ve isyan etme mecalini tüketme mekanizması.
 3. **Ek Madde 1 & Yatay Geçiş Serabı:** Bir amfinin cehenneminden diğer amfinin arafına kaçmayı "kurtuluş" gibi sunan sahte bir coğrafi rotasyon.
 4. **Periyodik Öğrenci Afları:** Sistemin kendi iflasını itiraf etmek yerine; her seçim döneminde aftan medet umduran ve gençliği devlete bağımlı kılan kronik af uyuşturucusu.
+
+> *"İnsanları zorbalıkla değil; onlara sahte meşguliyetler, küçük avuntular ve bürokratik labirentler sunarak köleleştirirsiniz."*  
+> — **Aldous Huxley, *Cesur Yeni Dünya***
 
 ---
 
@@ -444,6 +524,12 @@ graph TD
 * **"El Almak" ve Tezgâhta Pişmek:** Ahilikte bilgi kağıt parçasıyla değil, ustanın yanında bizzat talaş yutarak, demir döverek, devre kurarak aktarılırdı.
 * **Pabucu Dama Atılmak (Liyakat Denetimi):** Kusurlu, hileli veya çürük mal üreten ustanın pabucu dama atılır, meslekten men edilirdi. Oysa bugün amfilerde 30 yıldır tek bir satır özgün kod yazmamış veya cihaz üretmemiş profesörler ömür boyu dokunulmazlık zırhıyla korunmaktadır.
 
+> *"Hak ile sabır dileyip bize gelen bizdendir; akıl ve ahlak ile çalışıp bizi geçen bizdendir."*  
+> — **Ahi Evran-ı Velî**
+
+> *"İnsanı yaşat ki devlet yaşasın. Talebeye unvan değil, hüner ve vicdan kazandır."*  
+> — **Şeyh Edebali**
+
 ---
 
 ### XXI. İstikbal Göklerdedir: Amfilerden Sonsuz Kızıl Elma Ufkuna
@@ -453,6 +539,15 @@ graph TD
 </p>
 
 Hakiki ilim, amfilerin mermer duvarlarına kurban edilemez. Gazi Mustafa Kemal Atatürk'ün *"İstikbal göklerdedir"* şiarı; Türk gençliğinin amfi vesayetini yırtıp semalara, uzaya ve bağımsız yüksek teknolojiye yürümesini emreder. Amfiler yerinde sayanların, gökler ise sınır tanımayan hür idraklerindir.
+
+> *"İstikbal göklerdedir; çünkü göklerini koruyamayan milletler, yarınlarından asla emin olamazlar."*  
+> — **Gazi Mustafa Kemal Atatürk**
+
+> *"Biz tayyare yapamayız diyenler, kendi acizliklerini bu millete pranga yapanlardır. Ben yaptım, uçurdum ve bu millet daha iyisini yapacaktır."*  
+> — **Vecihi Hürkuş**
+
+> *"Avrupa'dan, Amerika'dan lisans ve icazet alıp montajcılık yapmak sanayi değildir. Kendi tayyaremizi kendi tezgâhımızda yapmadıkça hür olamayız."*  
+> — **Nuri Demirağ**
 
 ---
 
@@ -485,7 +580,13 @@ Hakiki ilim, amfilerin mermer duvarlarına kurban edilemez. Gazi Mustafa Kemal A
   <img src="./assets/milli-teknoloji-agora.jpg" alt="Milli Teknoloji Hamlesi ve Yapay Zekâ Mühendisliği Laboratuvarı" width="100%" style="border-radius: 10px; margin: 15px 0;">
 </p>
 
-21. yüzyıl Türk mühendisi ve araştırmacısı; amfilerin sararmış notlarına mahkûm değildir. Milli Teknoloji Hamlesi'nin otonom ruhuyla KAAN, Kızılelma, Bayraktar TB3, TÜRKSAT ve Türkçe LLM modelleri yerli hangarlarda, sahada ve amfisiz tezgâhlarda tasarlanmaktadır. 
+21. yüzyıl Türk mühendisi ve araştırmacısı; amfilerin sararmış notlarına mahkûm değildir. Milli Teknoloji Hamlesi'nin otonom ruhuyla KAAN, Kızılelma, Bayraktar TB3, TÜRKSAT ve Türkçe LLM modelleri yerli hangarlarda, sahada ve amfisiz tezgâhlarda tasarlanmaktadır.
+
+> *"Milli savunma ve yüksek teknoloji amfilerin teorik kürsülerinden değil; sahada, çamurda, hangarda gecesini gündüzüne katan mühendislerin tezgâhından doğar."*  
+> — **Selçuk Bayraktar**
+
+> *"Bir milletin asıl gücü; tankı, topu, parası değil; inançlı ve hür düşünen milli evlatlarıdır."*  
+> — **Prof. Dr. Necmettin Erbakan**
 
 ---
 
@@ -495,6 +596,12 @@ Hakiki ilim, amfilerin mermer duvarlarına kurban edilemez. Gazi Mustafa Kemal A
 1. **Kara Kutuyu Aç:** Sana sunulan donanımı veya yazılımı sadece tüketici olarak kullanma; sök, devre şemasını çıkar, sinyallerini osiloskopla dinle ve çalışma prensibini çöz.
 2. **Kodu ve Eseri Konuştur:** Steven Levy'nin *Hackers* kitabında formüle ettiği gibi: *"Bürokrasiye değil, çalışan koda ve esere güven."*
 3. **Milli Özgür Yazılım:** Açık kaynaklı Linux çekirdeği, açık derleyiciler (LLVM/GCC) ve yerli siber güvenlik araçlarıyla küresel yazılım tekelini kır.
+
+> *"Bilgisayara ve teknolojiye erişim sınırsız ve eksiksiz olmalıdır. Otoriteye daima şüpheyle yaklaşın ve merkezsizleşmeyi teşvik edin."*  
+> — **Steven Levy, *Hackers: Heroes of the Computer Revolution***
+
+> *"Akıllıca bir soru sorarsan akıllıca bir cevap alırsın. Açık kaynakta liyakat unvanda değil, gönderdiğin yamanın (patch) kalitesindedir."*  
+> — **Eric S. Raymond, *Katedral ve Pazar***
 
 ---
 
@@ -508,6 +615,9 @@ Akademik tekel sadece yazılımda değil, laboratuvar donanımlarında da kırı
 * **Açık Kaynak Donanım (OSHW):** Arduino, Raspberry Pi, ESP32 ve açık mimarili RISC-V çipleriyle tek bir genç kendi işlemci mimarisini tasarlayabilmektedir.
 * **Masaüstü Fabrikasyon:** 3D yazıcılar ve masaüstü CNC tezgahlarıyla 50 yıl önce koca bir enstitünün yapamadığı mekanik prototiplemeyi kendi odasında tamamlamaktadır.
 * **Açık Bilimsel Cihazlar:** Kendi açık mikroskobunu (Foldscope), elektroensefalografi (OpenBCI) cihazını ve spektrometresini inşa ederek üniversitenin kilitli laboratuvarlarına muhtaç olmadan deneysel bilim yapmaktadır.
+
+> *"Geleceğin fabrikası ve araştırma enstitüsü devasa kampüsler değil; herkesin evindeki masaüstü fabrikasyon tezgâhlarıdır."*  
+> — **Prof. Neil Gershenfeld, *MIT Center for Bits and Atoms***
 
 ---
 
@@ -541,6 +651,12 @@ graph LR
 
 * **1 Kişilik Enstitü Kapasitesi:** Bugün tek bir bağımsız genç, yapay zekâ asistanlarıyla birlikte eskiden 20 kişilik bir akademik kürsünün 6 ayda yaptığı literatür taramasını, matematiksel modellemesini ve prototip kodlamasını 2 günde bitirebilmektedir.
 * **Hocanın Slaytına Karşı Sınırsız Sokratik Hoca:** Anlamadığın bir kuantum mekaniği denklemini veya diferansiyel geometri teoremini sana 100 farklı analojiyle bıkmadan anlatan, asla kibirlenmeyen ve notla tehdit etmeyen küresel bir zekâ ağı elinin altındadır.
+
+> *"Sibernetik, insan zihni ile makine zekâsının ortak bir geri besleme döngüsünde birleşmesidir. Bilgiyi hapseden duvarlar bu ağ karşısında duramaz."*  
+> — **Norbert Wiener, *Cybernetics***
+
+> *"Makineler düşünebilir mi sorusu, denizaltılar yüzebilir mi sorusu kadar anlamsızdır. Önemli olan insanın o zekâyı kullanarak sınırlarını nasıl aştığıdır."*  
+> — **Edsger W. Dijkstra**
 
 ---
 
@@ -592,6 +708,15 @@ graph LR
 
 > *"Kendi aklını kullanma cesaretini göster! (Sapere Aude!) İnsanın kendi suçu ile düşmüş olduğu bir ergin olmama durumundan kurtulmasıdır aydınlanma."*  
 > — **Immanuel Kant**
+
+> *"Kelimeleri rütbelerine göre kabul eden bir cemiyette, hakikat nasıl nefes alsın?"*  
+> — **Cemil Meriç**
+
+> *"Sorgulanmayan bir hayat yaşanmaya değmez."*  
+> — **Sokrates**
+
+> *"Lafı uzatmak, söyleyecek sözü olmayanların zırhıdır. Kodu gösterin (Talk is cheap. Show me the code)."*  
+> — **Linus Torvalds**
 
 ---
 
@@ -691,7 +816,7 @@ flowchart TD
 
 ### XXXIV. Felsefi, Sosyolojik ve Bilimsel Literatür Kaynakçası
 
-- **Cemil Meriç** — *Bu Ülke* / *Umrandan Uygarlığa* / *Kırk Ambar*, İletişim Yayınları.
+- **Cemil Meriç** — *Bu Ülke* / *Umrandan Uygarlığa* / *Kırk Ambar* / *Mağaradakiler*, İletişim Yayınları.
 - **Nurettin Topçu** — *Türkiye'nin Maarif Davası* / *İsyan Ahlâkı*, Dergâh Yayınları.
 - **Prof. Dr. Oktay Sinanoğlu** — *Büyük Uyanış* / *Hedef Türkiye* / *Bye-Bye Türkçe*, Otopsi Yayınları.
 - **Dr. Ali Şeriati** — *Kendini Devrimci Yetiştirmek* / *Medeniyet ve Modernizm*, Fecr Yayınevi.
@@ -700,8 +825,11 @@ flowchart TD
 - **Prof. Dr. Aziz Sancar** — *Nobel Otobiyografisi ve Bilimsel Çözümlemeler*, TÜBİTAK Yayınları.
 - **Ord. Prof. Dr. Cahit Arf** — *Matematik ve Hayat Üzerine Konuşmalar*, ODTÜ Yayıncılık.
 - **El-Cezeri** — *Kitāb fī ma'rifat al-ḥiyal al-handasiyya (Olağanüstü Mekanik Araçların Bilgisi)*, TTK.
+- **Ebû Reyhan el-Bîrûnî** — *Kitâb et-Tahdîd* & *el-Âsârü'l-Bâkıye*.
 - **Kâtip Çelebi** — *Mîzânü'l-Hakk fî İhtiyâri'l-Ehakk*, MEB Yayınları.
 - **Ahi Evran** — *Fütüvvetnâme ve Ahilik Öğretisi*.
+- **İbn Haldun** — *Mukaddime*, Dergâh Yayınları.
+- **Farabi** — *İhsâ'ül-Ulûm (İlimlerin Sayımı)*.
 - **John P. A. Ioannidis** — *Why Most Published Research Findings Are False*, PLoS Medicine, 2005.
 - **Nature Raporları** — *1,500 scientists lift the lid on reproducibility (2016)* & *Global PhD Survey on Mental Health and Bullying (2019)*.
 - **Alan Sokal** — *Transgressing the Boundaries: Towards a Transformative Hermeneutics of Quantum Gravity*, Social Text, 1996.
@@ -723,11 +851,12 @@ flowchart TD
 - **Immanuel Kant** — *Aydınlanma Nedir? Sorusuna Yanıt*, Felsefe Yazıları.
 - **Friedrich Nietzsche** — *Eğitim Kurumlarımızın Geleceği Üzerine*, Say Yayınları.
 - **Bertrand Russell** — *Education and the Social Order (Eğitim ve Toplumsal Düzen)*.
-- **Byung-Chul Han** — *Psikopolitika: Neoliberalizm ve Yeni İktidar Teknikleri*, Metis Yayınları.
+- **Byung-Chul Han** — *Psikopolitika* & *Yorgunluk Toplumu*, Metis Yayınları.
 - **Jacques Derrida** — *Koşulsuz Üniversite (L'université sans condition)*, Galileo.
 - **Edward Said** — *Entelektüel: Sürgün, Marjinal, Yabancı*, Ayrıntı Yayınları.
 - **Noam Chomsky** — *Entelektüellerin Sorumluluğu*, Fol Kitap.
 - **Aaron Swartz** — *Guerilla Open Access Manifesto*, Eataly, 2008.
+- **Norbert Wiener** — *Cybernetics: Or Control and Communication in the Animal and the Machine*.
 - **Max Weber** — *Bürokrasi ve Otorite / Sosyoloji Yazıları*.
 - **Karl Marx** — *1844 İktisadi ve Felsefi Elyazmaları*.
 - **Prof. Dr. A. M. Celal Şengör** — *Dahi Diktatör & Bilgiyle Sohbet*.
