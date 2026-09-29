@@ -7,6 +7,7 @@
 <p align="center">
   <a href="./MANIFESTO.md"><img src="https://img.shields.io/badge/Manifesto-İdrakin%20Deli%20Gömleği-red?style=for-the-badge" alt="Manifesto"></a>
   <a href="./index.html"><img src="https://img.shields.io/badge/Web%20Reader-Canlı%20Okuma%20Arayüzü-1f2937?style=for-the-badge&logo=githubpages&logoColor=white" alt="Web Reader"></a>
+  <a href="./ACTION_PLAN.md"><img src="https://img.shields.io/badge/Eylem%20Planı-Otonom%20İnşa%20Kılavuzu-cyan?style=for-the-badge" alt="Eylem Planı"></a>
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg?style=for-the-badge" alt="CC BY-NC-SA 4.0"></a>
   <a href="./LITERATURE.md"><img src="https://img.shields.io/badge/Paradigma-Milli%20%C4%B0cazetsiz%20%C3%9Cretim-emerald?style=for-the-badge" alt="Paradigma"></a>
 </p>
